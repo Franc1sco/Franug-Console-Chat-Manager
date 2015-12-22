@@ -1,4 +1,4 @@
-﻿"Console_T"
+﻿"Console_C"
 {
 	"The map message to replace"
 	{

@@ -13,7 +13,7 @@ new bool:nofile;
 
 public Plugin:myinfo = 
 {
-	name = "SM Console Chat Control",
+	name = "SM Console Chat Manager",
 	author = "Franc1sco Steam: franug",
 	description = "",
 	version = VERSION,
@@ -22,7 +22,7 @@ public Plugin:myinfo =
 
 public OnPluginStart()
 {
-	CreateConVar("sm_consolechatcontrol_version", VERSION, "", FCVAR_PLUGIN|FCVAR_SPONLY|FCVAR_REPLICATED|FCVAR_NOTIFY);
+	CreateConVar("sm_consolechatmanager_version", VERSION, "", FCVAR_PLUGIN|FCVAR_SPONLY|FCVAR_REPLICATED|FCVAR_NOTIFY);
 	
 	RegConsoleCmd("say", SayConsole);
 }
@@ -38,7 +38,7 @@ public ReadT()
 	new String:Path[512];
 	new String:map[64];
 	GetCurrentMap(map, sizeof(map));
-	BuildPath(Path_SM, Path, sizeof(Path), "configs/console_control/%s.txt", map);
+	BuildPath(Path_SM, Path, sizeof(Path), "configs/franug_consolechatmanager/%s.txt", map);
 	if(!FileExists(Path))
 	{	
 		nofile = true;
