@@ -66,13 +66,11 @@ public Action:SayConsole(client, args)
 		decl String:buffer[255];
 		GetCmdArgString(buffer,sizeof(buffer));
 		StripQuotes(buffer);
-		//PrintToChatAll("test1");
 		KvRewind(kv);
 		if(!KvJumpToKey(kv, buffer)) return Plugin_Continue;
-		//PrintToChatAll("test2");
 		for(new i = 1 ; i < MaxClients; i++)
 		{
-			if(IsValidPlayer(i))
+			if(IsClientInGame(i))
 			{
 				new String: sText[256];
 				new String: sCountryTag[3];
@@ -93,12 +91,4 @@ public Action:SayConsole(client, args)
 		return Plugin_Stop;
 	}  
 	return Plugin_Continue;
-}
-
-stock bool:IsValidPlayer(client, bool:alive = false){
-    if(client >= 1 && client <= MaxClients && IsClientConnected(client) && IsClientInGame(client) && (alive == false || IsPlayerAlive(client))){
-        return true;
-    }
-
-    return false;
 }
