@@ -58,7 +58,7 @@ public Action SayConsole(int client, int args)
 		if(!KvJumpToKey(kv, buffer))
 		{
 			KvJumpToKey(kv, buffer, true);
-			Format(buffer, sizeof(buffer), "Console: %s", buffer);
+			Format(buffer, sizeof(buffer), "{darkred}Console: %s", buffer);
 			KvSetString(kv, "default", buffer);
 			KvRewind(kv);
 			KeyValuesToFile(kv, Path);
