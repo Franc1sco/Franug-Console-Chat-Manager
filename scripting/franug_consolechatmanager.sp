@@ -3,15 +3,16 @@
 #include <sourcemod>
 #include <sdktools>
 #include <multicolors>
-#include <cstrike>
 #include <geoip>
 
-#define VERSION "1.0"
+#pragma newdecls required // let's go new syntax! 
 
-new Handle:kv;
-new bool:nofile;
+#define VERSION "1.1"
 
-public Plugin:myinfo = 
+Handle kv;
+char Path[PLATFORM_MAX_PATH];
+
+public Plugin myinfo = 
 {
 	name = "SM Console Chat Manager",
 	author = "Franc1sco Steam: franug",
@@ -20,73 +21,67 @@ public Plugin:myinfo =
 	url = "http://steamcommunity.com/id/franug"
 };
 
-public OnPluginStart()
+public void OnPluginStart()
 {
 	CreateConVar("sm_consolechatmanager_version", VERSION, "", FCVAR_PLUGIN|FCVAR_SPONLY|FCVAR_REPLICATED|FCVAR_NOTIFY);
 	
 	RegConsoleCmd("say", SayConsole);
+	
 }
 
-public OnMapStart()
+public void OnMapStart()
 {
 	ReadT();
 	PrecacheSound("common/talk.wav", false);
 }
 
-public ReadT()
+public void ReadT()
 {
-	new String:Path[512];
-	new String:map[64];
+	char map[64];
 	GetCurrentMap(map, sizeof(map));
 	BuildPath(Path_SM, Path, sizeof(Path), "configs/franug_consolechatmanager/%s.txt", map);
-	if(!FileExists(Path))
-	{	
-		nofile = true;
-		LogMessage("Config file not found: %s", Path);
-		return;
-	}
-	nofile = false;
-	
 	
 	kv = CreateKeyValues("Console_C");
-	FileToKeyValues(kv, Path);
-	if (!KvGotoFirstSubKey(kv))
-	{
-		LogMessage("Config file is corrupted: %s", Path);
-		nofile = true;
-		return;
-	}
-	nofile = false;
+	
+	if(!FileExists(Path)) KeyValuesToFile(kv, Path);
+	else FileToKeyValues(kv, Path);
 }
 
-public Action:SayConsole(client, args)
+public Action SayConsole(int client, int args)
 {
-	if (client==0 && !nofile)
+	if (client==0)
 	{
-		decl String:buffer[255];
+		char buffer[255];
 		GetCmdArgString(buffer,sizeof(buffer));
 		StripQuotes(buffer);
-		KvRewind(kv);
-		if(!KvJumpToKey(kv, buffer)) return Plugin_Continue;
-		for(new i = 1 ; i < MaxClients; i++)
+		
+		if(!KvJumpToKey(kv, buffer))
 		{
+			KvJumpToKey(kv, buffer, true);
+			Format(buffer, sizeof(buffer), "Console: %s", buffer);
+			KvSetString(kv, "default", buffer);
+			KvRewind(kv);
+			KeyValuesToFile(kv, Path);
+			return Plugin_Continue;
+		}
+		
+		char sText[256];
+		char sCountryTag[3];
+		char sIP[26];
+		
+		for(int i = 1 ; i < MaxClients; i++)
 			if(IsClientInGame(i))
 			{
-				new String: sText[256];
-				new String: sCountryTag[3];
-				new String: sIP[26];
 				GetClientIP(i, sIP, sizeof(sIP));
 				GeoipCode2(sIP, sCountryTag);
 				KvGetString(kv, sCountryTag, sText, sizeof(sText), "LANGMISSING");
 
-				if (StrEqual(sText, "LANGMISSING"))
-				{
-					KvGetString(kv, "default", sText, sizeof(sText));
-				}
+				if (StrEqual(sText, "LANGMISSING")) KvGetString(kv, "default", sText, sizeof(sText));
 				
 				CPrintToChat(i, sText);
 			}
-		}
+
+		KvRewind(kv);
 		EmitSoundToAll("common/talk.wav");
 		return Plugin_Stop;
 	}  
