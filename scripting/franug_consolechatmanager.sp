@@ -7,7 +7,7 @@
 
 #pragma newdecls required // let's go new syntax! 
 
-#define VERSION "1.1"
+#define VERSION "1.2"
 
 Handle kv;
 char Path[PLATFORM_MAX_PATH];
@@ -69,6 +69,14 @@ public Action SayConsole(int client, int args)
 		char sCountryTag[3];
 		char sIP[26];
 		
+		bool blocked = (KvGetNum(kv, "blocked", 0)?true:false);
+		
+		if(blocked)
+		{
+			KvRewind(kv);
+			return Plugin_Stop;
+		}
+		
 		for(int i = 1 ; i < MaxClients; i++)
 			if(IsClientInGame(i))
 			{
@@ -80,6 +88,21 @@ public Action SayConsole(int client, int args)
 				
 				CPrintToChat(i, sText);
 			}
+			
+		if(KvJumpToKey(kv, "hinttext"))
+		{
+			for(int i = 1 ; i < MaxClients; i++)
+				if(IsClientInGame(i))
+				{
+					GetClientIP(i, sIP, sizeof(sIP));
+					GeoipCode2(sIP, sCountryTag);
+					KvGetString(kv, sCountryTag, sText, sizeof(sText), "LANGMISSING");
+
+					if (StrEqual(sText, "LANGMISSING")) KvGetString(kv, "default", sText, sizeof(sText));
+				
+					PrintHintText(i, sText);
+				}
+		}
 
 		KvRewind(kv);
 		EmitSoundToAll("common/talk.wav");
