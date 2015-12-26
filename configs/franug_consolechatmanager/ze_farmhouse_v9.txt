@@ -1,0 +1,35 @@
+"Console_C"
+{
+	"*** YOU ARE PLAYING ON EASY DIFFICULTY!! NOOBS!! ***"
+	{
+		"default"		"{darkred}Console: *** YOU ARE PLAYING ON EASY DIFFICULTY!! NOOBS!! ***"
+	}
+	"*** For sugestions and bug reports or any information contact me on steam Steam Community ID --> JackBauer123 ***"
+	{
+		"default"		"{darkred}Console: *** For sugestions and bug reports or any information contact me on steam Steam Community ID --> JackBauer123 ***"
+	}
+	"*** Created by Jack Bauer ***"
+	{
+		"default"		"{darkred}Console: *** Created by Jack Bauer ***"
+	}
+	"*** Escape! ***"
+	{
+		"default"		"{darkred}Console: *** Escape! ***"
+	}
+	"*** Level B Door Opens in 25 Seconds ***"
+	{
+		"default"		"{darkred}Console: *** Level B Door Opens in 25 Seconds ***"
+	}
+	"*** Level B Door Opens in 15 Seconds ***"
+	{
+		"default"		"{darkred}Console: *** Level B Door Opens in 15 Seconds ***"
+	}
+	"*** Zombies Has Reached The Checkpoint ***"
+	{
+		"default"		"{darkred}Console: *** Zombies Has Reached The Checkpoint ***"
+	}
+	"*** Level B Door Opens in 5 Seconds ***"
+	{
+		"default"		"{darkred}Console: *** Level B Door Opens in 5 Seconds ***"
+	}
+}

@@ -1,0 +1,39 @@
+"Console_C"
+{
+	"** Door opening in 15 sec. **"
+	{
+		"default"		"{darkred}Console: ** Door opening in 15 sec. **"
+	}
+	"**Elevator leaving in 30 sec **"
+	{
+		"default"		"{darkred}Console: **Elevator leaving in 30 sec **"
+	}
+	"** Door opening in 25 sec **"
+	{
+		"default"		"{darkred}Console: ** Door opening in 25 sec **"
+	}
+	"** Door opening in 15 sec **"
+	{
+		"default"		"{darkred}Console: ** Door opening in 15 sec **"
+	}
+	"** Second door opening in 10 seconds **"
+	{
+		"default"		"{darkred}Console: ** Second door opening in 10 seconds **"
+	}
+	"** Boat leaving in 20 sec **"
+	{
+		"default"		"{darkred}Console: ** Boat leaving in 20 sec **"
+	}
+	"** Door opening in 20 sec **"
+	{
+		"default"		"{darkred}Console: ** Door opening in 20 sec **"
+	}
+	"** Final door opening in 50 sec!!! **"
+	{
+		"default"		"{darkred}Console: ** Final door opening in 50 sec!!! **"
+	}
+	"** Be ready! Zombies in bunker are coming!!! **"
+	{
+		"default"		"{darkred}Console: ** Be ready! Zombies in bunker are coming!!! **"
+	}
+}
