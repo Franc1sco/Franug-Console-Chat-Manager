@@ -90,18 +90,18 @@ public Action SayConsole(int client, int args)
 {
 	if (client==0)
 	{
-		char buffer[255], soundp[255];
+		char buffer[255], buffer2[255],soundp[255];
 		GetCmdArgString(buffer,sizeof(buffer));
 		StripQuotes(buffer);
 		
 		if(!KvJumpToKey(kv, buffer))
 		{
 			KvJumpToKey(kv, buffer, true);
-			Format(buffer, sizeof(buffer), "{darkred}Console: %s", buffer);
-			KvSetString(kv, "default", buffer);
+			Format(buffer2, sizeof(buffer2), "{darkred}Console: %s", buffer);
+			KvSetString(kv, "default", buffer2);
 			KvRewind(kv);
 			KeyValuesToFile(kv, Path);
-			return Plugin_Continue;
+			KvJumpToKey(kv, buffer);
 		}
 		
 		char sText[256];
