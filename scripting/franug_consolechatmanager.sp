@@ -4,6 +4,7 @@
 #include <sdktools>
 #include <multicolors>
 #include <geoip>
+#include <emitsoundany>
 
 #pragma newdecls required // let's go new syntax! 
 
@@ -11,6 +12,8 @@
 
 Handle kv;
 char Path[PLATFORM_MAX_PATH];
+
+bool csgo;
 
 public Plugin myinfo = 
 {
@@ -29,10 +32,19 @@ public void OnPluginStart()
 	
 }
 
+public APLRes AskPluginLoad2(Handle myself, bool late, char [] error, int err_max)
+{
+	if(GetEngineVersion() == Engine_CSGO)
+	{
+		csgo = true;
+	} else csgo = false;
+	
+	return APLRes_Success;
+}
+
 public void OnMapStart()
 {
 	ReadT();
-	PrecacheSound("common/talk.wav", false);
 }
 
 public void ReadT()
@@ -45,13 +57,40 @@ public void ReadT()
 	
 	if(!FileExists(Path)) KeyValuesToFile(kv, Path);
 	else FileToKeyValues(kv, Path);
+	
+	CheckSounds();
+}
+
+void CheckSounds()
+{
+	PrecacheSound("common/talk.wav", false);
+	
+	char buffer[255];
+	if(KvGotoFirstSubKey(kv))
+	{
+		do
+		{
+			KvGetString(kv, "sound", buffer, 64, "default");
+			if(!StrEqual(buffer, "default"))
+			{
+				if(!csgo) PrecacheSound(buffer);
+				else PrecacheSoundAny(buffer);
+				
+				Format(buffer, 255, "sound/%s", buffer);
+				AddFileToDownloadsTable(buffer);
+			}
+			
+		} while (KvGotoNextKey(kv));
+	}
+	
+	KvRewind(kv);
 }
 
 public Action SayConsole(int client, int args)
 {
 	if (client==0)
 	{
-		char buffer[255];
+		char buffer[255], soundp[255];
 		GetCmdArgString(buffer,sizeof(buffer));
 		StripQuotes(buffer);
 		
@@ -77,6 +116,10 @@ public Action SayConsole(int client, int args)
 			return Plugin_Stop;
 		}
 		
+		KvGetString(kv, soundp, sText, sizeof(soundp), "default");
+		if(StrEqual(soundp, "default"))
+			Format(soundp, 255, "common/talk.wav");
+		
 		for(int i = 1 ; i < MaxClients; i++)
 			if(IsClientInGame(i))
 			{
@@ -89,6 +132,12 @@ public Action SayConsole(int client, int args)
 				CPrintToChat(i, sText);
 			}
 			
+		if(!StrEqual(soundp, "none"))
+		{
+			if(!csgo || StrEqual(soundp, "default")) EmitSoundToAll(soundp);
+			else EmitSoundToAllAny(soundp);
+		}
+		
 		if(KvJumpToKey(kv, "hinttext"))
 		{
 			for(int i = 1 ; i < MaxClients; i++)
@@ -105,7 +154,6 @@ public Action SayConsole(int client, int args)
 		}
 
 		KvRewind(kv);
-		EmitSoundToAll("common/talk.wav");
 		return Plugin_Stop;
 	}  
 	return Plugin_Continue;
