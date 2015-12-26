@@ -1,0 +1,115 @@
+"Console_C"
+{
+	">>> WARMUP ROUND <<<"
+	{
+		"default"		"{darkred}Console: >>> WARMUP ROUND <<<"
+	}
+	">>*** MAP BY STK ***<<"
+	{
+		"default"		"{darkred}Console: >>*** MAP BY STK ***<<"
+	}
+	"** Map Ported By DaShiJie **"
+	{
+		"default"		"{darkred}Console: ** Map Ported By DaShiJie **"
+	}
+	"** The doors will open in 20 seconds **"
+	{
+		"default"		"{darkred}Console: ** The doors will open in 20 seconds **"
+	}
+	"** 5 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 5 seconds left **"
+	}
+	"** FALL BACK **"
+	{
+		"default"		"{darkred}Console: ** FALL BACK **"
+	}
+	"** LEVEL 1 **"
+	{
+		"default"		"{darkred}Console: ** LEVEL 1 **"
+	}
+	"** A player has picked up Fire Staff **"
+	{
+		"default"		"{darkred}Console: ** A player has picked up Fire Staff **"
+	}
+	"** A player has picked up Quicksand Staff **"
+	{
+		"default"		"{darkred}Console: ** A player has picked up Quicksand Staff **"
+	}
+	"** A player has picked up Tornado Staff **"
+	{
+		"default"		"{darkred}Console: ** A player has picked up Tornado Staff **"
+	}
+	"** A player has picked up Earth Staff **"
+	{
+		"default"		"{darkred}Console: ** A player has picked up Earth Staff **"
+	}
+	"** The door will open in 25 seconds **"
+	{
+		"default"		"{darkred}Console: ** The door will open in 25 seconds **"
+	}
+	"** A player has picked up Heal Staff **"
+	{
+		"default"		"{darkred}Console: ** A player has picked up Heal Staff **"
+	}
+	"** The doors will open in 15 seconds **"
+	{
+		"default"		"{darkred}Console: ** The doors will open in 15 seconds **"
+	}
+	"** Bomb explodes in 10 seconds **"
+	{
+		"default"		"{darkred}Console: ** Bomb explodes in 10 seconds **"
+	}
+	"** Hold zombies for 15 seconds **"
+	{
+		"default"		"{darkred}Console: ** Hold zombies for 15 seconds **"
+	}
+	"*** YOU WON STAGE 1 ***"
+	{
+		"default"		"{darkred}Console: *** YOU WON STAGE 1 ***"
+	}
+	"** LEVEL 2 **"
+	{
+		"default"		"{darkred}Console: ** LEVEL 2 **"
+	}
+	"** A player has picked up SandStorm Staff **"
+	{
+		"default"		"{darkred}Console: ** A player has picked up SandStorm Staff **"
+	}
+	"** Teleport will open in 15 seconds **"
+	{
+		"default"		"{darkred}Console: ** Teleport will open in 15 seconds **"
+	}
+	"** Kill him or he kills you!!! **"
+	{
+		"default"		"{darkred}Console: ** Kill him or he kills you!!! **"
+	}
+	"*** Grenades do more damage. ***"
+	{
+		"default"		"{darkred}Console: *** Grenades do more damage. ***"
+	}
+	"*** He's dead. Run. ***"
+	{
+		"default"		"{darkred}Console: *** He's dead. Run. ***"
+	}
+	"** The doors will open on 15 seconds **"
+	{
+		"default"		"{darkred}Console: ** The doors will open on 15 seconds **"
+	}
+	"** Press on the 4 obelisks to open the door **"
+	{
+		"default"		"{darkred}Console: ** Press on the 4 obelisks to open the door **"
+	}
+	"** The doors will open in 10 seconds **"
+	{
+		"default"		"{darkred}Console: ** The doors will open in 10 seconds **"
+	}
+	"** Elevator leaves in 5 seconds **"
+	{
+		"default"		"{darkred}Console: ** Elevator leaves in 5 seconds **"
+	}
+	"** YOU WON STAGE 2 **"
+	{
+		"default"		"{darkred}Console: ** YOU WON STAGE 2 **"
+	}
+}

@@ -1,0 +1,183 @@
+"Console_C"
+{
+	">>LEVEL: RAVINE<<"
+	{
+		"default"		"{darkred}Console: >>LEVEL: RAVINE<<"
+	}
+	">>PLAYER HAS PICKED UP FIRE<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP FIRE<<"
+	}
+	">>PLAYER HAS PICKED UP ICE<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP ICE<<"
+	}
+	">>PLAYER HAS PICKED UP HEAL<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP HEAL<<"
+	}
+	">>PLAYER HAS PICKED UP GRAVITY<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP GRAVITY<<"
+	}
+	">>PLAYER HAS PICKED UP 6 MINES<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP 6 MINES<<"
+	}
+	"***Leaf leaving in 15 seconds***"
+	{
+		"default"		"{darkred}Console: ***Leaf leaving in 15 seconds***"
+	}
+	">>PLAYER HAS PICKED UP EARTH<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP EARTH<<"
+	}
+	"***HOLD FOR 30 seconds***"
+	{
+		"default"		"{darkred}Console: ***HOLD FOR 30 seconds***"
+	}
+	"***5 more seconds***"
+	{
+		"default"		"{darkred}Console: ***5 more seconds***"
+	}
+	"***RUUUUN!!!***"
+	{
+		"default"		"{darkred}Console: ***RUUUUN!!!***"
+	}
+	"***DOOR IS OPEN! RUUUN!***"
+	{
+		"default"		"{darkred}Console: ***DOOR IS OPEN! RUUUN!***"
+	}
+	"ITS THE GROKE SHOOT IT!!!!!!!!!!"
+	{
+		"default"		"{darkred}Console: ITS THE GROKE SHOOT IT!!!!!!!!!!"
+	}
+	"THE GROKE IS DEAD"
+	{
+		"default"		"{darkred}Console: THE GROKE IS DEAD"
+	}
+	"ESCAPE BY THE LADDER"
+	{
+		"default"		"{darkred}Console: ESCAPE BY THE LADDER"
+	}
+	"The fly is leaving in 10 seconds"
+	{
+		"default"		"{darkred}Console: The fly is leaving in 10 seconds"
+	}
+	"LEVEL COMPLETED!!"
+	{
+		"default"		"{darkred}Console: LEVEL COMPLETED!!"
+	}
+	">>LEVEL: TV<<"
+	{
+		"default"		"{darkred}Console: >>LEVEL: TV<<"
+	}
+	"***ELEVATOR opening IN 30 seconds***"
+	{
+		"default"		"{darkred}Console: ***ELEVATOR opening IN 30 seconds***"
+	}
+	"***ELEVATOR LEAVING IN 10 seconds***"
+	{
+		"default"		"{darkred}Console: ***ELEVATOR LEAVING IN 10 seconds***"
+	}
+	"Fan stopping in 30 seconds"
+	{
+		"default"		"{darkred}Console: Fan stopping in 30 seconds"
+	}
+	"BREAK THE HEART OF THE TV"
+	{
+		"default"		"{darkred}Console: BREAK THE HEART OF THE TV"
+	}
+	"Web leaving in 20 seconds"
+	{
+		"default"		"{darkred}Console: Web leaving in 20 seconds"
+	}
+	"TV HEART IS COLLAPSING KEEP SHOOTING!!!!!!!!!!"
+	{
+		"default"		"{darkred}Console: TV HEART IS COLLAPSING KEEP SHOOTING!!!!!!!!!!"
+	}
+	"The fly is leaving in 18 seconds"
+	{
+		"default"		"{darkred}Console: The fly is leaving in 18 seconds"
+	}
+	">>LEVEL: HEAVEN<<"
+	{
+		"default"		"{darkred}Console: >>LEVEL: HEAVEN<<"
+	}
+	"***Butterfly leaving in 20 seconds***"
+	{
+		"default"		"{darkred}Console: ***Butterfly leaving in 20 seconds***"
+	}
+	"***Gate opening in 25 seconds***"
+	{
+		"default"		"{darkred}Console: ***Gate opening in 25 seconds***"
+	}
+	"***Gate opening in 30 seconds***"
+	{
+		"default"		"{darkred}Console: ***Gate opening in 30 seconds***"
+	}
+	"***Door opening in 30 seconds***"
+	{
+		"default"		"{darkred}Console: ***Door opening in 30 seconds***"
+	}
+	">>ALL 6 MINES USED<<"
+	{
+		"default"		"{darkred}Console: >>ALL 6 MINES USED<<"
+	}
+	"OH NO!! ITS GOD"
+	{
+		"default"		"{darkred}Console: OH NO!! ITS GOD"
+	}
+	"GOD HAS BEEN DEFEATED!!"
+	{
+		"default"		"{darkred}Console: GOD HAS BEEN DEFEATED!!"
+	}
+	"RUN TO SAFETY"
+	{
+		"default"		"{darkred}Console: RUN TO SAFETY"
+	}
+	"BUTTERFLY LEAVING IN 10 seconds"
+	{
+		"default"		"{darkred}Console: BUTTERFLY LEAVING IN 10 seconds"
+	}
+	"NEXT LEVEL EXTREME 2!!"
+	{
+		"default"		"{darkred}Console: NEXT LEVEL EXTREME 2!!"
+	}
+	">>EXTREME MOD ADDED<<"
+	{
+		"default"		"{darkred}Console: >>EXTREME MOD ADDED<<"
+	}
+	">>PLAYER HAS PICKED UP WIND<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP WIND<<"
+	}
+	"OH NO!! ITS FAT SPIDER"
+	{
+		"default"		"{darkred}Console: OH NO!! ITS FAT SPIDER"
+	}
+	"FAT SPIDER IS DEAD"
+	{
+		"default"		"{darkred}Console: FAT SPIDER IS DEAD"
+	}
+	"ESCAPE BY THE WEB"
+	{
+		"default"		"{darkred}Console: ESCAPE BY THE WEB"
+	}
+	"The fly is leaving in 30 seconds"
+	{
+		"default"		"{darkred}Console: The fly is leaving in 30 seconds"
+	}
+	"OH NO!! ITS FALLEN ANGEL"
+	{
+		"default"		"{darkred}Console: OH NO!! ITS FALLEN ANGEL"
+	}
+	"FALLEN ANGEL HAS BEEN DEFEATED!!"
+	{
+		"default"		"{darkred}Console: FALLEN ANGEL HAS BEEN DEFEATED!!"
+	}
+	"BUTTERFLY LEAVING IN 30 seconds"
+	{
+		"default"		"{darkred}Console: BUTTERFLY LEAVING IN 30 seconds"
+	}
+}

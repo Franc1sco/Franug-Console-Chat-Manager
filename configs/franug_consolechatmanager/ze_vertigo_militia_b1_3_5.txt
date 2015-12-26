@@ -1,0 +1,123 @@
+"Console_C"
+{
+	"** Map by kune **"
+	{
+		"default"		"{darkred}Console: ** Map by kune **"
+	}
+	"** Original map by Chris Auty and Andrew Aumann**"
+	{
+		"default"		"{darkred}Console: ** Original map by Chris Auty and Andrew Aumann**"
+	}
+	"** 25 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 25 seconds left **"
+	}
+	"** 20 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 20 seconds left **"
+	}
+	"** 25 seconds left *"
+	{
+		"default"		"{darkred}Console: ** 25 seconds left *"
+	}
+	"** Get on the elevator **"
+	{
+		"default"		"{darkred}Console: ** Get on the elevator **"
+	}
+	"** 5 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 5 seconds left **"
+	}
+	"** 4 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 4 seconds left **"
+	}
+	"** 3 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 3 seconds left **"
+	}
+	"** 2 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 2 seconds left **"
+	}
+	"** 1 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 1 seconds left **"
+	}
+	"** 30 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 30 seconds left **"
+	}
+	"** 10 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 10 seconds left **"
+	}
+	"** 9 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 9 seconds left **"
+	}
+	"** 8 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 8 seconds left **"
+	}
+	"** 7 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 7 seconds left **"
+	}
+	"** 10 seconds left ** "
+	{
+		"default"		"{darkred}Console: ** 10 seconds left ** "
+	}
+	"** 9 seconds left ** "
+	{
+		"default"		"{darkred}Console: ** 9 seconds left ** "
+	}
+	"** 8 seconds left ** "
+	{
+		"default"		"{darkred}Console: ** 8 seconds left ** "
+	}
+	"** 7 seconds left ** "
+	{
+		"default"		"{darkred}Console: ** 7 seconds left ** "
+	}
+	"** 5 seconds left ** "
+	{
+		"default"		"{darkred}Console: ** 5 seconds left ** "
+	}
+	"** 4 seconds left ** "
+	{
+		"default"		"{darkred}Console: ** 4 seconds left ** "
+	}
+	"** 3 seconds left ** "
+	{
+		"default"		"{darkred}Console: ** 3 seconds left ** "
+	}
+	"** 2 seconds left ** "
+	{
+		"default"		"{darkred}Console: ** 2 seconds left ** "
+	}
+	"** 1 seconds left ** "
+	{
+		"default"		"{darkred}Console: ** 1 seconds left ** "
+	}
+	"** Get to the chopper **"
+	{
+		"default"		"{darkred}Console: ** Get to the chopper **"
+	}
+	"** FAILED **"
+	{
+		"default"		"{darkred}Console: ** FAILED **"
+	}
+	"** 15 seconds left **"
+	{
+		"default"		"{darkred}Console: ** 15 seconds left **"
+	}
+	"** 20 seconds left ** "
+	{
+		"default"		"{darkred}Console: ** 20 seconds left ** "
+	}
+	"** Hold here **"
+	{
+		"default"		"{darkred}Console: ** Hold here **"
+	}
+}

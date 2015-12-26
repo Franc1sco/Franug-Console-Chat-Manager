@@ -1,0 +1,311 @@
+"Console_C"
+{
+	"Map made by Puklica"
+	{
+		"default"		"{darkred}Console: Map made by Puklica"
+	}
+	">>> |LEVEL 1| <<<"
+	{
+		"default"		"{darkred}Console: >>> |LEVEL 1| <<<"
+	}
+	">>> GATE OPENS IN 20 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> GATE OPENS IN 20 SEC <<<"
+	}
+	">>> GATE IS OPENING <<<"
+	{
+		"default"		"{darkred}Console: >>> GATE IS OPENING <<<"
+	}
+	">>> GATE CLOSES IN 5 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> GATE CLOSES IN 5 SEC <<<"
+	}
+	">>> GATE IS CLOSING <<<"
+	{
+		"default"		"{darkred}Console: >>> GATE IS CLOSING <<<"
+	}
+	">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
+	{
+		"default"		"{darkred}Console: >>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
+	}
+	"--*** WALL picked up ***--"
+	{
+		"default"		"{darkred}Console: --*** WALL picked up ***--"
+	}
+	"--*** BARREL picked up ***--"
+	{
+		"default"		"{darkred}Console: --*** BARREL picked up ***--"
+	}
+	">>> 10 SECONDS REMAINING <<<"
+	{
+		"default"		"{darkred}Console: >>> 10 SECONDS REMAINING <<<"
+	}
+	">>> RUN! <<<"
+	{
+		"default"		"{darkred}Console: >>> RUN! <<<"
+	}
+	"--*** SWORD picked up ***--"
+	{
+		"default"		"{darkred}Console: --*** SWORD picked up ***--"
+	}
+	">>> DOOR CLOSES IN 25 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> DOOR CLOSES IN 25 SEC <<<"
+	}
+	"--*** BUBBLES picked up ***--"
+	{
+		"default"		"{darkred}Console: --*** BUBBLES picked up ***--"
+	}
+	">>> DOOR CLOSES IN 5 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> DOOR CLOSES IN 5 SEC <<<"
+	}
+	">>> HORSES LEAVING IN 10 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> HORSES LEAVING IN 10 SEC <<<"
+	}
+	"***ACTIVATE ALL CANNONS***"
+	{
+		"default"		"{darkred}Console: ***ACTIVATE ALL CANNONS***"
+	}
+	">>> GATE CLOSES IN 18 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> GATE CLOSES IN 18 SEC <<<"
+	}
+	">>> ALL CANNONS ACTIVATED <<<"
+	{
+		"default"		"{darkred}Console: >>> ALL CANNONS ACTIVATED <<<"
+	}
+	">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
+	{
+		"default"		"{darkred}Console: >>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
+	}
+	">>> GATE IS CLOSING! <<<"
+	{
+		"default"		"{darkred}Console: >>> GATE IS CLOSING! <<<"
+	}
+	">>> RUN TO THE PRISON! <<<"
+	{
+		"default"		"{darkred}Console: >>> RUN TO THE PRISON! <<<"
+	}
+	">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***"
+	{
+		"default"		"{darkred}Console: >>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***"
+	}
+	">>> RUN TO THE BLACK PEARL <<<"
+	{
+		"default"		"{darkred}Console: >>> RUN TO THE BLACK PEARL <<<"
+	}
+	">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
+	{
+		"default"		"{darkred}Console: >>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
+	}
+	">>> LAST 10 SECONDS REMAINING <<<"
+	{
+		"default"		"{darkred}Console: >>> LAST 10 SECONDS REMAINING <<<"
+	}
+	"*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
+	{
+		"default"		"{darkred}Console: *** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
+	}
+	">>> |LEVEL 2| <<<"
+	{
+		"default"		"{darkred}Console: >>> |LEVEL 2| <<<"
+	}
+	">>> DOOR CLOSES IN 20 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> DOOR CLOSES IN 20 SEC <<<"
+	}
+	">>> DOOR CLOSES IN 10 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> DOOR CLOSES IN 10 SEC <<<"
+	}
+	">>> GATE IS CLOSING IN 25 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> GATE IS CLOSING IN 25 SEC <<<"
+	}
+	">>> GATE IS CLOSING IN 5 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> GATE IS CLOSING IN 5 SEC <<<"
+	}
+	"(CT) >>>--SHOOT CANNON--<<<"
+	{
+		"default"		"{darkred}Console: (CT) >>>--SHOOT CANNON--<<<"
+	}
+	"(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
+	{
+		"default"		"{darkred}Console: (ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
+	}
+	">>> CANNON HAS BEEN DESTROYED <<<"
+	{
+		"default"		"{darkred}Console: >>> CANNON HAS BEEN DESTROYED <<<"
+	}
+	">>> RUN TO THE ISLAND <<<"
+	{
+		"default"		"{darkred}Console: >>> RUN TO THE ISLAND <<<"
+	}
+	">>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
+	}
+	">>> SHELTER OPENING <<<"
+	{
+		"default"		"{darkred}Console: >>> SHELTER OPENING <<<"
+	}
+	">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<"
+	}
+	">>> 5 SEC REMAINING <<<"
+	{
+		"default"		"{darkred}Console: >>> 5 SEC REMAINING <<<"
+	}
+	">>> SHELTER CLOSING <<<"
+	{
+		"default"		"{darkred}Console: >>> SHELTER CLOSING <<<"
+	}
+	"*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***"
+	{
+		"default"		"{darkred}Console: *** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***"
+	}
+	">>> |LEVEL 3| <<<"
+	{
+		"default"		"{darkred}Console: >>> |LEVEL 3| <<<"
+	}
+	">>> DOOR OPENS IN 10 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> DOOR OPENS IN 10 SEC <<<"
+	}
+	">>> DOOR OPENS IN 5 sec <<<"
+	{
+		"default"		"{darkred}Console: >>> DOOR OPENS IN 5 sec <<<"
+	}
+	">>> HOLD FOR 15 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> HOLD FOR 15 SEC <<<"
+	}
+	">>> STAY ON WOODEN WHEEL TO BRING DOWN THE BRIDGE <<<"
+	{
+		"default"		"{darkred}Console: >>> STAY ON WOODEN WHEEL TO BRING DOWN THE BRIDGE <<<"
+	}
+	">>> BRIDGE IS DOWN. RUN! <<<"
+	{
+		"default"		"{darkred}Console: >>> BRIDGE IS DOWN. RUN! <<<"
+	}
+	">>> GET ONTO THE SHIP <<<"
+	{
+		"default"		"{darkred}Console: >>> GET ONTO THE SHIP <<<"
+	}
+	">>> DOOR OPENS IN 25 sec <<<"
+	{
+		"default"		"{darkred}Console: >>> DOOR OPENS IN 25 sec <<<"
+	}
+	">>> DOOR CLOSES IN 15 sec <<<"
+	{
+		"default"		"{darkred}Console: >>> DOOR CLOSES IN 15 sec <<<"
+	}
+	">>> DOOR IS OPEN! RUN!!! <<<"
+	{
+		"default"		"{darkred}Console: >>> DOOR IS OPEN! RUN!!! <<<"
+	}
+	">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
+	{
+		"default"		"{darkred}Console: >>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
+	}
+	">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	{
+		"default"		"{darkred}Console: >>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	}
+	">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
+	{
+		"default"		"{darkred}Console: >>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
+	}
+	">>> HOLD ZOMBIES FOR 20 sec <<<"
+	{
+		"default"		"{darkred}Console: >>> HOLD ZOMBIES FOR 20 sec <<<"
+	}
+	"***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
+	{
+		"default"		"{darkred}Console: ***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
+	}
+	">>> |LEVEL 4| <<<"
+	{
+		"default"		"{darkred}Console: >>> |LEVEL 4| <<<"
+	}
+	"--*** HEAL picked up***--"
+	{
+		"default"		"{darkred}Console: --*** HEAL picked up***--"
+	}
+	"*** MEDALLION picked up ***"
+	{
+		"default"		"{darkred}Console: *** MEDALLION picked up ***"
+	}
+	">>> HOLD THE CELLAR FOR 25 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> HOLD THE CELLAR FOR 25 SEC <<<"
+	}
+	">>> CELLAR OPENING IN 5 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> CELLAR OPENING IN 5 SEC <<<"
+	}
+	">>> RUN AWAY FROM THE ZOMBIES! <<<"
+	{
+		"default"		"{darkred}Console: >>> RUN AWAY FROM THE ZOMBIES! <<<"
+	}
+	">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<"
+	{
+		"default"		"{darkred}Console: >>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<"
+	}
+	">>> DOOR OPENS IN 30 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> DOOR OPENS IN 30 SEC <<<"
+	}
+	">>> BARBOSSA IS COMING IN 5 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> BARBOSSA IS COMING IN 5 SEC <<<"
+	}
+	">>> IT'S BARBOSSA. KILL HIM! <<<"
+	{
+		"default"		"{darkred}Console: >>> IT'S BARBOSSA. KILL HIM! <<<"
+	}
+	">>> HE HAS DISAPPEARED. RUN! <<<"
+	{
+		"default"		"{darkred}Console: >>> HE HAS DISAPPEARED. RUN! <<<"
+	}
+	">>> DOOR OPENS IN 20 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> DOOR OPENS IN 20 SEC <<<"
+	}
+	"***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
+	{
+		"default"		"{darkred}Console: ***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
+	}
+	">>> |LEVEL 5| <<<"
+	{
+		"default"		"{darkred}Console: >>> |LEVEL 5| <<<"
+	}
+	">>> GATE OPENING <<<"
+	{
+		"default"		"{darkred}Console: >>> GATE OPENING <<<"
+	}
+	">>> HOLD FOR 35 SEC <<<"
+	{
+		"default"		"{darkred}Console: >>> HOLD FOR 35 SEC <<<"
+	}
+	">>> IT'S KRAKEN. KILL HIM! <<<"
+	{
+		"default"		"{darkred}Console: >>> IT'S KRAKEN. KILL HIM! <<<"
+	}
+	">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	{
+		"default"		"{darkred}Console: >>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	}
+	"||| KRAKEN HAS SENT A WAVE ON YOU |||"
+	{
+		"default"		"{darkred}Console: ||| KRAKEN HAS SENT A WAVE ON YOU |||"
+	}
+	"||| KRAKEN HAS USED VORTEX |||"
+	{
+		"default"		"{darkred}Console: ||| KRAKEN HAS USED VORTEX |||"
+	}
+}

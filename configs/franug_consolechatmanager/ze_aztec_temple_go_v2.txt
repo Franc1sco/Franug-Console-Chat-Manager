@@ -1,0 +1,71 @@
+"Console_C"
+{
+	">> ORIGINAL MAP BY KIRBY <<"
+	{
+		"default"		"{darkred}Console: >> ORIGINAL MAP BY KIRBY <<"
+	}
+	">>First door opening in 20 seconds<<"
+	{
+		"default"		"{darkred}Console: >>First door opening in 20 seconds<<"
+	}
+	">>Door opening in 25 seconds<<"
+	{
+		"default"		"{darkred}Console: >>Door opening in 25 seconds<<"
+	}
+	">>Door will open in 30 sec<< "
+	{
+		"default"		"{darkred}Console: >>Door will open in 30 sec<< "
+	}
+	">>Door will open in 25 sec<< "
+	{
+		"default"		"{darkred}Console: >>Door will open in 25 sec<< "
+	}
+	">>Tram leaves in 25 sec<< "
+	{
+		"default"		"{darkred}Console: >>Tram leaves in 25 sec<< "
+	}
+	">>Tram leaves in 5 sec<< "
+	{
+		"default"		"{darkred}Console: >>Tram leaves in 5 sec<< "
+	}
+	">>Door opens in 20 sec<< "
+	{
+		"default"		"{darkred}Console: >>Door opens in 20 sec<< "
+	}
+	">>Door opens in 5 sec<< "
+	{
+		"default"		"{darkred}Console: >>Door opens in 5 sec<< "
+	}
+	">>Door opens in 30 sec<< "
+	{
+		"default"		"{darkred}Console: >>Door opens in 30 sec<< "
+	}
+	">>Door will open in 40 sec<< "
+	{
+		"default"		"{darkred}Console: >>Door will open in 40 sec<< "
+	}
+	">>Door opens in 25 seconds<< "
+	{
+		"default"		"{darkred}Console: >>Door opens in 25 seconds<< "
+	}
+	">>Door opens in 10 seconds<< "
+	{
+		"default"		"{darkred}Console: >>Door opens in 10 seconds<< "
+	}
+	">>Door opens in 5 seconds<< "
+	{
+		"default"		"{darkred}Console: >>Door opens in 5 seconds<< "
+	}
+	">>Run for the ancient vault!<< "
+	{
+		"default"		"{darkred}Console: >>Run for the ancient vault!<< "
+	}
+	">>Final door opens in 30 seconds<< "
+	{
+		"default"		"{darkred}Console: >>Final door opens in 30 seconds<< "
+	}
+	">>Resist until it closes<< "
+	{
+		"default"		"{darkred}Console: >>Resist until it closes<< "
+	}
+}

@@ -1,0 +1,107 @@
+"Console_C"
+{
+	"**Door 2 will open in 10 seconds**"
+	{
+		"default"		"{darkred}Console: **Door 2 will open in 10 seconds**"
+	}
+	"**Elevator is activated. Leaving in 12 seconds**"
+	{
+		"default"		"{darkred}Console: **Elevator is activated. Leaving in 12 seconds**"
+	}
+	"**The swine flu disease will reach the first floor in 10 seconds**"
+	{
+		"default"		"{darkred}Console: **The swine flu disease will reach the first floor in 10 seconds**"
+	}
+	"**The poison waste machines have been activated**"
+	{
+		"default"		"{darkred}Console: **The poison waste machines have been activated**"
+	}
+	"**The elevator door will open in 40 seconds**"
+	{
+		"default"		"{darkred}Console: **The elevator door will open in 40 seconds**"
+	}
+	"**The elevator door will open in 10 seconds**"
+	{
+		"default"		"{darkred}Console: **The elevator door will open in 10 seconds**"
+	}
+	"**The elevator door is now open. Closing in 5 seconds**"
+	{
+		"default"		"{darkred}Console: **The elevator door is now open. Closing in 5 seconds**"
+	}
+	"**The ebola disease will reach the second floor in 10 seconds**"
+	{
+		"default"		"{darkred}Console: **The ebola disease will reach the second floor in 10 seconds**"
+	}
+	"**The junk machines will start in 3 seconds...**"
+	{
+		"default"		"{darkred}Console: **The junk machines will start in 3 seconds...**"
+	}
+	"**Final door will open in 30 seconds**"
+	{
+		"default"		"{darkred}Console: **Final door will open in 30 seconds**"
+	}
+	"**Door 1 will open in 10 seconds**"
+	{
+		"default"		"{darkred}Console: **Door 1 will open in 10 seconds**"
+	}
+	"**The infected have passed the final door!**"
+	{
+		"default"		"{darkred}Console: **The infected have passed the final door!**"
+	}
+	"**Zombies will be teleported in 35 secs!**"
+	{
+		"default"		"{darkred}Console: **Zombies will be teleported in 35 secs!**"
+	}
+	"**The bridge is preparing for activation...**"
+	{
+		"default"		"{darkred}Console: **The bridge is preparing for activation...**"
+	}
+	"**Zombies arriving closer in 20 secs!**"
+	{
+		"default"		"{darkred}Console: **Zombies arriving closer in 20 secs!**"
+	}
+	"**Zombies arriving in 5 secs!**"
+	{
+		"default"		"{darkred}Console: **Zombies arriving in 5 secs!**"
+	}
+	"**Prevent the infected from crossing the bridge!**"
+	{
+		"default"		"{darkred}Console: **Prevent the infected from crossing the bridge!**"
+	}
+	"**Activated the emergency button...**"
+	{
+		"default"		"{darkred}Console: **Activated the emergency button...**"
+	}
+	"**Closing gates in...**"
+	{
+		"default"		"{darkred}Console: **Closing gates in...**"
+	}
+	"**Preparing fuel. Help will arrive in 40 seconds**"
+	{
+		"default"		"{darkred}Console: **Preparing fuel. Help will arrive in 40 seconds**"
+	}
+	"**The teleports are now enabled!**"
+	{
+		"default"		"{darkred}Console: **The teleports are now enabled!**"
+	}
+	"**Help will arrive in 20 seconds**"
+	{
+		"default"		"{darkred}Console: **Help will arrive in 20 seconds**"
+	}
+	"**Help will arrive in 10 seconds!**"
+	{
+		"default"		"{darkred}Console: **Help will arrive in 10 seconds!**"
+	}
+	"**Help has arrived. Departure in 15 seconds**"
+	{
+		"default"		"{darkred}Console: **Help has arrived. Departure in 15 seconds**"
+	}
+	"** Defend the gates until departure!**"
+	{
+		"default"		"{darkred}Console: ** Defend the gates until departure!**"
+	}
+	"**Departure in 5 seconds**"
+	{
+		"default"		"{darkred}Console: **Departure in 5 seconds**"
+	}
+}
