@@ -1,0 +1,19 @@
+"Console_C"
+{
+	"** !!! Visit: www.dreist-multigaming.com !!!** "
+	{
+		"default"		"{darkred}Console: ** !!! Visit: www.dreist-multigaming.com !!!** "
+	}
+	"** ESCAPE FROM HELL!! Get to to the magic Graves **"
+	{
+		"default"		"{darkred}Console: ** ESCAPE FROM HELL!! Get to to the magic Graves **"
+	}
+	"** The Graves have been reached - RESIST 20 sec.**"
+	{
+		"default"		"{darkred}Console: ** The Graves have been reached - RESIST 20 sec.**"
+	}
+	"** RESIST 5 Seconds **"
+	{
+		"default"		"{darkred}Console: ** RESIST 5 Seconds **"
+	}
+}

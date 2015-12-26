@@ -1,0 +1,103 @@
+"Console_C"
+{
+	"<<< DIFFICULTY LEVEL : EASY >>>"
+	{
+		"default"		"{darkred}Console: <<< DIFFICULTY LEVEL : EASY >>>"
+	}
+	"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+	{
+		"default"		"{darkred}Console: <<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+	}
+	"<<< OBJECTIVE : RUN TO THE CHOPPER >>>"
+	{
+		"default"		"{darkred}Console: <<< OBJECTIVE : RUN TO THE CHOPPER >>>"
+	}
+	"<<< Door Opens In 35 sec >>>"
+	{
+		"default"		"{darkred}Console: <<< Door Opens In 35 sec >>>"
+	}
+	"<<< Door Opens In 20 sec >>>"
+	{
+		"default"		"{darkred}Console: <<< Door Opens In 20 sec >>>"
+	}
+	"<<< Door Opens In 10 sec >>>"
+	{
+		"default"		"{darkred}Console: <<< Door Opens In 10 sec >>>"
+	}
+	"<<< HOLD HERE FOR 20 SEC >>>"
+	{
+		"default"		"{darkred}Console: <<< HOLD HERE FOR 20 SEC >>>"
+	}
+	"<<< RUN!!! >>>"
+	{
+		"default"		"{darkred}Console: <<< RUN!!! >>>"
+	}
+	"<<< Hold For 25 secs >>>"
+	{
+		"default"		"{darkred}Console: <<< Hold For 25 secs >>>"
+	}
+	"<<< 10 Seconds Remaining >>>"
+	{
+		"default"		"{darkred}Console: <<< 10 Seconds Remaining >>>"
+	}
+	"<<< Heli leaves in 30 seconds >>>"
+	{
+		"default"		"{darkred}Console: <<< Heli leaves in 30 seconds >>>"
+	}
+	"<<< Heli leaves in 20 seconds >>>"
+	{
+		"default"		"{darkred}Console: <<< Heli leaves in 20 seconds >>>"
+	}
+	"<<< Heli leaves in 10 seconds >>>"
+	{
+		"default"		"{darkred}Console: <<< Heli leaves in 10 seconds >>>"
+	}
+	"<<< Heli is leaving hop on >>>"
+	{
+		"default"		"{darkred}Console: <<< Heli is leaving hop on >>>"
+	}
+	"<<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	{
+		"default"		"{darkred}Console: <<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	}
+	"<<< Nuke launched>>>"
+	{
+		"default"		"{darkred}Console: <<< Nuke launched>>>"
+	}
+	"4"
+	{
+		"default"		"{darkred}Console: 4"
+	}
+	"3 "
+	{
+		"default"		"{darkred}Console: 3 "
+	}
+	"2 "
+	{
+		"default"		"{darkred}Console: 2 "
+	}
+	"1"
+	{
+		"default"		"{darkred}Console: 1"
+	}
+	"<<< DIFFICULTY LEVEL : NORMAL >>>"
+	{
+		"default"		"{darkred}Console: <<< DIFFICULTY LEVEL : NORMAL >>>"
+	}
+	"<<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
+	{
+		"default"		"{darkred}Console: <<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
+	}
+	"<<< HOLD HERE WHILE SOME CT'S GET THE SUITCASE >>>"
+	{
+		"default"		"{darkred}Console: <<< HOLD HERE WHILE SOME CT'S GET THE SUITCASE >>>"
+	}
+	"<<< STAND ON THE PRESSURE PAD TO OPEN DOOR >>>"
+	{
+		"default"		"{darkred}Console: <<< STAND ON THE PRESSURE PAD TO OPEN DOOR >>>"
+	}
+	"<<< MORE HUMANS INCREASE SPEED OF DOOR >>>"
+	{
+		"default"		"{darkred}Console: <<< MORE HUMANS INCREASE SPEED OF DOOR >>>"
+	}
+}
