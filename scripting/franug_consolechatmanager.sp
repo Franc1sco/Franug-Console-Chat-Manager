@@ -90,7 +90,7 @@ public Action SayConsole(int client, int args)
 {
 	if (client==0)
 	{
-		char buffer[255], buffer2[255],soundp[255];
+		char buffer[255], buffer2[255],soundp[255], soundt[255];
 		GetCmdArgString(buffer,sizeof(buffer));
 		StripQuotes(buffer);
 		
@@ -116,9 +116,11 @@ public Action SayConsole(int client, int args)
 			return Plugin_Stop;
 		}
 		
-		KvGetString(kv, soundp, sText, sizeof(soundp), "default");
+		KvGetString(kv, "sound", soundp, sizeof(soundp), "default");
 		if(StrEqual(soundp, "default"))
-			Format(soundp, 255, "common/talk.wav");
+			Format(soundt, 255, "common/talk.wav");
+		else
+			Format(soundt, 255, soundp);
 		
 		for(int i = 1 ; i < MaxClients; i++)
 			if(IsClientInGame(i))
@@ -134,8 +136,8 @@ public Action SayConsole(int client, int args)
 			
 		if(!StrEqual(soundp, "none"))
 		{
-			if(!csgo || StrEqual(soundp, "default")) EmitSoundToAll(soundp);
-			else EmitSoundToAllAny(soundp);
+			if(!csgo || StrEqual(soundp, "default")) EmitSoundToAll(soundt);
+			else EmitSoundToAllAny(soundt);
 		}
 		
 		if(KvJumpToKey(kv, "hinttext"))
