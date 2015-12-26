@@ -3,33 +3,41 @@
 	"*** YOU ARE PLAYING ON EASY DIFFICULTY!! NOOBS!! ***"
 	{
 		"default"		"{darkred}Console: *** YOU ARE PLAYING ON EASY DIFFICULTY!! NOOBS!! ***"
+		"es"		"{darkred}Consola: *** ESTAIS JUGANDO EN DIFICULTA FACIL!! NOOBS!! ***"
 	}
 	"*** For sugestions and bug reports or any information contact me on steam Steam Community ID --> JackBauer123 ***"
 	{
 		"default"		"{darkred}Console: *** For sugestions and bug reports or any information contact me on steam Steam Community ID --> JackBauer123 ***"
+		"es"		"{darkred}Consola: *** Para sugerencias y reportes o cualquier otra informacion contactarme en el steam ID --> JackBauer123 ***"
 	}
 	"*** Created by Jack Bauer ***"
 	{
 		"default"		"{darkred}Console: *** Created by Jack Bauer ***"
+		"es"		"{darkred}Consola: *** Creado por Jack Bauer ***"
 	}
 	"*** Escape! ***"
 	{
 		"default"		"{darkred}Console: *** Escape! ***"
+		"es"		"{darkred}Consola: *** Escapar! ***"
 	}
 	"*** Level B Door Opens in 25 Seconds ***"
 	{
 		"default"		"{darkred}Console: *** Level B Door Opens in 25 Seconds ***"
+		"es"		"{darkred}Consola: *** Nivel B Las puertas se abriran en 25 segundos ***"
 	}
 	"*** Level B Door Opens in 15 Seconds ***"
 	{
 		"default"		"{darkred}Console: *** Level B Door Opens in 15 Seconds ***"
+		"es"		"{darkred}Consola: *** Nivel B Las puertas se abriran en 15 segundos ***"
 	}
 	"*** Zombies Has Reached The Checkpoint ***"
 	{
 		"default"		"{darkred}Console: *** Zombies Has Reached The Checkpoint ***"
+		"es"		"{darkred}Consola: *** Los zombis han alcanzado el punto de control ***"
 	}
 	"*** Level B Door Opens in 5 Seconds ***"
 	{
 		"default"		"{darkred}Console: *** Level B Door Opens in 5 Seconds ***"
+		"es"		"{darkred}Consola: *** Nivel B Las puertas se abriran en 5 segundos ***"
 	}
 }
