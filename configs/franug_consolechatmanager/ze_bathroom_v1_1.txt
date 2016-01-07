@@ -1,0 +1,115 @@
+"Console_C"
+{
+	"Map made by Puklica & Cuniczek"
+	{
+		"default"		"{darkred}Console: Map made by Puklica & Cuniczek"
+	}
+	">>> |LEVEL 1| <<<"
+	{
+		"default"		"{darkred}Console: >>> |LEVEL 1| <<<"
+	}
+	"Sponge builder has been picked up."
+	{
+		"default"		"{darkred}Console: Sponge builder has been picked up."
+	}
+	"We'll have to roll down the toilet paper to safely climb down."
+	{
+		"default"		"{darkred}Console: We'll have to roll down the toilet paper to safely climb down."
+	}
+	"Toilet paper is rolled down. Fall back!"
+	{
+		"default"		"{darkred}Console: Toilet paper is rolled down. Fall back!"
+	}
+	"Hold for 15 seconds."
+	{
+		"default"		"{darkred}Console: Hold for 15 seconds."
+	}
+	"Resist for 25 seconds."
+	{
+		"default"		"{darkred}Console: Resist for 25 seconds."
+	}
+	"Resist for 20 seconds."
+	{
+		"default"		"{darkred}Console: Resist for 20 seconds."
+	}
+	"Hold here until something happens!"
+	{
+		"default"		"{darkred}Console: Hold here until something happens!"
+	}
+	"The path is blocked. Fall back!"
+	{
+		"default"		"{darkred}Console: The path is blocked. Fall back!"
+	}
+	"Mouse trap has been picked up."
+	{
+		"default"		"{darkred}Console: Mouse trap has been picked up."
+	}
+	"You have won first level!"
+	{
+		"default"		"{darkred}Console: You have won first level!"
+	}
+	">>> |LEVEL 2| <<<"
+	{
+		"default"		"{darkred}Console: >>> |LEVEL 2| <<<"
+	}
+	"Resist until the wall breaks."
+	{
+		"default"		"{darkred}Console: Resist until the wall breaks."
+	}
+	"Fall back!"
+	{
+		"default"		"{darkred}Console: Fall back!"
+	}
+	"Resist until the ceiling breaks."
+	{
+		"default"		"{darkred}Console: Resist until the ceiling breaks."
+	}
+	"We'll have to jump outside and walk across the mirror."
+	{
+		"default"		"{darkred}Console: We'll have to jump outside and walk across the mirror."
+	}
+	"Hold on for a few seconds."
+	{
+		"default"		"{darkred}Console: Hold on for a few seconds."
+	}
+	"Wait until the wall breaks."
+	{
+		"default"		"{darkred}Console: Wait until the wall breaks."
+	}
+	"Seems like there is no way to escape."
+	{
+		"default"		"{darkred}Console: Seems like there is no way to escape."
+	}
+	"That's it! Break the shelf support."
+	{
+		"default"		"{darkred}Console: That's it! Break the shelf support."
+	}
+	"There is no way around."
+	{
+		"default"		"{darkred}Console: There is no way around."
+	}
+	"We'll have to enter the boiler. Resist!"
+	{
+		"default"		"{darkred}Console: We'll have to enter the boiler. Resist!"
+	}
+	"We can enter through that hole! Fall back!"
+	{
+		"default"		"{darkred}Console: We can enter through that hole! Fall back!"
+	}
+	"The sponge has been defeated! Run!"
+	{
+		"default"		"{darkred}Console: The sponge has been defeated! Run!"
+	}
+	"Final doors are going to close in 30 seconds! Resist!"
+	{
+		"default"		"{darkred}Console: Final doors are going to close in 30 seconds! Resist!"
+	}
+	"Kill all zombies inside!"
+	{
+		"default"		"{darkred}Console: Kill all zombies inside!"
+	}
+	"You have won the map! Congratulations!"
+	{
+		"default"		"{darkred}Console: You have won the map! Congratulations!"
+	}
+}

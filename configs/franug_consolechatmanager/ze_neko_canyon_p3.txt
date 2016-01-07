@@ -1,0 +1,27 @@
+"Console_C"
+{
+	"*** Rocket leaving in 8 seconds. ***"
+	{
+		"default"		"{darkred}Console: *** Rocket leaving in 8 seconds. ***"
+	}
+	"*** Nuke will explode in 50 seconds. ***"
+	{
+		"default"		"{darkred}Console: *** Nuke will explode in 50 seconds. ***"
+	}
+	"*** Nuke will explode in 30 seconds. ***"
+	{
+		"default"		"{darkred}Console: *** Nuke will explode in 30 seconds. ***"
+	}
+	"*** Nuke will explode in 10 seconds. ***"
+	{
+		"default"		"{darkred}Console: *** Nuke will explode in 10 seconds. ***"
+	}
+	"*** NUKE WILL EXPLODE IN 5 SECONDS! ***"
+	{
+		"default"		"{darkred}Console: *** NUKE WILL EXPLODE IN 5 SECONDS! ***"
+	}
+	"*** Nuke impact! ***"
+	{
+		"default"		"{darkred}Console: *** Nuke impact! ***"
+	}
+}

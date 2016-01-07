@@ -1,0 +1,103 @@
+"Console_C"
+{
+	"Testers: Fuu Belafarinrod Senne Teddy"
+	{
+		"default"		"{darkred}Console: Testers: Fuu Belafarinrod Senne Teddy"
+	}
+	">>>Zombies detected ! Try to escape from Death-Star<<<"
+	{
+		"default"		"{darkred}Console: >>>Zombies detected ! Try to escape from Death-Star<<<"
+	}
+	">>>Map created by FreeZe<<<"
+	{
+		"default"		"{darkred}Console: >>>Map created by FreeZe<<<"
+	}
+	">>>60 seconds until vacuum in Spawn Sections<<<"
+	{
+		"default"		"{darkred}Console: >>>60 seconds until vacuum in Spawn Sections<<<"
+	}
+	">>>30 seconds until vacuum<<<"
+	{
+		"default"		"{darkred}Console: >>>30 seconds until vacuum<<<"
+	}
+	">>>Right-Elevator leaving in 10 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Right-Elevator leaving in 10 seconds<<<"
+	}
+	">>>Left-Elevator unlocked<<<"
+	{
+		"default"		"{darkred}Console: >>>Left-Elevator unlocked<<<"
+	}
+	">>>Door opening in 10 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Door opening in 10 seconds<<<"
+	}
+	">>>DOOR OPENING IN 5 SECONDS<<<"
+	{
+		"default"		"{darkred}Console: >>>DOOR OPENING IN 5 SECONDS<<<"
+	}
+	">>>Spawn Sections losing air...vacuum in 10 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Spawn Sections losing air...vacuum in 10 seconds<<<"
+	}
+	">>>Lightbridge deactivating in 8 sec<<<"
+	{
+		"default"		"{darkred}Console: >>>Lightbridge deactivating in 8 sec<<<"
+	}
+	">>>Left-Elevator leaving in 10 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Left-Elevator leaving in 10 seconds<<<"
+	}
+	">>>Hold the cantina 25 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Hold the cantina 25 seconds<<<"
+	}
+	">>>Generator section losing air...vacuum in 10 seconds"
+	{
+		"default"		"{darkred}Console: >>>Generator section losing air...vacuum in 10 seconds"
+	}
+	">>>10 seconds left<<<"
+	{
+		"default"		"{darkred}Console: >>>10 seconds left<<<"
+	}
+	">>>Left-Lock closing in 5 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Left-Lock closing in 5 seconds<<<"
+	}
+	">>>Inner areas being cleaned in 10 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Inner areas being cleaned in 10 seconds<<<"
+	}
+	">>>HOLD THE LOCK 30 SECONDS<<<"
+	{
+		"default"		"{darkred}Console: >>>HOLD THE LOCK 30 SECONDS<<<"
+	}
+	">>>Lambda-shuttle departing in 15 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Lambda-shuttle departing in 15 seconds<<<"
+	}
+	">>>!3!<<<"
+	{
+		"default"		"{darkred}Console: >>>!3!<<<"
+	}
+	">>>!2!<<<"
+	{
+		"default"		"{darkred}Console: >>>!2!<<<"
+	}
+	">>>!1!<<<"
+	{
+		"default"		"{darkred}Console: >>>!1!<<<"
+	}
+	">>>RAMP CLOSING<<<"
+	{
+		"default"		"{darkred}Console: >>>RAMP CLOSING<<<"
+	}
+	">>>DEATH-STAR EXPLODING IN 5 SECONDS<<<"
+	{
+		"default"		"{darkred}Console: >>>DEATH-STAR EXPLODING IN 5 SECONDS<<<"
+	}
+	">>>Right-Lock closing in 5 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Right-Lock closing in 5 seconds<<<"
+	}
+}

@@ -1,0 +1,67 @@
+"Console_C"
+{
+	"###Map Made By Mononoke###"
+	{
+		"default"		"{darkred}Console: ###Map Made By Mononoke###"
+	}
+	"###Press E to use items###"
+	{
+		"default"		"{darkred}Console: ###Press E to use items###"
+	}
+	"###All items have 1 Minute Cooldown###"
+	{
+		"default"		"{darkred}Console: ###All items have 1 Minute Cooldown###"
+	}
+	"###Doors will Open in 20 Seconds...Survive###"
+	{
+		"default"		"{darkred}Console: ###Doors will Open in 20 Seconds...Survive###"
+	}
+	"###Gutter Gate Will Open in 30 Seconds...Survive###"
+	{
+		"default"		"{darkred}Console: ###Gutter Gate Will Open in 30 Seconds...Survive###"
+	}
+	"###Gutter Gate Open...Run!###"
+	{
+		"default"		"{darkred}Console: ###Gutter Gate Open...Run!###"
+	}
+	"###Wine Cellar Door will Close in 30 Seconds...Survive###"
+	{
+		"default"		"{darkred}Console: ###Wine Cellar Door will Close in 30 Seconds...Survive###"
+	}
+	"###Cellar Door Open...Run!###"
+	{
+		"default"		"{darkred}Console: ###Cellar Door Open...Run!###"
+	}
+	"###Boss Door will Open in 30 Seconds...Survive###"
+	{
+		"default"		"{darkred}Console: ###Boss Door will Open in 30 Seconds...Survive###"
+	}
+	"###Boss Door Open...Run###"
+	{
+		"default"		"{darkred}Console: ###Boss Door Open...Run###"
+	}
+	"###Quickly run into the Crypt ###"
+	{
+		"default"		"{darkred}Console: ###Quickly run into the Crypt ###"
+	}
+	"### AFK Teleport in 15 seconds ###"
+	{
+		"default"		"{darkred}Console: ### AFK Teleport in 15 seconds ###"
+	}
+	"### Defend here for 15 Seconds! Make sure you are behind the red line! ### "
+	{
+		"default"		"{darkred}Console: ### Defend here for 15 Seconds! Make sure you are behind the red line! ### "
+	}
+	"### You cannot Destroy the Great Jack HaHa Face Your Doom ### "
+	{
+		"default"		"{darkred}Console: ### You cannot Destroy the Great Jack HaHa Face Your Doom ### "
+	}
+	"### Kill Jack within two minutes or face instant death ### "
+	{
+		"default"		"{darkred}Console: ### Kill Jack within two minutes or face instant death ### "
+	}
+	"** Nades do more damage **"
+	{
+		"default"		"{darkred}Console: ** Nades do more damage **"
+	}
+}

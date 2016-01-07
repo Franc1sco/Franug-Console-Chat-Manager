@@ -1,0 +1,127 @@
+"Console_C"
+{
+	"** There seems to be a nasty bug infestation! **"
+	{
+		"default"		"{darkred}Console: ** There seems to be a nasty bug infestation! **"
+	}
+	"** Luckily bugs tend to dislike bright lights! **"
+	{
+		"default"		"{darkred}Console: ** Luckily bugs tend to dislike bright lights! **"
+	}
+	"** WE CAN'T SEEM TO PROGRESS AHEAD... **"
+	{
+		"default"		"{darkred}Console: ** WE CAN'T SEEM TO PROGRESS AHEAD... **"
+	}
+	"** HOLD UNTIL WE FIGURE SOMETHING OUT! **"
+	{
+		"default"		"{darkred}Console: ** HOLD UNTIL WE FIGURE SOMETHING OUT! **"
+	}
+	"** THE WINDOW! GET ON IT! **"
+	{
+		"default"		"{darkred}Console: ** THE WINDOW! GET ON IT! **"
+	}
+	"** We need to make the door move! **"
+	{
+		"default"		"{darkred}Console: ** We need to make the door move! **"
+	}
+	"** It looks as if it would probably open if we get the wheel moving... **"
+	{
+		"default"		"{darkred}Console: ** It looks as if it would probably open if we get the wheel moving... **"
+	}
+	"** GET GOING! WE HAVE ENOUGH KINETIC ENERGY! **"
+	{
+		"default"		"{darkred}Console: ** GET GOING! WE HAVE ENOUGH KINETIC ENERGY! **"
+	}
+	"** THE TOP DOOR IS OPENING 5 SECONDS! **"
+	{
+		"default"		"{darkred}Console: ** THE TOP DOOR IS OPENING 5 SECONDS! **"
+	}
+	"** Something spooky seems to be going on that table! **"
+	{
+		"default"		"{darkred}Console: ** Something spooky seems to be going on that table! **"
+	}
+	"** We need to reach the top! **"
+	{
+		"default"		"{darkred}Console: ** We need to reach the top! **"
+	}
+	"** The seance is beginning and the spirits are calling... **"
+	{
+		"default"		"{darkred}Console: ** The seance is beginning and the spirits are calling... **"
+	}
+	"** The spirits marked the 'H' leter... **"
+	{
+		"default"		"{darkred}Console: ** The spirits marked the 'H' leter... **"
+	}
+	"** 'A'... **"
+	{
+		"default"		"{darkred}Console: ** 'A'... **"
+	}
+	"** 'L'... **"
+	{
+		"default"		"{darkred}Console: ** 'L'... **"
+	}
+	"** 'L' again... **"
+	{
+		"default"		"{darkred}Console: ** 'L' again... **"
+	}
+	"** 'O'... **"
+	{
+		"default"		"{darkred}Console: ** 'O'... **"
+	}
+	"** 'W'... **"
+	{
+		"default"		"{darkred}Console: ** 'W'... **"
+	}
+	"** 'E'... **"
+	{
+		"default"		"{darkred}Console: ** 'E'... **"
+	}
+	"** 'E' yet again... **"
+	{
+		"default"		"{darkred}Console: ** 'E' yet again... **"
+	}
+	"** 'N'... **"
+	{
+		"default"		"{darkred}Console: ** 'N'... **"
+	}
+	"** It spelled 'HALLOWEEN'! **"
+	{
+		"default"		"{darkred}Console: ** It spelled 'HALLOWEEN'! **"
+	}
+	"** Who would have guessed? **"
+	{
+		"default"		"{darkred}Console: ** Who would have guessed? **"
+	}
+	"** Something is happening! **"
+	{
+		"default"		"{darkred}Console: ** Something is happening! **"
+	}
+	"** Get on the lamp! Quick! The spell might not last long! **"
+	{
+		"default"		"{darkred}Console: ** Get on the lamp! Quick! The spell might not last long! **"
+	}
+	"** There is some screaking sound in the distance - maybe something is lurking in the darkness! **"
+	{
+		"default"		"{darkred}Console: ** There is some screaking sound in the distance - maybe something is lurking in the darkness! **"
+	}
+	"** Try to get that old toy going! We must get out of here! **"
+	{
+		"default"		"{darkred}Console: ** Try to get that old toy going! We must get out of here! **"
+	}
+	"** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **"
+	{
+		"default"		"{darkred}Console: ** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **"
+	}
+	"** We're getting close! If we can get into the pumpkin besides the oven we will be safe! **"
+	{
+		"default"		"{darkred}Console: ** We're getting close! If we can get into the pumpkin besides the oven we will be safe! **"
+	}
+	"** We should inspect that giant pumpkin sitting on the stool! **"
+	{
+		"default"		"{darkred}Console: ** We should inspect that giant pumpkin sitting on the stool! **"
+	}
+	"** OOOAAAAAAAAAAAAH! The darn thing almost squashed us! **"
+	{
+		"default"		"{darkred}Console: ** OOOAAAAAAAAAAAAH! The darn thing almost squashed us! **"
+	}
+}

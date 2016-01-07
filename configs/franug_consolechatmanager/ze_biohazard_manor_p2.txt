@@ -1,0 +1,15 @@
+"Console_C"
+{
+	"********** MAP BY AERIS.004 **********"
+	{
+		"default"		"{darkred}Console: ********** MAP BY AERIS.004 **********"
+	}
+	"*MAP RESIDENT EVIL ONE - THE MANOR*"
+	{
+		"default"		"{darkred}Console: *MAP RESIDENT EVIL ONE - THE MANOR*"
+	}
+	"*immediate evacuation of the laboratory*"
+	{
+		"default"		"{darkred}Console: *immediate evacuation of the laboratory*"
+	}
+}

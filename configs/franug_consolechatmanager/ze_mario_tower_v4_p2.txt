@@ -1,0 +1,67 @@
+"Console_C"
+{
+	"*** Angry sun and chainchomps hate AFKS"
+	{
+		"default"		"{darkred}Console: *** Angry sun and chainchomps hate AFKS"
+	}
+	"*** Bowser and his minions are attacking!! ***"
+	{
+		"default"		"{darkred}Console: *** Bowser and his minions are attacking!! ***"
+	}
+	"*** Right Ladder Wall opens in 5 seconds***"
+	{
+		"default"		"{darkred}Console: *** Right Ladder Wall opens in 5 seconds***"
+	}
+	"*** Left Ladder wall opens in 5 seconds***"
+	{
+		"default"		"{darkred}Console: *** Left Ladder wall opens in 5 seconds***"
+	}
+	"***BlockWall Breaks in 30 seconds!***"
+	{
+		"default"		"{darkred}Console: ***BlockWall Breaks in 30 seconds!***"
+	}
+	"***BlockWall is open***"
+	{
+		"default"		"{darkred}Console: ***BlockWall is open***"
+	}
+	"*** Middle Wall opens in 10 seconds***"
+	{
+		"default"		"{darkred}Console: *** Middle Wall opens in 10 seconds***"
+	}
+	"*** Thomp will open in 20 seconds!!***"
+	{
+		"default"		"{darkred}Console: *** Thomp will open in 20 seconds!!***"
+	}
+	"*** Star Door opens in 20 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Star Door opens in 20 seconds ***"
+	}
+	"*** Star Door opens in 10 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Star Door opens in 10 seconds ***"
+	}
+	"*** Star Door open ***"
+	{
+		"default"		"{darkred}Console: *** Star Door open ***"
+	}
+	"*** Angry Sun will scorch everything in his reach in 90 seconds!! ***"
+	{
+		"default"		"{darkred}Console: *** Angry Sun will scorch everything in his reach in 90 seconds!! ***"
+	}
+	"*** Clouds will raise in 30 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Clouds will raise in 30 seconds ***"
+	}
+	"*** Clouds will raise in 10 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Clouds will raise in 10 seconds ***"
+	}
+	"*** Get to the top of the tower before it is too late!! ***"
+	{
+		"default"		"{darkred}Console: *** Get to the top of the tower before it is too late!! ***"
+	}
+	"*** Scorch in 30 seconds!!***"
+	{
+		"default"		"{darkred}Console: *** Scorch in 30 seconds!!***"
+	}
+}

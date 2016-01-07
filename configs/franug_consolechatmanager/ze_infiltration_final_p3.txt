@@ -1,0 +1,110 @@
+"Console_C"
+{
+	"Map made by Luffaren"
+	{
+		"Per30010"
+		{
+			"default"		"{darkred}Console: Map made by Luffaren/Per30010"
+		}
+	}
+	"*** BLASTDOOR OPENING IN 30 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** BLASTDOOR OPENING IN 30 SECONDS ***"
+	}
+	"*** Door opens in 18 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Door opens in 18 seconds ***"
+	}
+	"*** Door opens in 15 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Door opens in 15 seconds ***"
+	}
+	"--- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
+	{
+		"default"		"{darkred}Console: --- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
+	}
+	"--- TRAM LEAVES IN 10 SECONDS ---"
+	{
+		"default"		"{darkred}Console: --- TRAM LEAVES IN 10 SECONDS ---"
+	}
+	"--- RESIST 15 SECONDS ---"
+	{
+		"default"		"{darkred}Console: --- RESIST 15 SECONDS ---"
+	}
+	"*** Resist 20 seconds in the poolroom ***"
+	{
+		"default"		"{darkred}Console: *** Resist 20 seconds in the poolroom ***"
+	}
+	"*** Run to the controlroom and press the button ***"
+	{
+		"default"		"{darkred}Console: *** Run to the controlroom and press the button ***"
+	}
+	"*** Find a spot and resist for 30 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Find a spot and resist for 30 seconds ***"
+	}
+	"*** 5 seconds untill radio scrambler collapses ***"
+	{
+		"default"		"{darkred}Console: *** 5 seconds untill radio scrambler collapses ***"
+	}
+	"*** The zombies are trapped for 15 seconds ***"
+	{
+		"default"		"{darkred}Console: *** The zombies are trapped for 15 seconds ***"
+	}
+	"*** MOVE IT! ***"
+	{
+		"default"		"{darkred}Console: *** MOVE IT! ***"
+	}
+	"*** Resist 20 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Resist 20 seconds ***"
+	}
+	"*** Resist 15 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Resist 15 seconds ***"
+	}
+	"*** Opening cargo elevator door ***"
+	{
+		"default"		"{darkred}Console: *** Opening cargo elevator door ***"
+	}
+	"*** Humans are recommended to stay in the elevator***"
+	{
+		"default"		"{darkred}Console: *** Humans are recommended to stay in the elevator***"
+	}
+	"*** Contacting HQ ***"
+	{
+		"default"		"{darkred}Console: *** Contacting HQ ***"
+	}
+	"*** A helicopter is waiting at the helipad ***"
+	{
+		"default"		"{darkred}Console: *** A helicopter is waiting at the helipad ***"
+	}
+	"*** GET TO THE CHOPPER! ***"
+	{
+		"default"		"{darkred}Console: *** GET TO THE CHOPPER! ***"
+	}
+	"*** HQ will send a nuke at your position ***"
+	{
+		"default"		"{darkred}Console: *** HQ will send a nuke at your position ***"
+	}
+	"*** Get away from there A.S.A.P ***"
+	{
+		"default"		"{darkred}Console: *** Get away from there A.S.A.P ***"
+	}
+	"*** HELICOPTER IS LEAVING IN 70 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** HELICOPTER IS LEAVING IN 70 SECONDS ***"
+	}
+	"*** THIS IS OUR FINAL STAND ***"
+	{
+		"default"		"{darkred}Console: *** THIS IS OUR FINAL STAND ***"
+	}
+	"*** RESIST OR DIE ***"
+	{
+		"default"		"{darkred}Console: *** RESIST OR DIE ***"
+	}
+	"*** HELICOPTER IS LEAVING IN 10 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** HELICOPTER IS LEAVING IN 10 SECONDS ***"
+	}
+}

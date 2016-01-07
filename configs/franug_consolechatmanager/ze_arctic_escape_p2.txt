@@ -1,0 +1,39 @@
+"Console_C"
+{
+	"***** Escape Boat 2 Is Leaving In 10 Seconds *****"
+	{
+		"default"		"{darkred}Console: ***** Escape Boat 2 Is Leaving In 10 Seconds *****"
+	}
+	"***** Escape Boat 1 Is Leaving In 10 Seconds *****"
+	{
+		"default"		"{darkred}Console: ***** Escape Boat 1 Is Leaving In 10 Seconds *****"
+	}
+	"***** Escape Ski Lift 1 Is Leaving In 10 Seconds *****"
+	{
+		"default"		"{darkred}Console: ***** Escape Ski Lift 1 Is Leaving In 10 Seconds *****"
+	}
+	"***** Escape Ski Lift 2 Is Leaving In 10 Seconds *****"
+	{
+		"default"		"{darkred}Console: ***** Escape Ski Lift 2 Is Leaving In 10 Seconds *****"
+	}
+	"***** Escape Boat 3 Is Leaving in 10 Seconds *****"
+	{
+		"default"		"{darkred}Console: ***** Escape Boat 3 Is Leaving in 10 Seconds *****"
+	}
+	"***** Escape Boat 4 Is Leaving in 10 Seconds *****"
+	{
+		"default"		"{darkred}Console: ***** Escape Boat 4 Is Leaving in 10 Seconds *****"
+	}
+	"***** The Oil Rig Has Been Reached *****"
+	{
+		"default"		"{darkred}Console: ***** The Oil Rig Has Been Reached *****"
+	}
+	"***** Nuke Squad Will Arrive in 90 Seconds *****"
+	{
+		"default"		"{darkred}Console: ***** Nuke Squad Will Arrive in 90 Seconds *****"
+	}
+	"***** Nuke Squad Is Here *****"
+	{
+		"default"		"{darkred}Console: ***** Nuke Squad Is Here *****"
+	}
+}

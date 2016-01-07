@@ -1,0 +1,39 @@
+"Console_C"
+{
+	"*** NUCLEAR CORE UNSTABLE ***"
+	{
+		"default"		"{darkred}Console: *** NUCLEAR CORE UNSTABLE ***"
+	}
+	"***SHOOT THE BUTTON***"
+	{
+		"default"		"{darkred}Console: ***SHOOT THE BUTTON***"
+	}
+	"*** WATER CART LEAVING IN 5 SECONDS***"
+	{
+		"default"		"{darkred}Console: *** WATER CART LEAVING IN 5 SECONDS***"
+	}
+	"***** HOLD THIS POSITION *****"
+	{
+		"default"		"{darkred}Console: ***** HOLD THIS POSITION *****"
+	}
+	"*** ELEVATOR 1 & 2 OPENING ***"
+	{
+		"default"		"{darkred}Console: *** ELEVATOR 1 & 2 OPENING ***"
+	}
+	"*** RESCUE ZONE - RED SMOKE ***"
+	{
+		"default"		"{darkred}Console: *** RESCUE ZONE - RED SMOKE ***"
+	}
+	"*** USE RADIO ***"
+	{
+		"default"		"{darkred}Console: *** USE RADIO ***"
+	}
+	"*** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** SELF DESTRUCT ACTIVATED - 60 SECONDS ***"
+	}
+	"*** MAP BY JB_GAMBLE ***"
+	{
+		"default"		"{darkred}Console: *** MAP BY JB_GAMBLE ***"
+	}
+}

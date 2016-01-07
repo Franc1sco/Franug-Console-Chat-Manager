@@ -1,0 +1,107 @@
+"Console_C"
+{
+	"MAP BY FREEZE"
+	{
+		"default"		"{darkred}Console: MAP BY FREEZE"
+	}
+	">>>Secret deagle in lower-way!<<<"
+	{
+		"default"		"{darkred}Console: >>>Secret deagle in lower-way!<<<"
+	}
+	">>>left door opening in 10 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>left door opening in 10 seconds<<<"
+	}
+	">>>truck starting in 10 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>truck starting in 10 seconds<<<"
+	}
+	">>>tram arrives in 15 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>tram arrives in 15 seconds<<<"
+	}
+	">>>elevator leaving in 15 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>elevator leaving in 15 seconds<<<"
+	}
+	">>>elevator leaving in 5 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>elevator leaving in 5 seconds<<<"
+	}
+	">>>tram departing in 5 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>tram departing in 5 seconds<<<"
+	}
+	">>>Door exploding in 8 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Door exploding in 8 seconds<<<"
+	}
+	">>>Tram out of order. Lightbridge activating in 15 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Tram out of order. Lightbridge activating in 15 seconds<<<"
+	}
+	">>>crusher activated<<<"
+	{
+		"default"		"{darkred}Console: >>>crusher activated<<<"
+	}
+	">>>ring-transporter activating in 10 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>ring-transporter activating in 10 seconds<<<"
+	}
+	">>>ring-transporter activating in 5 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>ring-transporter activating in 5 seconds<<<"
+	}
+	">>>CRUSHERDOOR OPEN<<<"
+	{
+		"default"		"{darkred}Console: >>>CRUSHERDOOR OPEN<<<"
+	}
+	">>>AFK teleport in 15 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>AFK teleport in 15 seconds<<<"
+	}
+	">>> Security door closing in 2 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>> Security door closing in 2 seconds<<<"
+	}
+	">>>PRESS BUTTON TO OPEN DOOR<<<"
+	{
+		"default"		"{darkred}Console: >>>PRESS BUTTON TO OPEN DOOR<<<"
+	}
+	">>>DANGER: generator cooling interrupted!<<<"
+	{
+		"default"		"{darkred}Console: >>>DANGER: generator cooling interrupted!<<<"
+	}
+	">>>last door opening in 30 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>last door opening in 30 seconds<<<"
+	}
+	">>>last door opening in 20 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>last door opening in 20 seconds<<<"
+	}
+	">>>last door opening in 10 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>last door opening in 10 seconds<<<"
+	}
+	">>>last door opening in 5 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>last door opening in 5 seconds<<<"
+	}
+	">>> Stargate open ... Reactor core exceeding maximum stable temperature  ... 20 seconds left<<<"
+	{
+		"default"		"{darkred}Console: >>> Stargate open ... Reactor core exceeding maximum stable temperature  ... 20 seconds left<<<"
+	}
+	">>> 10 seconds left until explosion<<<"
+	{
+		"default"		"{darkred}Console: >>> 10 seconds left until explosion<<<"
+	}
+	">>> 5 SECONDS REMAINING!<<<"
+	{
+		"default"		"{darkred}Console: >>> 5 SECONDS REMAINING!<<<"
+	}
+	">>>right door opening in 10 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>right door opening in 10 seconds<<<"
+	}
+}

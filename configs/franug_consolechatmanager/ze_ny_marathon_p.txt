@@ -1,0 +1,163 @@
+"Console_C"
+{
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"default"		"{darkred}Console: *** NY MARATHON: GET READY TO RUN! ***"
+	}
+	"*** Difficulty: MissingNo ***"
+	{
+		"default"		"{darkred}Console: *** Difficulty: MissingNo ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *"
+	{
+		"default"		"{darkred}Console: * [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *"
+	}
+	"*** Address: 0x6469636b ***"
+	{
+		"default"		"{darkred}Console: *** Address: 0x6469636b ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *"
+	{
+		"default"		"{darkred}Console: * [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *"
+	}
+	"*** Escape: THE PAPER DIMENSION ***"
+	{
+		"default"		"{darkred}Console: *** Escape: THE PAPER DIMENSION ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *"
+	{
+		"default"		"{darkred}Console: * [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *"
+	}
+	"** HOLD! The doors will open in 15 seconds!!! **"
+	{
+		"default"		"{darkred}Console: ** HOLD! The doors will open in 15 seconds!!! **"
+	}
+	"** RESIST! 5 seconds left!!! **"
+	{
+		"default"		"{darkred}Console: ** RESIST! 5 seconds left!!! **"
+	}
+	"** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
+	{
+		"default"		"{darkred}Console: ** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
+	}
+	"** THE CHECKPOINT HAS BEEN ENABLED! **"
+	{
+		"default"		"{darkred}Console: ** THE CHECKPOINT HAS BEEN ENABLED! **"
+	}
+	"** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
+	{
+		"default"		"{darkred}Console: ** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
+	}
+	"** HOLD! The station door will open in 25 seconds! **"
+	{
+		"default"		"{darkred}Console: ** HOLD! The station door will open in 25 seconds! **"
+	}
+	"** HOLD! The station door will open in 10 seconds! **"
+	{
+		"default"		"{darkred}Console: ** HOLD! The station door will open in 10 seconds! **"
+	}
+	"** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
+	{
+		"default"		"{darkred}Console: ** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
+	}
+	"** We must resist here until the door unlocks! (25s) **"
+	{
+		"default"		"{darkred}Console: ** We must resist here until the door unlocks! (25s) **"
+	}
+	"** Resist! 10 seconds left! **"
+	{
+		"default"		"{darkred}Console: ** Resist! 10 seconds left! **"
+	}
+	"*** FIDDICULTU: STRING 2 ***"
+	{
+		"default"		"{darkred}Console: *** FIDDICULTU: STRING 2 ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *"
+	{
+		"default"		"{darkred}Console: * [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *"
+	}
+	"** We need to resist! The park's door will open in 20 seconds! **"
+	{
+		"default"		"{darkred}Console: ** We need to resist! The park's door will open in 20 seconds! **"
+	}
+	"** RESIST! Last 5 seconds! **"
+	{
+		"default"		"{darkred}Console: ** RESIST! Last 5 seconds! **"
+	}
+	"** Hold the broken wall! The door will open in 25 seconds! **"
+	{
+		"default"		"{darkred}Console: ** Hold the broken wall! The door will open in 25 seconds! **"
+	}
+	"** Resist! 10 more seconds! **"
+	{
+		"default"		"{darkred}Console: ** Resist! 10 more seconds! **"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *"
+	{
+		"default"		"{darkred}Console: * [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *"
+	}
+	"** The exitless park doors are opening in 20 seconds! **"
+	{
+		"default"		"{darkred}Console: ** The exitless park doors are opening in 20 seconds! **"
+	}
+	"** GO! We have to hold the park until we find a way out! **"
+	{
+		"default"		"{darkred}Console: ** GO! We have to hold the park until we find a way out! **"
+	}
+	"** We could call a Penis-UFO and split the fare... **"
+	{
+		"default"		"{darkred}Console: ** We could call a Penis-UFO and split the fare... **"
+	}
+	"** OK GO! The Penis-UFO is coming! RESIST!!! **"
+	{
+		"default"		"{darkred}Console: ** OK GO! The Penis-UFO is coming! RESIST!!! **"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *"
+	{
+		"default"		"{darkred}Console: * [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *"
+	}
+	"** GO! The penis UFO doors are opening!!! **"
+	{
+		"default"		"{darkred}Console: ** GO! The penis UFO doors are opening!!! **"
+	}
+	"** RESIST FOR 20 SECONDS!!! **"
+	{
+		"default"		"{darkred}Console: ** RESIST FOR 20 SECONDS!!! **"
+	}
+	"*** Word: BIRD ***"
+	{
+		"default"		"{darkred}Console: *** Word: BIRD ***"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *"
+	{
+		"default"		"{darkred}Console: * [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *"
+	}
+	"** Oh noes! The tunnel is locked! We'll have to hold a bit (30s) **"
+	{
+		"default"		"{darkred}Console: ** Oh noes! The tunnel is locked! We'll have to hold a bit (30s) **"
+	}
+	"** 15 seconds left! Keep defending! **"
+	{
+		"default"		"{darkred}Console: ** 15 seconds left! Keep defending! **"
+	}
+	"** 5 seconds left! Resist! **"
+	{
+		"default"		"{darkred}Console: ** 5 seconds left! Resist! **"
+	}
+	"*** Turn on the chopper's engines! ***"
+	{
+		"default"		"{darkred}Console: *** Turn on the chopper's engines! ***"
+	}
+	"** The helicopter is leaving in 30 seconds. RESIST! **"
+	{
+		"default"		"{darkred}Console: ** The helicopter is leaving in 30 seconds. RESIST! **"
+	}
+	"** C'mon! 15 more seconds! **"
+	{
+		"default"		"{darkred}Console: ** C'mon! 15 more seconds! **"
+	}
+	"*** DIFFICULTY: XTRIMER ***"
+	{
+		"default"		"{darkred}Console: *** DIFFICULTY: XTRIMER ***"
+	}
+}

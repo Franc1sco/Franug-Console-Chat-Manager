@@ -1,0 +1,235 @@
+"Console_C"
+{
+	"IDEA: Sienestaja"
+	{
+		"default"		"{darkred}Console: IDEA: Sienestaja"
+	}
+	">>LEVEL: NORMAL<<"
+	{
+		"default"		"{darkred}Console: >>LEVEL: NORMAL<<"
+	}
+	"MAP BY: TaskuVaras"
+	{
+		"default"		"{darkred}Console: MAP BY: TaskuVaras"
+	}
+	"Special Thanks to: Muro#[A] FT"
+	{
+		"default"		"{darkred}Console: Special Thanks to: Muro#[A] FT"
+	}
+	">>PLAYER HAS PICKED UP UNLIMITED AMMO<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP UNLIMITED AMMO<<"
+	}
+	"***WAIT TILL THAT WALL BREAKS***"
+	{
+		"default"		"{darkred}Console: ***WAIT TILL THAT WALL BREAKS***"
+	}
+	"***WALL IS BROKEN RUUUUUUN!!***"
+	{
+		"default"		"{darkred}Console: ***WALL IS BROKEN RUUUUUUN!!***"
+	}
+	"***WAIT TILL BOMB BREAKS THOSE BOARDS***"
+	{
+		"default"		"{darkred}Console: ***WAIT TILL BOMB BREAKS THOSE BOARDS***"
+	}
+	">>PLAYER HAS PICKED UP HEAL<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP HEAL<<"
+	}
+	">>PLAYER HAS PICKED UP GRAVITY<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP GRAVITY<<"
+	}
+	"***BOARDS ARE BROKEN RUUUUUUN!!***"
+	{
+		"default"		"{darkred}Console: ***BOARDS ARE BROKEN RUUUUUUN!!***"
+	}
+	"***leaf 1 leaving in 7 seconds***"
+	{
+		"default"		"{darkred}Console: ***leaf 1 leaving in 7 seconds***"
+	}
+	"***leaf 2 leaving in 7 seconds***"
+	{
+		"default"		"{darkred}Console: ***leaf 2 leaving in 7 seconds***"
+	}
+	"HOLD FOR 30 seconds"
+	{
+		"default"		"{darkred}Console: HOLD FOR 30 seconds"
+	}
+	"5 more seconds"
+	{
+		"default"		"{darkred}Console: 5 more seconds"
+	}
+	"GO!GO!GO!"
+	{
+		"default"		"{darkred}Console: GO!GO!GO!"
+	}
+	"***OH NO Its an EVIL BUTTERFLY***"
+	{
+		"default"		"{darkred}Console: ***OH NO Its an EVIL BUTTERFLY***"
+	}
+	"***SHOOT IT BEFORE ITS TOO LATE!!***"
+	{
+		"default"		"{darkred}Console: ***SHOOT IT BEFORE ITS TOO LATE!!***"
+	}
+	">>PLAYER HAS PICKED UP  6 MINES<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP  6 MINES<<"
+	}
+	">>PLAYER HAS PICKED UP ICE<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP ICE<<"
+	}
+	">>ALL 6 MINES USED<<"
+	{
+		"default"		"{darkred}Console: >>ALL 6 MINES USED<<"
+	}
+	"***BUTTERFLY IS DEAD RESCUE IS COMING***"
+	{
+		"default"		"{darkred}Console: ***BUTTERFLY IS DEAD RESCUE IS COMING***"
+	}
+	"BUTTERFLY LEAVING IN 10 seconds"
+	{
+		"default"		"{darkred}Console: BUTTERFLY LEAVING IN 10 seconds"
+	}
+	"LEVEL COMPLETED!!"
+	{
+		"default"		"{darkred}Console: LEVEL COMPLETED!!"
+	}
+	">>LEVEL: HARD<<"
+	{
+		"default"		"{darkred}Console: >>LEVEL: HARD<<"
+	}
+	">>PLAYER HAS PICKED UP WIND<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP WIND<<"
+	}
+	"***HOLD FOR 10 seconds***"
+	{
+		"default"		"{darkred}Console: ***HOLD FOR 10 seconds***"
+	}
+	"***HOLD FOR 20 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***HOLD FOR 20 seconds***"
+	}
+	"***HOLD FOR 40 seconds***"
+	{
+		"default"		"{darkred}Console: ***HOLD FOR 40 seconds***"
+	}
+	">>PLAYER HAS PICKED UP FIRE<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP FIRE<<"
+	}
+	"***HOLD FOR 5 seconds***"
+	{
+		"default"		"{darkred}Console: ***HOLD FOR 5 seconds***"
+	}
+	"***GO GO GO!!!!***"
+	{
+		"default"		"{darkred}Console: ***GO GO GO!!!!***"
+	}
+	"***ELEVATOR LEAVING IN 20 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***ELEVATOR LEAVING IN 20 seconds***"
+	}
+	"***ELEVATOR LEAVING IN 10 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***ELEVATOR LEAVING IN 10 seconds***"
+	}
+	"***ELEVATOR LEAVING IN 5 seconds***"
+	{
+		"default"		"{darkred}Console: ***ELEVATOR LEAVING IN 5 seconds***"
+	}
+	"CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED"
+	{
+		"default"		"{darkred}Console: CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED"
+	}
+	"ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!!"
+	{
+		"default"		"{darkred}Console: ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!!"
+	}
+	"***PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY***"
+	{
+		"default"		"{darkred}Console: ***PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY***"
+	}
+	">>PLAYER HAS PICKED UP EARTH<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP EARTH<<"
+	}
+	">>LEVEL: HELL<<"
+	{
+		"default"		"{darkred}Console: >>LEVEL: HELL<<"
+	}
+	"***HOLD FOR 30 seconds***"
+	{
+		"default"		"{darkred}Console: ***HOLD FOR 30 seconds***"
+	}
+	"***DOOR IS OPEN! RUUUN!***"
+	{
+		"default"		"{darkred}Console: ***DOOR IS OPEN! RUUUN!***"
+	}
+	"SECRET IS NOW OPEN"
+	{
+		"default"		"{darkred}Console: SECRET IS NOW OPEN"
+	}
+	">>PLAYER HAS PICKED UP ULTIMATE WEAPON<<"
+	{
+		"default"		"{darkred}Console: >>PLAYER HAS PICKED UP ULTIMATE WEAPON<<"
+	}
+	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK<<"
+	{
+		"default"		"{darkred}Console: >> YOU NEED TO FIND A KEY TO OPEN THAT LOCK<<"
+	}
+	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS<<"
+	{
+		"default"		"{darkred}Console: >> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS<<"
+	}
+	"***PLAYER FOUND A KEY***"
+	{
+		"default"		"{darkred}Console: ***PLAYER FOUND A KEY***"
+	}
+	"***OH NO!! ITS SATAN!!***"
+	{
+		"default"		"{darkred}Console: ***OH NO!! ITS SATAN!!***"
+	}
+	"***SHOOT IT OR YOU WILL BE HIS SLAVES FOR EVER!!***"
+	{
+		"default"		"{darkred}Console: ***SHOOT IT OR YOU WILL BE HIS SLAVES FOR EVER!!***"
+	}
+	"***THROW GRENADES TO KILL IT EASYER***"
+	{
+		"default"		"{darkred}Console: ***THROW GRENADES TO KILL IT EASYER***"
+	}
+	"***SATAN IS HURT YOU ARE FREE TO LEAVE HELL***"
+	{
+		"default"		"{darkred}Console: ***SATAN IS HURT YOU ARE FREE TO LEAVE HELL***"
+	}
+	"WAIT FOR 10 SECONDS"
+	{
+		"default"		"{darkred}Console: WAIT FOR 10 SECONDS"
+	}
+	">>LEVEL COMPLETED<<"
+	{
+		"default"		"{darkred}Console: >>LEVEL COMPLETED<<"
+	}
+	"PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!!"
+	{
+		"default"		"{darkred}Console: PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!!"
+	}
+	">>EXTREME MOD ADDED<<"
+	{
+		"default"		"{darkred}Console: >>EXTREME MOD ADDED<<"
+	}
+	">>BOSSES ON LEVEL II<<"
+	{
+		"default"		"{darkred}Console: >>BOSSES ON LEVEL II<<"
+	}
+	"*** HOLD FOR ABOUT 30 SECONDS***"
+	{
+		"default"		"{darkred}Console: *** HOLD FOR ABOUT 30 SECONDS***"
+	}
+	"ZOMBIES ABOARD!! LEVEL FAILED!!"
+	{
+		"default"		"{darkred}Console: ZOMBIES ABOARD!! LEVEL FAILED!!"
+	}
+}

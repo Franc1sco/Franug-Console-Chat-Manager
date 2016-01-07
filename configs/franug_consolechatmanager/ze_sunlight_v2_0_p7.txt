@@ -1,0 +1,115 @@
+"Console_C"
+{
+	"ZE Sunlight"
+	{
+		"default"		"{darkred}Console: ZE Sunlight"
+	}
+	"Created by Soft Serve"
+	{
+		"default"		"{darkred}Console: Created by Soft Serve"
+	}
+	"Map ported by www.dashijie.es"
+	{
+		"default"		"{darkred}Console: Map ported by www.dashijie.es"
+	}
+	"*** STAGE I ***"
+	{
+		"default"		"{darkred}Console: *** STAGE I ***"
+	}
+	"*** Defend for 30 seconds! ***"
+	{
+		"default"		"{darkred}Console: *** Defend for 30 seconds! ***"
+	}
+	"*** 5 seconds left ***"
+	{
+		"default"		"{darkred}Console: *** 5 seconds left ***"
+	}
+	"*** Sacrificial Orb has been acquired ***"
+	{
+		"default"		"{darkred}Console: *** Sacrificial Orb has been acquired ***"
+	}
+	"*** Eye of the Storm has been acquired ***"
+	{
+		"default"		"{darkred}Console: *** Eye of the Storm has been acquired ***"
+	}
+	"*** Lift is leaving in 30 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Lift is leaving in 30 seconds ***"
+	}
+	"*** Defend for 20 seconds! ***"
+	{
+		"default"		"{darkred}Console: *** Defend for 20 seconds! ***"
+	}
+	"*** Nuke in 1 minute ***"
+	{
+		"default"		"{darkred}Console: *** Nuke in 1 minute ***"
+	}
+	"*** Final door is opening in 10 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Final door is opening in 10 seconds ***"
+	}
+	"*** Nuke in 10 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Nuke in 10 seconds ***"
+	}
+	"*** Stage failed! ***"
+	{
+		"default"		"{darkred}Console: *** Stage failed! ***"
+	}
+	"*** Stage completed! ***"
+	{
+		"default"		"{darkred}Console: *** Stage completed! ***"
+	}
+	"*** STAGE II ***"
+	{
+		"default"		"{darkred}Console: *** STAGE II ***"
+	}
+	"*** Defend for 25 seconds! ***"
+	{
+		"default"		"{darkred}Console: *** Defend for 25 seconds! ***"
+	}
+	"*** Defend for 35 seconds! ***"
+	{
+		"default"		"{darkred}Console: *** Defend for 35 seconds! ***"
+	}
+	"*** Melon Launcher has been acquired ***"
+	{
+		"default"		"{darkred}Console: *** Melon Launcher has been acquired ***"
+	}
+	"*** Defend while one person calls the lift! ***"
+	{
+		"default"		"{darkred}Console: *** Defend while one person calls the lift! ***"
+	}
+	"*** Lift is leaving in 10 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Lift is leaving in 10 seconds ***"
+	}
+	"*** STAGE III ***"
+	{
+		"default"		"{darkred}Console: *** STAGE III ***"
+	}
+	"*** Defend for 45 seconds! ***"
+	{
+		"default"		"{darkred}Console: *** Defend for 45 seconds! ***"
+	}
+	"*** Water is rising in 10 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Water is rising in 10 seconds ***"
+	}
+	"*** Nuke in 2 minutes ***"
+	{
+		"default"		"{darkred}Console: *** Nuke in 2 minutes ***"
+	}
+	"*** Orange Launcher has been acquired ***"
+	{
+		"default"		"{darkred}Console: *** Orange Launcher has been acquired ***"
+	}
+	"*** Zombies have been teleported. Prepare to charge! ***"
+	{
+		"default"		"{darkred}Console: *** Zombies have been teleported. Prepare to charge! ***"
+	}
+	"*** STAGE IV ***"
+	{
+		"default"		"{darkred}Console: *** STAGE IV ***"
+	}
+}

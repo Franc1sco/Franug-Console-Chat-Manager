@@ -1,0 +1,167 @@
+"Console_C"
+{
+	"## Doors Will Open in 30 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Doors Will Open in 30 Seconds ##"
+	}
+	"## Doors Will Open in 10 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Doors Will Open in 10 Seconds ##"
+	}
+	"## Doors Will Open in 5 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Doors Will Open in 5 Seconds ##"
+	}
+	"## Doors Open RUN ##"
+	{
+		"default"		"{darkred}Console: ## Doors Open RUN ##"
+	}
+	"## Lift Leaving in 30 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Lift Leaving in 30 Seconds ##"
+	}
+	"## Lift Leaving in 10 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Lift Leaving in 10 Seconds ##"
+	}
+	"## Lift Leaving in 5 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Lift Leaving in 5 Seconds ##"
+	}
+	"## Lift Leaving ##"
+	{
+		"default"		"{darkred}Console: ## Lift Leaving ##"
+	}
+	"## Careful of the collapsing Floor! ##"
+	{
+		"default"		"{darkred}Console: ## Careful of the collapsing Floor! ##"
+	}
+	"## Trap Door Opening in 30 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Trap Door Opening in 30 Seconds ##"
+	}
+	"## Trap Door Opening in 10 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Trap Door Opening in 10 Seconds ##"
+	}
+	"## Trap Door Opening in 5 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Trap Door Opening in 5 Seconds ##"
+	}
+	"## Trap Door OPEN FALL BACK ##"
+	{
+		"default"		"{darkred}Console: ## Trap Door OPEN FALL BACK ##"
+	}
+	"##Door Opens 40 Seconds##"
+	{
+		"default"		"{darkred}Console: ##Door Opens 40 Seconds##"
+	}
+	"##Each Block will turn red when a zombie is in the corridor##"
+	{
+		"default"		"{darkred}Console: ##Each Block will turn red when a zombie is in the corridor##"
+	}
+	"##Each Block will turn green when the corridor is clear##"
+	{
+		"default"		"{darkred}Console: ##Each Block will turn green when the corridor is clear##"
+	}
+	"##Zombies can Break the Blocks sooo DEFEND##"
+	{
+		"default"		"{darkred}Console: ##Zombies can Break the Blocks sooo DEFEND##"
+	}
+	"##Door Opens 20 Seconds##"
+	{
+		"default"		"{darkred}Console: ##Door Opens 20 Seconds##"
+	}
+	"##Door Opens 10 Seconds##"
+	{
+		"default"		"{darkred}Console: ##Door Opens 10 Seconds##"
+	}
+	"##Door Open RUNNN##"
+	{
+		"default"		"{darkred}Console: ##Door Open RUNNN##"
+	}
+	"##Door Opening in 25 Seconds Defend!##"
+	{
+		"default"		"{darkred}Console: ##Door Opening in 25 Seconds Defend!##"
+	}
+	"##Door Opening in 10 Seconds Defend!##"
+	{
+		"default"		"{darkred}Console: ##Door Opening in 10 Seconds Defend!##"
+	}
+	"##Door Open FALL BACK##"
+	{
+		"default"		"{darkred}Console: ##Door Open FALL BACK##"
+	}
+	"## Final Door Opening 40 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Final Door Opening 40 Seconds ##"
+	}
+	"## HOLD and DEFEND ##"
+	{
+		"default"		"{darkred}Console: ## HOLD and DEFEND ##"
+	}
+	"## Final Door Opening 20 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Final Door Opening 20 Seconds ##"
+	}
+	"## Final Door Opening 10 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Final Door Opening 10 Seconds ##"
+	}
+	"## Final Door Opening 5 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Final Door Opening 5 Seconds ##"
+	}
+	"## Door Open Run ##"
+	{
+		"default"		"{darkred}Console: ## Door Open Run ##"
+	}
+	"## Boss Room Door Closing 10 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Boss Room Door Closing 10 Seconds ##"
+	}
+	"## All Players if not in the boss room will be teleported ##"
+	{
+		"default"		"{darkred}Console: ## All Players if not in the boss room will be teleported ##"
+	}
+	"## Boss Room Door Closing 5 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Boss Room Door Closing 5 Seconds ##"
+	}
+	"## Boss Room Door Closed...Prepare for BATTLE ##"
+	{
+		"default"		"{darkred}Console: ## Boss Room Door Closed...Prepare for BATTLE ##"
+	}
+	"## REAPER SPLITTER KILL IT ##"
+	{
+		"default"		"{darkred}Console: ## REAPER SPLITTER KILL IT ##"
+	}
+	"## Reaper Splitter Killed ESCAPE ##"
+	{
+		"default"		"{darkred}Console: ## Reaper Splitter Killed ESCAPE ##"
+	}
+	"## You have 2minutes till the boss room explodes! Kill it Quick! ##"
+	{
+		"default"		"{darkred}Console: ## You have 2minutes till the boss room explodes! Kill it Quick! ##"
+	}
+	"## Zombies will be released in 10 Seconds ##"
+	{
+		"default"		"{darkred}Console: ## Zombies will be released in 10 Seconds ##"
+	}
+	"## 15 Seconds to reach SafeZone ##"
+	{
+		"default"		"{darkred}Console: ## 15 Seconds to reach SafeZone ##"
+	}
+	"## 5 Seconds to reach SafeZone ##"
+	{
+		"default"		"{darkred}Console: ## 5 Seconds to reach SafeZone ##"
+	}
+	"## END GAME ##"
+	{
+		"default"		"{darkred}Console: ## END GAME ##"
+	}
+	"##You Lost##"
+	{
+		"default"		"{darkred}Console: ##You Lost##"
+	}
+}

@@ -1,0 +1,339 @@
+"Console_C"
+{
+	"***Adjust the volume in your music settings or via snd_musicvolume***"
+	{
+		"default"		"{darkred}Console: ***Adjust the volume in your music settings or via snd_musicvolume***"
+	}
+	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
+	{
+		"default"		"{darkred}Console: ** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
+	}
+	"** WARMUP ROUND **"
+	{
+		"default"		"{darkred}Console: ** WARMUP ROUND **"
+	}
+	"** SONG PLAYING: RESIDENT EVIL: RETRIBUTION - DRIVE AWAY **"
+	{
+		"default"		"{darkred}Console: ** SONG PLAYING: RESIDENT EVIL: RETRIBUTION - DRIVE AWAY **"
+	}
+	"** STARTING MAP **"
+	{
+		"default"		"{darkred}Console: ** STARTING MAP **"
+	}
+	"** CURRENT: EASY MODE **"
+	{
+		"default"		"{darkred}Console: ** CURRENT: EASY MODE **"
+	}
+	"** SONG PLAYING: HYBRID - JUST FOR TODAY **"
+	{
+		"default"		"{darkred}Console: ** SONG PLAYING: HYBRID - JUST FOR TODAY **"
+	}
+	"** AMMO BOX HAS BEEN PICKED UP **"
+	{
+		"default"		"{darkred}Console: ** AMMO BOX HAS BEEN PICKED UP **"
+	}
+	"** BOMB PLACER HAS BEEN PICKED UP **"
+	{
+		"default"		"{darkred}Console: ** BOMB PLACER HAS BEEN PICKED UP **"
+	}
+	"** DEFEND SECTION A5 UNTIL THE GATE BREAKS **"
+	{
+		"default"		"{darkred}Console: ** DEFEND SECTION A5 UNTIL THE GATE BREAKS **"
+	}
+	"** THE GATE IN SECTION A5 WILL BREAK IN 10 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE GATE IN SECTION A5 WILL BREAK IN 10 SECONDS **"
+	}
+	"** THE GATE IN SECTION A5 WILL BREAK IN 5 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE GATE IN SECTION A5 WILL BREAK IN 5 SECONDS **"
+	}
+	"** THE GATE IN SECTION A5 IS BROKEN ** FALL BACK **"
+	{
+		"default"		"{darkred}Console: ** THE GATE IN SECTION A5 IS BROKEN ** FALL BACK **"
+	}
+	"** TRAM 1 WILL LEAVE IN 30 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** TRAM 1 WILL LEAVE IN 30 SECONDS **"
+	}
+	"** EVERYBODY COVER TRAM 1 **"
+	{
+		"default"		"{darkred}Console: ** EVERYBODY COVER TRAM 1 **"
+	}
+	"** SLOWMOTION GUN HAS BEEN PICKED UP **"
+	{
+		"default"		"{darkred}Console: ** SLOWMOTION GUN HAS BEEN PICKED UP **"
+	}
+	"** PUSH GUN HAS BEEN PICKED UP **"
+	{
+		"default"		"{darkred}Console: ** PUSH GUN HAS BEEN PICKED UP **"
+	}
+	"** TRAM 1 WILL LEAVE IN 15 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** TRAM 1 WILL LEAVE IN 15 SECONDS **"
+	}
+	"** TRAM 1 WILL LEAVE IN 5 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** TRAM 1 WILL LEAVE IN 5 SECONDS **"
+	}
+	"** ALL GET IN TRAM 1 ** "
+	{
+		"default"		"{darkred}Console: ** ALL GET IN TRAM 1 ** "
+	}
+	"** COVER SECTION B4 FOR 15 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** COVER SECTION B4 FOR 15 SECONDS **"
+	}
+	"** THE GATE IN SECTION B4 WILL BREAK IN 10 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE GATE IN SECTION B4 WILL BREAK IN 10 SECONDS **"
+	}
+	"** THE GATE IN SECTION B4 WILL BREAK IN 5 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE GATE IN SECTION B4 WILL BREAK IN 5 SECONDS **"
+	}
+	"** THE ELEVATOR IS LEAVING IN 30 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE ELEVATOR IS LEAVING IN 30 SECONDS **"
+	}
+	"** THE ELEVATOR IS LEAVING IN 20 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE ELEVATOR IS LEAVING IN 20 SECONDS **"
+	}
+	"** THE ELEVATOR IS LEAVING IN 10 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE ELEVATOR IS LEAVING IN 10 SECONDS **"
+	}
+	"** THE ELEVATOR IS LEAVING IN 5 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE ELEVATOR IS LEAVING IN 5 SECONDS **"
+	}
+	"** ALL GET IN ** THE ELEVATOR IS GOING TO LEAVE **"
+	{
+		"default"		"{darkred}Console: ** ALL GET IN ** THE ELEVATOR IS GOING TO LEAVE **"
+	}
+	"** ZOMBIES ARE TRAPPED FOR 15 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** ZOMBIES ARE TRAPPED FOR 15 SECONDS **"
+	}
+	"** ELEVATOR GENERATOR OFFLINE **"
+	{
+		"default"		"{darkred}Console: ** ELEVATOR GENERATOR OFFLINE **"
+	}
+	"** ELEVATOR GENERATOR FAILING **"
+	{
+		"default"		"{darkred}Console: ** ELEVATOR GENERATOR FAILING **"
+	}
+	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 30 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** ROCKY DOOR IN SECTION D8 WILL BREAK IN 30 SECONDS **"
+	}
+	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 20 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** ROCKY DOOR IN SECTION D8 WILL BREAK IN 20 SECONDS **"
+	}
+	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 10 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** ROCKY DOOR IN SECTION D8 WILL BREAK IN 10 SECONDS **"
+	}
+	"** ROCKY DOOR IN SECTION D8 WILL BREAK IN 5 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** ROCKY DOOR IN SECTION D8 WILL BREAK IN 5 SECONDS **"
+	}
+	"** ROCKY DOOR IN SECTION D8 IS BROKEN ** FALL BACK **"
+	{
+		"default"		"{darkred}Console: ** ROCKY DOOR IN SECTION D8 IS BROKEN ** FALL BACK **"
+	}
+	"** ACTIVATE THE TELEPORTER WITH THE COMPUTER BUTTONS **"
+	{
+		"default"		"{darkred}Console: ** ACTIVATE THE TELEPORTER WITH THE COMPUTER BUTTONS **"
+	}
+	"** THE TELEPORTER WILL BE ACTIVATED IN 30 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE TELEPORTER WILL BE ACTIVATED IN 30 SECONDS **"
+	}
+	"** THE TELEPORTER WILL BE ACTIVATED IN 20 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE TELEPORTER WILL BE ACTIVATED IN 20 SECONDS **"
+	}
+	"** THE TELEPORTER WILL BE ACTIVATED IN 10 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE TELEPORTER WILL BE ACTIVATED IN 10 SECONDS **"
+	}
+	"** THE TELEPORTER WILL BE ACTIVATED IN 5 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE TELEPORTER WILL BE ACTIVATED IN 5 SECONDS **"
+	}
+	"** ACTIVATING THE TELEPORTER ** FALL BACK **"
+	{
+		"default"		"{darkred}Console: ** ACTIVATING THE TELEPORTER ** FALL BACK **"
+	}
+	"** THE TRAIN WILL LEAVE IN 60 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE TRAIN WILL LEAVE IN 60 SECONDS **"
+	}
+	"** SONG PLAYING: HALO 2 OST VOL. 1 - IN AMBER CLAD **"
+	{
+		"default"		"{darkred}Console: ** SONG PLAYING: HALO 2 OST VOL. 1 - IN AMBER CLAD **"
+	}
+	"** THE TRAIN WILL LEAVE IN 50 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE TRAIN WILL LEAVE IN 50 SECONDS **"
+	}
+	"** THE TRAIN WILL LEAVE IN 40 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE TRAIN WILL LEAVE IN 40 SECONDS **"
+	}
+	"** THE TRAIN WILL LEAVE IN 30 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE TRAIN WILL LEAVE IN 30 SECONDS **"
+	}
+	"** THE TRAIN WILL LEAVE IN 20 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE TRAIN WILL LEAVE IN 20 SECONDS **"
+	}
+	"** THE TRAIN WILL LEAVE IN 10 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE TRAIN WILL LEAVE IN 10 SECONDS **"
+	}
+	"** THE TRAIN WILL LEAVE IN 5 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE TRAIN WILL LEAVE IN 5 SECONDS **"
+	}
+	"** THE TRAIN IS LEAVING NOW ** BE INSIDE **"
+	{
+		"default"		"{darkred}Console: ** THE TRAIN IS LEAVING NOW ** BE INSIDE **"
+	}
+	"** HUMANS WIN **"
+	{
+		"default"		"{darkred}Console: ** HUMANS WIN **"
+	}
+	"** EASY MODE COMPLETE ** HARD MODE UNLOCKED **"
+	{
+		"default"		"{darkred}Console: ** EASY MODE COMPLETE ** HARD MODE UNLOCKED **"
+	}
+	"** CURRENT: HARD MODE **"
+	{
+		"default"		"{darkred}Console: ** CURRENT: HARD MODE **"
+	}
+	"** SONG PLAYING: HYBRID - EMPIRE **"
+	{
+		"default"		"{darkred}Console: ** SONG PLAYING: HYBRID - EMPIRE **"
+	}
+	"** DEFEND SECTION A3 UNTIL THE GATE BREAKS **"
+	{
+		"default"		"{darkred}Console: ** DEFEND SECTION A3 UNTIL THE GATE BREAKS **"
+	}
+	"** THE GATE IN SECTION A3 WILL BREAK IN 10 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE GATE IN SECTION A3 WILL BREAK IN 10 SECONDS **"
+	}
+	"** THE GATE IN SECTION A3 WILL BREAK IN 5 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE GATE IN SECTION A3 WILL BREAK IN 5 SECONDS **"
+	}
+	"** THE GATE IN SECTION A3 IS BROKEN ** FALL BACK **"
+	{
+		"default"		"{darkred}Console: ** THE GATE IN SECTION A3 IS BROKEN ** FALL BACK **"
+	}
+	"** TRAM 2 WILL LEAVE IN 30 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** TRAM 2 WILL LEAVE IN 30 SECONDS **"
+	}
+	"** EVERYBODY COVER TRAM 2 **"
+	{
+		"default"		"{darkred}Console: ** EVERYBODY COVER TRAM 2 **"
+	}
+	"** TRAM 2 WILL LEAVE IN 15 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** TRAM 2 WILL LEAVE IN 15 SECONDS **"
+	}
+	"** TRAM 2 WILL LEAVE IN 5 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** TRAM 2 WILL LEAVE IN 5 SECONDS **"
+	}
+	"** ALL GET IN TRAM 2 ** "
+	{
+		"default"		"{darkred}Console: ** ALL GET IN TRAM 2 ** "
+	}
+	"** COVER SECTION B7 FOR 15 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** COVER SECTION B7 FOR 15 SECONDS **"
+	}
+	"** THE GATE IN SECTION B7 WILL BREAK IN 10 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE GATE IN SECTION B7 WILL BREAK IN 10 SECONDS **"
+	}
+	"** THE GATE IN SECTION B7 WILL BREAK IN 5 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** THE GATE IN SECTION B7 WILL BREAK IN 5 SECONDS **"
+	}
+	"** SECRET FREEZE MACHINE UNLOCKED **"
+	{
+		"default"		"{darkred}Console: ** SECRET FREEZE MACHINE UNLOCKED **"
+	}
+	"** ACTIVATING THE TELEPORTER ** GET READY TO FALL BACK **"
+	{
+		"default"		"{darkred}Console: ** ACTIVATING THE TELEPORTER ** GET READY TO FALL BACK **"
+	}
+	"** RUN OUTSIDE TO THE PYRAMID **"
+	{
+		"default"		"{darkred}Console: ** RUN OUTSIDE TO THE PYRAMID **"
+	}
+	"** SONG PLAYING: E.S. POSTHUMUS - NINEVEH **"
+	{
+		"default"		"{darkred}Console: ** SONG PLAYING: E.S. POSTHUMUS - NINEVEH **"
+	}
+	"** ZOMBIES ARE TRAPPED FOR 10 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** ZOMBIES ARE TRAPPED FOR 10 SECONDS **"
+	}
+	"** ZOMBIES ARE NO LONGER TRAPPED **"
+	{
+		"default"		"{darkred}Console: ** ZOMBIES ARE NO LONGER TRAPPED **"
+	}
+	"** SAFEBOX BROKEN ** PRESS THE BUTTON TO ACTIVATE THE NUKE **"
+	{
+		"default"		"{darkred}Console: ** SAFEBOX BROKEN ** PRESS THE BUTTON TO ACTIVATE THE NUKE **"
+	}
+	"** NUKE ACTIVATED ** DEFEND THE PYRAMID FOR 40 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** NUKE ACTIVATED ** DEFEND THE PYRAMID FOR 40 SECONDS **"
+	}
+	"** NUKE WILL BE DROPPED IN 30 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** NUKE WILL BE DROPPED IN 30 SECONDS **"
+	}
+	"** NUKE WILL BE DROPPED IN 20 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** NUKE WILL BE DROPPED IN 20 SECONDS **"
+	}
+	"** NUKE WILL BE DROPPED IN 10 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** NUKE WILL BE DROPPED IN 10 SECONDS **"
+	}
+	"** NUKE WILL BE DROPPED IN 5 SECONDS **"
+	{
+		"default"		"{darkred}Console: ** NUKE WILL BE DROPPED IN 5 SECONDS **"
+	}
+	"** ALL FALL BACK ** PYRAMID DOOR IS CLOSING **"
+	{
+		"default"		"{darkred}Console: ** ALL FALL BACK ** PYRAMID DOOR IS CLOSING **"
+	}
+	"** ZOMBIES DETECTED IN THE TEMPLE **"
+	{
+		"default"		"{darkred}Console: ** ZOMBIES DETECTED IN THE TEMPLE **"
+	}
+	"** HARD MODE FAILED ** RESTARTING **"
+	{
+		"default"		"{darkred}Console: ** HARD MODE FAILED ** RESTARTING **"
+	}
+	"** SECRET FREEZE MACHINE HAS BEEN PICKED UP **"
+	{
+		"default"		"{darkred}Console: ** SECRET FREEZE MACHINE HAS BEEN PICKED UP **"
+	}
+	"** NADE SPAWNER HAS BEEN PICKED UP **"
+	{
+		"default"		"{darkred}Console: ** NADE SPAWNER HAS BEEN PICKED UP **"
+	}
+}

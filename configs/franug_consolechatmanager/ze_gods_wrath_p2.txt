@@ -1,0 +1,110 @@
+"Console_C"
+{
+	"***Doors will break in 20 secounds***"
+	{
+		"default"		"{darkred}Console: ***Doors will break in 20 secounds***"
+	}
+	"***We must get into the Other its is where the god heart lies***"
+	{
+		"default"		"{darkred}Console: ***We must get into the Other its is where the god heart lies***"
+	}
+	"***We can get into the Other by takeing the portal outside these doors***"
+	{
+		"default"		"{darkred}Console: ***We can get into the Other by takeing the portal outside these doors***"
+	}
+	"****Map created by GrandOp****"
+	{
+		"default"		"{darkred}Console: ****Map created by GrandOp****"
+	}
+	"****Zombie burner gun"
+	{
+		"Human healer gun****"
+		{
+			"default"		"{darkred}Console: ****Zombie burner gun/Human healer gun****"
+		}
+	}
+	"***Find the next portal and jump into it***"
+	{
+		"default"		"{darkred}Console: ***Find the next portal and jump into it***"
+	}
+	"****Zombie burner gun will set all zombies close by on fire****"
+	{
+		"default"		"{darkred}Console: ****Zombie burner gun will set all zombies close by on fire****"
+	}
+	"***Dont stay here for too long!***"
+	{
+		"default"		"{darkred}Console: ***Dont stay here for too long!***"
+	}
+	"***Wind!***"
+	{
+		"default"		"{darkred}Console: ***Wind!***"
+	}
+	"***Metal fence will be destroyed in 14 secounds***"
+	{
+		"default"		"{darkred}Console: ***Metal fence will be destroyed in 14 secounds***"
+	}
+	"***Metal wall is down!***"
+	{
+		"default"		"{darkred}Console: ***Metal wall is down!***"
+	}
+	"***Destroy the crystals and wait for the bridge to appear***"
+	{
+		"default"		"{darkred}Console: ***Destroy the crystals and wait for the bridge to appear***"
+	}
+	"***Bridge has been atevated***"
+	{
+		"default"		"{darkred}Console: ***Bridge has been atevated***"
+	}
+	"***A chunk of floor is breaking off! we can ride it to the other side!***"
+	{
+		"default"		"{darkred}Console: ***A chunk of floor is breaking off! we can ride it to the other side!***"
+	}
+	"****Zombie burner will reset in 40 secounds****"
+	{
+		"default"		"{darkred}Console: ****Zombie burner will reset in 40 secounds****"
+	}
+	"****Zombies close by will burn!****"
+	{
+		"default"		"{darkred}Console: ****Zombies close by will burn!****"
+	}
+	"***Destroy the crystals to enable the bridge***"
+	{
+		"default"		"{darkred}Console: ***Destroy the crystals to enable the bridge***"
+	}
+	"***Defend your self untill the gate opens***"
+	{
+		"default"		"{darkred}Console: ***Defend your self untill the gate opens***"
+	}
+	"***The gate is opening!***"
+	{
+		"default"		"{darkred}Console: ***The gate is opening!***"
+	}
+	"***You have made it to the Citadel***"
+	{
+		"default"		"{darkred}Console: ***You have made it to the Citadel***"
+	}
+	"***Destroy the crystals powering the God's heart***"
+	{
+		"default"		"{darkred}Console: ***Destroy the crystals powering the God's heart***"
+	}
+	"***Run back to the portal!***"
+	{
+		"default"		"{darkred}Console: ***Run back to the portal!***"
+	}
+	"***You got 60 secounds to get out of the Other***"
+	{
+		"default"		"{darkred}Console: ***You got 60 secounds to get out of the Other***"
+	}
+	"***The Other is going to hell! Make sure your  inside the saferoom when it blows***"
+	{
+		"default"		"{darkred}Console: ***The Other is going to hell! Make sure your  inside the saferoom when it blows***"
+	}
+	"***Got 15 secounds to get inside the safe room!***"
+	{
+		"default"		"{darkred}Console: ***Got 15 secounds to get inside the safe room!***"
+	}
+	"***Safe room door is closeing***"
+	{
+		"default"		"{darkred}Console: ***Safe room door is closeing***"
+	}
+}

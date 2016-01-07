@@ -1,0 +1,183 @@
+"Console_C"
+{
+	"-=Map By Westsiderain=-"
+	{
+		"default"		"{darkred}Console: -=Map By Westsiderain=-"
+	}
+	"-=SPECIAL THANKS TO SCA SERVER FOR BETA TESTING!=-"
+	{
+		"default"		"{darkred}Console: -=SPECIAL THANKS TO SCA SERVER FOR BETA TESTING!=-"
+	}
+	"-= SCACLAN.COM >> 50.31.65.61:27015 =-"
+	{
+		"default"		"{darkred}Console: -= SCACLAN.COM >> 50.31.65.61:27015 =-"
+	}
+	"**GET TO THE MANSION!**"
+	{
+		"default"		"{darkred}Console: **GET TO THE MANSION!**"
+	}
+	"-=Detonating=-"
+	{
+		"default"		"{darkred}Console: -=Detonating=-"
+	}
+	"-=Main door opens in 10 seconds!=-"
+	{
+		"default"		"{darkred}Console: -=Main door opens in 10 seconds!=-"
+	}
+	"-=Hold here for 40 seconds=-"
+	{
+		"default"		"{darkred}Console: -=Hold here for 40 seconds=-"
+	}
+	"**Zombies ate the main gate!**"
+	{
+		"default"		"{darkred}Console: **Zombies ate the main gate!**"
+	}
+	"**Lightning:  How bout some hardcore S&M boys?  Press the red button!!**"
+	{
+		"default"		"{darkred}Console: **Lightning:  How bout some hardcore S&M boys?  Press the red button!!**"
+	}
+	"-=Defense System Activated.=-"
+	{
+		"default"		"{darkred}Console: -=Defense System Activated.=-"
+	}
+	"-=Toilet Defense System Activated=-"
+	{
+		"default"		"{darkred}Console: -=Toilet Defense System Activated=-"
+	}
+	"**Lightning: Oooo Yeah!!! Did that hurt?**"
+	{
+		"default"		"{darkred}Console: **Lightning: Oooo Yeah!!! Did that hurt?**"
+	}
+	"-=Door opens in 10 seconds.=-"
+	{
+		"default"		"{darkred}Console: -=Door opens in 10 seconds.=-"
+	}
+	"-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-"
+	{
+		"default"		"{darkred}Console: -=DOOR JAMMED! FIND ANOTHER WAY OUT!=-"
+	}
+	"**Zombies held back for 5 seconds.**"
+	{
+		"default"		"{darkred}Console: **Zombies held back for 5 seconds.**"
+	}
+	"**Those Planks Look Oftly Flimsy!**"
+	{
+		"default"		"{darkred}Console: **Those Planks Look Oftly Flimsy!**"
+	}
+	"-=Hold here for 30 Seconds.=-"
+	{
+		"default"		"{darkred}Console: -=Hold here for 30 Seconds.=-"
+	}
+	"**Sailor Moon: Hey Boys!  I'm So Horny!  Come Touch Me!**"
+	{
+		"default"		"{darkred}Console: **Sailor Moon: Hey Boys!  I'm So Horny!  Come Touch Me!**"
+	}
+	"-=A Player Has Been Raped By Sailormoon.=-"
+	{
+		"default"		"{darkred}Console: -=A Player Has Been Raped By Sailormoon.=-"
+	}
+	"-=Zombies advance in 15 seconds.=-"
+	{
+		"default"		"{darkred}Console: -=Zombies advance in 15 seconds.=-"
+	}
+	"**Sailor Moon: I'M CUMMIN FOR YOU!**"
+	{
+		"default"		"{darkred}Console: **Sailor Moon: I'M CUMMIN FOR YOU!**"
+	}
+	"-=5 seconds remaining.=-"
+	{
+		"default"		"{darkred}Console: -=5 seconds remaining.=-"
+	}
+	"-=DOOR OPENED! Zombies held back for 5 seconds.=-"
+	{
+		"default"		"{darkred}Console: -=DOOR OPENED! Zombies held back for 5 seconds.=-"
+	}
+	"**Does this copter have enough fuel?**"
+	{
+		"default"		"{darkred}Console: **Does this copter have enough fuel?**"
+	}
+	"-=Hold here for 20 seconds=-"
+	{
+		"default"		"{darkred}Console: -=Hold here for 20 seconds=-"
+	}
+	"-=Helicopter Departing in 10 Seconds.=-"
+	{
+		"default"		"{darkred}Console: -=Helicopter Departing in 10 Seconds.=-"
+	}
+	"-=MAYDAY! MAYDAY!!!=-"
+	{
+		"default"		"{darkred}Console: -=MAYDAY! MAYDAY!!!=-"
+	}
+	"WE'RE GOING DOWN!!!"
+	{
+		"default"		"{darkred}Console: WE'RE GOING DOWN!!!"
+	}
+	"-=WE'RE GOING DOWN!=-"
+	{
+		"default"		"{darkred}Console: -=WE'RE GOING DOWN!=-"
+	}
+	"-=Door opened!  Zombies held back 5 seconds.=-"
+	{
+		"default"		"{darkred}Console: -=Door opened!  Zombies held back 5 seconds.=-"
+	}
+	"-=Defense System Activated=-"
+	{
+		"default"		"{darkred}Console: -=Defense System Activated=-"
+	}
+	"-=Door opens in 20 seconds.=-"
+	{
+		"default"		"{darkred}Console: -=Door opens in 20 seconds.=-"
+	}
+	"-=Door opens in 5 seconds.=-"
+	{
+		"default"		"{darkred}Console: -=Door opens in 5 seconds.=-"
+	}
+	"** Zombies are trapped for 15 secs or til CTs find a solution.**"
+	{
+		"default"		"{darkred}Console: ** Zombies are trapped for 15 secs or til CTs find a solution.**"
+	}
+	"-=Find Dr. Valencia=-"
+	{
+		"default"		"{darkred}Console: -=Find Dr. Valencia=-"
+	}
+	"**Dr. Valencia:  I'm in the john!**"
+	{
+		"default"		"{darkred}Console: **Dr. Valencia:  I'm in the john!**"
+	}
+	"-=Force her out!=-"
+	{
+		"default"		"{darkred}Console: -=Force her out!=-"
+	}
+	"**Dr. Valencia: HOW DARE YOU BREAK MY CAN!**"
+	{
+		"default"		"{darkred}Console: **Dr. Valencia: HOW DARE YOU BREAK MY CAN!**"
+	}
+	"-=Zombies released in 3 seconds=-"
+	{
+		"default"		"{darkred}Console: -=Zombies released in 3 seconds=-"
+	}
+	"**Dr Valencia:  Ok... I'll open the door.**"
+	{
+		"default"		"{darkred}Console: **Dr Valencia:  Ok... I'll open the door.**"
+	}
+	"**Dr Valencia: Give me 15 seconds.**"
+	{
+		"default"		"{darkred}Console: **Dr Valencia: Give me 15 seconds.**"
+	}
+	"**Dr. Valencia: I might need to expell some gas soon.**"
+	{
+		"default"		"{darkred}Console: **Dr. Valencia: I might need to expell some gas soon.**"
+	}
+	"-=Dr. Valencia:  Door opening in 5.=-"
+	{
+		"default"		"{darkred}Console: -=Dr. Valencia:  Door opening in 5.=-"
+	}
+	"-=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-"
+	{
+		"default"		"{darkred}Console: -=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-"
+	}
+	"**Dr. Valencia: TAKE THIS!!!**"
+	{
+		"default"		"{darkred}Console: **Dr. Valencia: TAKE THIS!!!**"
+	}
+}

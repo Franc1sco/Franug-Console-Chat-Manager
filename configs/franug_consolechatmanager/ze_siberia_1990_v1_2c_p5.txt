@@ -1,0 +1,167 @@
+"Console_C"
+{
+	"Warping all players to Siberia in 15 seconds."
+	{
+		"default"		"{darkred}Console: Warping all players to Siberia in 15 seconds."
+	}
+	"Objective. Find and destroy the source of the outbreak."
+	{
+		"default"		"{darkred}Console: Objective. Find and destroy the source of the outbreak."
+	}
+	"Proximity mine obtained!"
+	{
+		"default"		"{darkred}Console: Proximity mine obtained!"
+	}
+	"The promixity mine can be used every 24 seconds."
+	{
+		"default"		"{darkred}Console: The promixity mine can be used every 24 seconds."
+	}
+	"Overriding security breach 30 seconds"
+	{
+		"default"		"{darkred}Console: Overriding security breach 30 seconds"
+	}
+	"10 seconds left"
+	{
+		"default"		"{darkred}Console: 10 seconds left"
+	}
+	"Door is now open. Get inside the dam!"
+	{
+		"default"		"{darkred}Console: Door is now open. Get inside the dam!"
+	}
+	"Dam door closing in 10 seconds"
+	{
+		"default"		"{darkred}Console: Dam door closing in 10 seconds"
+	}
+	"Zombie spawns are advancing in 20 seconds"
+	{
+		"default"		"{darkred}Console: Zombie spawns are advancing in 20 seconds"
+	}
+	"Reducing steam pressure 10 seconds"
+	{
+		"default"		"{darkred}Console: Reducing steam pressure 10 seconds"
+	}
+	"Steam pressure at 66%"
+	{
+		"default"		"{darkred}Console: Steam pressure at 66%"
+	}
+	"Steam pressure at 33%"
+	{
+		"default"		"{darkred}Console: Steam pressure at 33%"
+	}
+	"Steam pressure at 0%"
+	{
+		"default"		"{darkred}Console: Steam pressure at 0%"
+	}
+	"Zombie spawns advancing in 15 seconds"
+	{
+		"default"		"{darkred}Console: Zombie spawns advancing in 15 seconds"
+	}
+	"Dam door opening in 20 seconds"
+	{
+		"default"		"{darkred}Console: Dam door opening in 20 seconds"
+	}
+	"Dam door closing in 5 seconds"
+	{
+		"default"		"{darkred}Console: Dam door closing in 5 seconds"
+	}
+	"Push gun obtained!"
+	{
+		"default"		"{darkred}Console: Push gun obtained!"
+	}
+	"The push gun can be used every 45 seconds."
+	{
+		"default"		"{darkred}Console: The push gun can be used every 45 seconds."
+	}
+	"Door opening in 20 seconds"
+	{
+		"default"		"{darkred}Console: Door opening in 20 seconds"
+	}
+	"Door opening in 10 seconds"
+	{
+		"default"		"{darkred}Console: Door opening in 10 seconds"
+	}
+	"Door closing in 10 seconds"
+	{
+		"default"		"{darkred}Console: Door closing in 10 seconds"
+	}
+	"Zombie spawns advancing in 25 seconds"
+	{
+		"default"		"{darkred}Console: Zombie spawns advancing in 25 seconds"
+	}
+	"Door opening in 30 seconds"
+	{
+		"default"		"{darkred}Console: Door opening in 30 seconds"
+	}
+	"Arming C4 in 30 seconds"
+	{
+		"default"		"{darkred}Console: Arming C4 in 30 seconds"
+	}
+	"C4 armed in 10 seconds"
+	{
+		"default"		"{darkred}Console: C4 armed in 10 seconds"
+	}
+	"C4 in now armed"
+	{
+		"default"		"{darkred}Console: C4 in now armed"
+	}
+	"New objective. Reach the top of the dam for extraction"
+	{
+		"default"		"{darkred}Console: New objective. Reach the top of the dam for extraction"
+	}
+	"Zombie spawn advancing in 15 seconds"
+	{
+		"default"		"{darkred}Console: Zombie spawn advancing in 15 seconds"
+	}
+	"Elevator doors opening in 20 seconds"
+	{
+		"default"		"{darkred}Console: Elevator doors opening in 20 seconds"
+	}
+	"Elevator doors closing in 10 seconds"
+	{
+		"default"		"{darkred}Console: Elevator doors closing in 10 seconds"
+	}
+	"Time portal will open in 50 seconds"
+	{
+		"default"		"{darkred}Console: Time portal will open in 50 seconds"
+	}
+	"Zombie spawn advancing in 10 seconds"
+	{
+		"default"		"{darkred}Console: Zombie spawn advancing in 10 seconds"
+	}
+	"TIP: Zombies can pass through our portal."
+	{
+		"default"		"{darkred}Console: TIP: Zombies can pass through our portal."
+	}
+	"TIP: It would be wise to stay and defend a bit until the explosion occurs."
+	{
+		"default"		"{darkred}Console: TIP: It would be wise to stay and defend a bit until the explosion occurs."
+	}
+	"30 seconds"
+	{
+		"default"		"{darkred}Console: 30 seconds"
+	}
+	"10 seconds"
+	{
+		"default"		"{darkred}Console: 10 seconds"
+	}
+	"C4 exploding in 10 seconds"
+	{
+		"default"		"{darkred}Console: C4 exploding in 10 seconds"
+	}
+	"An infected got through our portal! Push them back!"
+	{
+		"default"		"{darkred}Console: An infected got through our portal! Push them back!"
+	}
+	"An infected has passed through our portal."
+	{
+		"default"		"{darkred}Console: An infected has passed through our portal."
+	}
+	"-Hardcore Mode-"
+	{
+		"default"		"{darkred}Console: -Hardcore Mode-"
+	}
+	"You have less than 15 seconds to whipe out the remaining infected or face death!"
+	{
+		"default"		"{darkred}Console: You have less than 15 seconds to whipe out the remaining infected or face death!"
+	}
+}

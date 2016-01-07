@@ -1,0 +1,410 @@
+"Console_C"
+{
+	"***Map by SonicTheHitManHog"
+	{
+		"RelaxingWalls***"
+		{
+			"default"		"{darkred}Console: ***Map by SonicTheHitManHog/RelaxingWalls***"
+		}
+	}
+	"***LEVEL -- BOX WITH A LIGHT IN IT***"
+	{
+		"default"		"{darkred}Console: ***LEVEL -- BOX WITH A LIGHT IN IT***"
+	}
+	"***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
+	{
+		"default"		"{darkred}Console: ***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
+	}
+	"***Teleporting in 20secs!***"
+	{
+		"default"		"{darkred}Console: ***Teleporting in 20secs!***"
+	}
+	"***3***"
+	{
+		"default"		"{darkred}Console: ***3***"
+	}
+	"***2***"
+	{
+		"default"		"{darkred}Console: ***2***"
+	}
+	"***1***"
+	{
+		"default"		"{darkred}Console: ***1***"
+	}
+	"***Good Luck!!***"
+	{
+		"default"		"{darkred}Console: ***Good Luck!!***"
+	}
+	"***LEVEL -- COUCH ESCAPE***"
+	{
+		"default"		"{darkred}Console: ***LEVEL -- COUCH ESCAPE***"
+	}
+	"***Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!***"
+	{
+		"default"		"{darkred}Console: ***Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!***"
+	}
+	"***If the world is going to end at least you'll have a warm seat!***"
+	{
+		"default"		"{darkred}Console: ***If the world is going to end at least you'll have a warm seat!***"
+	}
+	"***Zombie barrier breaking in 20secs get moving!***"
+	{
+		"default"		"{darkred}Console: ***Zombie barrier breaking in 20secs get moving!***"
+	}
+	"***Hold these crates while someone breaks the barrier and gets the couch going!***"
+	{
+		"default"		"{darkred}Console: ***Hold these crates while someone breaks the barrier and gets the couch going!***"
+	}
+	"***LEVEL -- ICE CAP ESCAPE***"
+	{
+		"default"		"{darkred}Console: ***LEVEL -- ICE CAP ESCAPE***"
+	}
+	"***Everyone HOLD the boxes while someone starts up the teleporter!***"
+	{
+		"default"		"{darkred}Console: ***Everyone HOLD the boxes while someone starts up the teleporter!***"
+	}
+	"***Teleporter will be fully charged in 20secs!***"
+	{
+		"default"		"{darkred}Console: ***Teleporter will be fully charged in 20secs!***"
+	}
+	"***Teleporter ERROR!***"
+	{
+		"default"		"{darkred}Console: ***Teleporter ERROR!***"
+	}
+	"***Escape Boat leaving in 35secs!***"
+	{
+		"default"		"{darkred}Console: ***Escape Boat leaving in 35secs!***"
+	}
+	"***HOLD THE CRATES!***"
+	{
+		"default"		"{darkred}Console: ***HOLD THE CRATES!***"
+	}
+	"***Escape Boat engine failure!***"
+	{
+		"default"		"{darkred}Console: ***Escape Boat engine failure!***"
+	}
+	"***...Take the Wash Bucket...?***"
+	{
+		"default"		"{darkred}Console: ***...Take the Wash Bucket...?***"
+	}
+	"***Barrier breaking in 5secs!***"
+	{
+		"default"		"{darkred}Console: ***Barrier breaking in 5secs!***"
+	}
+	"***Hurry under! Zombie block planks breaking in 15secs!***"
+	{
+		"default"		"{darkred}Console: ***Hurry under! Zombie block planks breaking in 15secs!***"
+	}
+	"***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
+	{
+		"default"		"{darkred}Console: ***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
+	}
+	"***Only 60secs left!***"
+	{
+		"default"		"{darkred}Console: ***Only 60secs left!***"
+	}
+	"***Hold final barrier for 15secs!***"
+	{
+		"default"		"{darkred}Console: ***Hold final barrier for 15secs!***"
+	}
+	"***Final barrier down!***"
+	{
+		"default"		"{darkred}Console: ***Final barrier down!***"
+	}
+	"***Don't Delay!***"
+	{
+		"default"		"{darkred}Console: ***Don't Delay!***"
+	}
+	"***Teleporting to next map!***"
+	{
+		"default"		"{darkred}Console: ***Teleporting to next map!***"
+	}
+	"***LEVEL -- ZOMBIE DEATHRUN***"
+	{
+		"default"		"{darkred}Console: ***LEVEL -- ZOMBIE DEATHRUN***"
+	}
+	"***Shoot wisely!***"
+	{
+		"default"		"{darkred}Console: ***Shoot wisely!***"
+	}
+	"***Zombies try to trap the CTs!***"
+	{
+		"default"		"{darkred}Console: ***Zombies try to trap the CTs!***"
+	}
+	"***CTs have 120secs to escape as the temple's curse spreads!*** "
+	{
+		"default"		"{darkred}Console: ***CTs have 120secs to escape as the temple's curse spreads!*** "
+	}
+	"***The curse has reached spawn!*** "
+	{
+		"default"		"{darkred}Console: ***The curse has reached spawn!*** "
+	}
+	"***The curse has reached the dual arch!*** "
+	{
+		"default"		"{darkred}Console: ***The curse has reached the dual arch!*** "
+	}
+	"***Good things come to those who wait...***"
+	{
+		"default"		"{darkred}Console: ***Good things come to those who wait...***"
+	}
+	"***Did someone see an awp?***"
+	{
+		"default"		"{darkred}Console: ***Did someone see an awp?***"
+	}
+	"***The curse has reached Mona's Hallway!*** "
+	{
+		"default"		"{darkred}Console: ***The curse has reached Mona's Hallway!*** "
+	}
+	"***LEVEL -- INTERSTELLAR ESCAPE 9***"
+	{
+		"default"		"{darkred}Console: ***LEVEL -- INTERSTELLAR ESCAPE 9***"
+	}
+	"***Make your way from train to train until you reach the Black Express!***"
+	{
+		"default"		"{darkred}Console: ***Make your way from train to train until you reach the Black Express!***"
+	}
+	"***Cargo door opening in 15secs!***"
+	{
+		"default"		"{darkred}Console: ***Cargo door opening in 15secs!***"
+	}
+	"***Emergency doors closing in 10secs!***"
+	{
+		"default"		"{darkred}Console: ***Emergency doors closing in 10secs!***"
+	}
+	"***Boxcar door opening in 10secs!***"
+	{
+		"default"		"{darkred}Console: ***Boxcar door opening in 10secs!***"
+	}
+	"***Final express door opening in 25secs!***"
+	{
+		"default"		"{darkred}Console: ***Final express door opening in 25secs!***"
+	}
+	"***Final express door open!***"
+	{
+		"default"		"{darkred}Console: ***Final express door open!***"
+	}
+	"***LEVEL -- CARPET ESCAPE***"
+	{
+		"default"		"{darkred}Console: ***LEVEL -- CARPET ESCAPE***"
+	}
+	"***Take the Carpet and make your way to the escape door!*** "
+	{
+		"default"		"{darkred}Console: ***Take the Carpet and make your way to the escape door!*** "
+	}
+	"***Carpet leaving in 3secs!***"
+	{
+		"default"		"{darkred}Console: ***Carpet leaving in 3secs!***"
+	}
+	"***Door breaking in 10secs!***"
+	{
+		"default"		"{darkred}Console: ***Door breaking in 10secs!***"
+	}
+	"***Hurry through the warehouse while the carpet passes under!***"
+	{
+		"default"		"{darkred}Console: ***Hurry through the warehouse while the carpet passes under!***"
+	}
+	"***Shoot the Block!***"
+	{
+		"default"		"{darkred}Console: ***Shoot the Block!***"
+	}
+	"***Defend for 35secs as the Carpet...refuels...?***"
+	{
+		"default"		"{darkred}Console: ***Defend for 35secs as the Carpet...refuels...?***"
+	}
+	"***C4 set to go off in 25secs!***"
+	{
+		"default"		"{darkred}Console: ***C4 set to go off in 25secs!***"
+	}
+	"***Carpet leaves in 5secs!***"
+	{
+		"default"		"{darkred}Console: ***Carpet leaves in 5secs!***"
+	}
+	"***LEVEL -- FAIL NADES***"
+	{
+		"default"		"{darkred}Console: ***LEVEL -- FAIL NADES***"
+	}
+	"***Zombie will arrive in 10secs!***"
+	{
+		"default"		"{darkred}Console: ***Zombie will arrive in 10secs!***"
+	}
+	"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
+	{
+		"default"		"{darkred}Console: ***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
+	}
+	"***Valves unlocked in 35secs!***"
+	{
+		"default"		"{darkred}Console: ***Valves unlocked in 35secs!***"
+	}
+	"***CTs have 15secs to escape!*** "
+	{
+		"default"		"{darkred}Console: ***CTs have 15secs to escape!*** "
+	}
+	"***Wait here till everyone else makes it!*** "
+	{
+		"default"		"{darkred}Console: ***Wait here till everyone else makes it!*** "
+	}
+	"***LEVEL -- CLASSIC***"
+	{
+		"default"		"{darkred}Console: ***LEVEL -- CLASSIC***"
+	}
+	"***Zombie will arrive in 20secs!***"
+	{
+		"default"		"{darkred}Console: ***Zombie will arrive in 20secs!***"
+	}
+	"***Survive for 75secs!***"
+	{
+		"default"		"{darkred}Console: ***Survive for 75secs!***"
+	}
+	"***Survive for 15secs!***"
+	{
+		"default"		"{darkred}Console: ***Survive for 15secs!***"
+	}
+	"***LEVEL -- OPEN FIELD***"
+	{
+		"default"		"{darkred}Console: ***LEVEL -- OPEN FIELD***"
+	}
+	"***Survive for 90secs***"
+	{
+		"default"		"{darkred}Console: ***Survive for 90secs***"
+	}
+	"***Beware K.'s SlenderMan!*** "
+	{
+		"default"		"{darkred}Console: ***Beware K.'s SlenderMan!*** "
+	}
+	"***Survive for 15secs***"
+	{
+		"default"		"{darkred}Console: ***Survive for 15secs***"
+	}
+	"***Teleporting to FINAL MAP!***"
+	{
+		"default"		"{darkred}Console: ***Teleporting to FINAL MAP!***"
+	}
+	"***FINAL LEVEL -- ZOMBIE MURDER****"
+	{
+		"default"		"{darkred}Console: ***FINAL LEVEL -- ZOMBIE MURDER****"
+	}
+	"***Zombies will arrive soon!***"
+	{
+		"default"		"{darkred}Console: ***Zombies will arrive soon!***"
+	}
+	"***Hold the sign for 20secs!***"
+	{
+		"default"		"{darkred}Console: ***Hold the sign for 20secs!***"
+	}
+	"***FINAL BOSS INCOMING!***"
+	{
+		"default"		"{darkred}Console: ***FINAL BOSS INCOMING!***"
+	}
+	"***ZOMBIE is about to collapse! GET OFF!***"
+	{
+		"default"		"{darkred}Console: ***ZOMBIE is about to collapse! GET OFF!***"
+	}
+	"***JUMP OFF!***"
+	{
+		"default"		"{darkred}Console: ***JUMP OFF!***"
+	}
+	"***Shoot it before your knocked off!!***"
+	{
+		"default"		"{darkred}Console: ***Shoot it before your knocked off!!***"
+	}
+	"***Final attack will be charged in 60secs!!***"
+	{
+		"default"		"{darkred}Console: ***Final attack will be charged in 60secs!!***"
+	}
+	"***Watch out for...barrel...attacks...?***"
+	{
+		"default"		"{darkred}Console: ***Watch out for...barrel...attacks...?***"
+	}
+	"***The Boss has been weakened But it will recover in 60secs and use its final attack!***"
+	{
+		"default"		"{darkred}Console: ***The Boss has been weakened But it will recover in 60secs and use its final attack!***"
+	}
+	"***CT's will have to jump off and activate the switches!***"
+	{
+		"default"		"{darkred}Console: ***CT's will have to jump off and activate the switches!***"
+	}
+	"***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
+	{
+		"default"		"{darkred}Console: ***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
+	}
+	"***Switch 1 Unlocked!***"
+	{
+		"default"		"{darkred}Console: ***Switch 1 Unlocked!***"
+	}
+	"***Switch Activated!***"
+	{
+		"default"		"{darkred}Console: ***Switch Activated!***"
+	}
+	"***HURRY UP!!!***"
+	{
+		"default"		"{darkred}Console: ***HURRY UP!!!***"
+	}
+	"***LEVEL-- CITY NIGHT ESCAPE***"
+	{
+		"default"		"{darkred}Console: ***LEVEL-- CITY NIGHT ESCAPE***"
+	}
+	"***Elevator 1 coming in 10secs!***"
+	{
+		"default"		"{darkred}Console: ***Elevator 1 coming in 10secs!***"
+	}
+	"***Elevator 1 leaving in 5secs!***"
+	{
+		"default"		"{darkred}Console: ***Elevator 1 leaving in 5secs!***"
+	}
+	"***Power lost. Shoot the doors!***"
+	{
+		"default"		"{darkred}Console: ***Power lost. Shoot the doors!***"
+	}
+	"***Hold until the escape helicopter comes in pick you up!***"
+	{
+		"default"		"{darkred}Console: ***Hold until the escape helicopter comes in pick you up!***"
+	}
+	"***Fall Back Balcony open!***"
+	{
+		"default"		"{darkred}Console: ***Fall Back Balcony open!***"
+	}
+	"***Helicopter coming in 5secs!***"
+	{
+		"default"		"{darkred}Console: ***Helicopter coming in 5secs!***"
+	}
+	"***4***"
+	{
+		"default"		"{darkred}Console: ***4***"
+	}
+	"***OH SH--!!***"
+	{
+		"default"		"{darkred}Console: ***OH SH--!!***"
+	}
+	"***Hold W to go faster and S to slow down!***"
+	{
+		"default"		"{darkred}Console: ***Hold W to go faster and S to slow down!***"
+	}
+	"***Jump and be careful not to hit to many stoppers!***"
+	{
+		"default"		"{darkred}Console: ***Jump and be careful not to hit to many stoppers!***"
+	}
+	"***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
+	{
+		"default"		"{darkred}Console: ***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
+	}
+	"***If one side overrun start chucking nades over to break the valve!***"
+	{
+		"default"		"{darkred}Console: ***If one side overrun start chucking nades over to break the valve!***"
+	}
+	"***Final attack charged!!***"
+	{
+		"default"		"{darkred}Console: ***Final attack charged!!***"
+	}
+	"***TEXT ATTACK FIRED!!***"
+	{
+		"default"		"{darkred}Console: ***TEXT ATTACK FIRED!!***"
+	}
+	"***BACKSPACE!!!***"
+	{
+		"default"		"{darkred}Console: ***BACKSPACE!!!***"
+	}
+	"***Zombie drain open!***"
+	{
+		"default"		"{darkred}Console: ***Zombie drain open!***"
+	}
+}

@@ -1,0 +1,83 @@
+"Console_C"
+{
+	"Map ported by: KratosMafia"
+	{
+		"default"		"{darkred}Console: Map ported by: KratosMafia"
+	}
+	"Visit OpticalGaming.net"
+	{
+		"default"		"{darkred}Console: Visit OpticalGaming.net"
+	}
+	"**The ship is sinking! You have 5 minutes to get to the surface!!!**"
+	{
+		"default"		"{darkred}Console: **The ship is sinking! You have 5 minutes to get to the surface!!!**"
+	}
+	"**Security gate closing in 5 seconds**"
+	{
+		"default"		"{darkred}Console: **Security gate closing in 5 seconds**"
+	}
+	"**Elevator 1 is leaving in 5 seconds**"
+	{
+		"default"		"{darkred}Console: **Elevator 1 is leaving in 5 seconds**"
+	}
+	"**Elevator 2 is leaving in 5 seconds**"
+	{
+		"default"		"{darkred}Console: **Elevator 2 is leaving in 5 seconds**"
+	}
+	"**Main elevator is leaving in 15 seconds!!**"
+	{
+		"default"		"{darkred}Console: **Main elevator is leaving in 15 seconds!!**"
+	}
+	"**Main elevator is leaving in 5 seconds!!**"
+	{
+		"default"		"{darkred}Console: **Main elevator is leaving in 5 seconds!!**"
+	}
+	"**Lasers will be de-activated in 20 seconds**"
+	{
+		"default"		"{darkred}Console: **Lasers will be de-activated in 20 seconds**"
+	}
+	"**Lasers will be de-activated in 5 seconds**"
+	{
+		"default"		"{darkred}Console: **Lasers will be de-activated in 5 seconds**"
+	}
+	"**Final Door will open in 60 seconds**"
+	{
+		"default"		"{darkred}Console: **Final Door will open in 60 seconds**"
+	}
+	"**Final Door will open in 30 seconds**"
+	{
+		"default"		"{darkred}Console: **Final Door will open in 30 seconds**"
+	}
+	"**Main elevator's second doors now unlocked**"
+	{
+		"default"		"{darkred}Console: **Main elevator's second doors now unlocked**"
+	}
+	"**Final Door will open unlock in 5 seconds**"
+	{
+		"default"		"{darkred}Console: **Final Door will open unlock in 5 seconds**"
+	}
+	"**The boats will leave in 2 minutes!** "
+	{
+		"default"		"{darkred}Console: **The boats will leave in 2 minutes!** "
+	}
+	"**Zombies have reached the glass doors!!!**"
+	{
+		"default"		"{darkred}Console: **Zombies have reached the glass doors!!!**"
+	}
+	"**The boats will leave in 1 minute!**"
+	{
+		"default"		"{darkred}Console: **The boats will leave in 1 minute!**"
+	}
+	"**The boats will leave in 30 seconds!**"
+	{
+		"default"		"{darkred}Console: **The boats will leave in 30 seconds!**"
+	}
+	"**The boats will leave in 10 seconds!**"
+	{
+		"default"		"{darkred}Console: **The boats will leave in 10 seconds!**"
+	}
+	"**The boats have left!!!**"
+	{
+		"default"		"{darkred}Console: **The boats have left!!!**"
+	}
+}

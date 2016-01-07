@@ -1,0 +1,27 @@
+"Console_C"
+{
+	"*** Rescue boats inbound ***"
+	{
+		"default"		"{darkred}Console: *** Rescue boats inbound ***"
+	}
+	"*** Volcanic eruption imminent. 40 seconds to boat departure ***"
+	{
+		"default"		"{darkred}Console: *** Volcanic eruption imminent. 40 seconds to boat departure ***"
+	}
+	"*** Volcanic eruption imminent. 20 seconds to boat departure ***"
+	{
+		"default"		"{darkred}Console: *** Volcanic eruption imminent. 20 seconds to boat departure ***"
+	}
+	"*** Volcanic eruption imminent. 10 seconds to boat departure ***"
+	{
+		"default"		"{darkred}Console: *** Volcanic eruption imminent. 10 seconds to boat departure ***"
+	}
+	"*** Volcanic eruption imminent. 5 seconds to boat departure ***"
+	{
+		"default"		"{darkred}Console: *** Volcanic eruption imminent. 5 seconds to boat departure ***"
+	}
+	"*** Volcanic eruption in 10 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Volcanic eruption in 10 seconds ***"
+	}
+}

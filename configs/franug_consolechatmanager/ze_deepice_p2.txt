@@ -1,0 +1,87 @@
+"Console_C"
+{
+	"*** STEAMGAMERS.COM ***"
+	{
+		"default"		"{darkred}Console: *** STEAMGAMERS.COM ***"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"default"		"{darkred}Console: *** Mapper: yardy ***"
+	}
+	"*** Co-Mapper: starbucks ***"
+	{
+		"default"		"{darkred}Console: *** Co-Mapper: starbucks ***"
+	}
+	"*** Lift 1 is leaving soon ***"
+	{
+		"default"		"{darkred}Console: *** Lift 1 is leaving soon ***"
+	}
+	"*** Lift 2 is leaving soon ***"
+	{
+		"default"		"{darkred}Console: *** Lift 2 is leaving soon ***"
+	}
+	"*** Door is being fixed defend yourself ***"
+	{
+		"default"		"{darkred}Console: *** Door is being fixed defend yourself ***"
+	}
+	"*** ALIEN shield has been activated ***"
+	{
+		"default"		"{darkred}Console: *** ALIEN shield has been activated ***"
+	}
+	"*** Alienshield disabled ***"
+	{
+		"default"		"{darkred}Console: *** Alienshield disabled ***"
+	}
+	"*** Train is leaving soon ***"
+	{
+		"default"		"{darkred}Console: *** Train is leaving soon ***"
+	}
+	"*** Defend the area until train leaves ***"
+	{
+		"default"		"{darkred}Console: *** Defend the area until train leaves ***"
+	}
+	"*** Train departing ***"
+	{
+		"default"		"{darkred}Console: *** Train departing ***"
+	}
+	"*** Oh my god jump of the train before it squeezes you ***"
+	{
+		"default"		"{darkred}Console: *** Oh my god jump of the train before it squeezes you ***"
+	}
+	"*** Gate opens soon defend yourself ***"
+	{
+		"default"		"{darkred}Console: *** Gate opens soon defend yourself ***"
+	}
+	"*** Hold back the ALIENS while calling the chopper ***"
+	{
+		"default"		"{darkred}Console: *** Hold back the ALIENS while calling the chopper ***"
+	}
+	"*** Second gate stuck ***"
+	{
+		"default"		"{darkred}Console: *** Second gate stuck ***"
+	}
+	"*** Defend yourself until we get it open ***"
+	{
+		"default"		"{darkred}Console: *** Defend yourself until we get it open ***"
+	}
+	"*** Sea Hawk arrival soon ***"
+	{
+		"default"		"{darkred}Console: *** Sea Hawk arrival soon ***"
+	}
+	"*** Alien Reactor Overload 50% *** "
+	{
+		"default"		"{darkred}Console: *** Alien Reactor Overload 50% *** "
+	}
+	"*** Sea Hawk arrival immediately ***"
+	{
+		"default"		"{darkred}Console: *** Sea Hawk arrival immediately ***"
+	}
+	"*** Alien Reactor Overload 100% *** "
+	{
+		"default"		"{darkred}Console: *** Alien Reactor Overload 100% *** "
+	}
+	"*** TO BE CONTINUED ***"
+	{
+		"default"		"{darkred}Console: *** TO BE CONTINUED ***"
+	}
+}

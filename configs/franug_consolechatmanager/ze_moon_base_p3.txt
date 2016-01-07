@@ -1,0 +1,75 @@
+"Console_C"
+{
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"default"		"{darkred}Console: ---***This map will mute your sound if you are outside the lunar base***---"
+	}
+	"***Defend for 30 seconds!***"
+	{
+		"default"		"{darkred}Console: ***Defend for 30 seconds!***"
+	}
+	"***10 seconds!***"
+	{
+		"default"		"{darkred}Console: ***10 seconds!***"
+	}
+	"***Defense 1 is Open again***"
+	{
+		"default"		"{darkred}Console: ***Defense 1 is Open again***"
+	}
+	"***Defend for 45 seconds!***"
+	{
+		"default"		"{darkred}Console: ***Defend for 45 seconds!***"
+	}
+	"***15 seconds!***"
+	{
+		"default"		"{darkred}Console: ***15 seconds!***"
+	}
+	"***Get to the Lunar Vehicle!***"
+	{
+		"default"		"{darkred}Console: ***Get to the Lunar Vehicle!***"
+	}
+	"***Lunar vehicle leaves in 10!***"
+	{
+		"default"		"{darkred}Console: ***Lunar vehicle leaves in 10!***"
+	}
+	"***Defence 2 is Open again***"
+	{
+		"default"		"{darkred}Console: ***Defence 2 is Open again***"
+	}
+	"***Lunar vehicle is leaving!***"
+	{
+		"default"		"{darkred}Console: ***Lunar vehicle is leaving!***"
+	}
+	"**Space Ship leaves in 90 seconds!**"
+	{
+		"default"		"{darkred}Console: **Space Ship leaves in 90 seconds!**"
+	}
+	"**Just 60 more seconds!**"
+	{
+		"default"		"{darkred}Console: **Just 60 more seconds!**"
+	}
+	"**Just 30 more seconds!**"
+	{
+		"default"		"{darkred}Console: **Just 30 more seconds!**"
+	}
+	"**15 seconds left!**"
+	{
+		"default"		"{darkred}Console: **15 seconds left!**"
+	}
+	"**Blast Doors have been override!**"
+	{
+		"default"		"{darkred}Console: **Blast Doors have been override!**"
+	}
+	"**Spaceship is leaving now!**"
+	{
+		"default"		"{darkred}Console: **Spaceship is leaving now!**"
+	}
+	"***Keep Running!***"
+	{
+		"default"		"{darkred}Console: ***Keep Running!***"
+	}
+	"***Do not look back!***"
+	{
+		"default"		"{darkred}Console: ***Do not look back!***"
+	}
+}

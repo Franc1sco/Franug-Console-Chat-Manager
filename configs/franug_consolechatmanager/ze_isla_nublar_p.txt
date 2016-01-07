@@ -1,0 +1,107 @@
+"Console_C"
+{
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"default"		"{darkred}Console: ***CURRENT DIFFICULTY IS NORMAL***"
+	}
+	"***MULDOON'S SHOTGUN HAS BEEN FOUND***"
+	{
+		"default"		"{darkred}Console: ***MULDOON'S SHOTGUN HAS BEEN FOUND***"
+	}
+	"***SHOTGUN OUT OF AMMO***"
+	{
+		"default"		"{darkred}Console: ***SHOTGUN OUT OF AMMO***"
+	}
+	"***RESTORE THE POWER!***"
+	{
+		"default"		"{darkred}Console: ***RESTORE THE POWER!***"
+	}
+	"***HOLD THIS POSITION!***"
+	{
+		"default"		"{darkred}Console: ***HOLD THIS POSITION!***"
+	}
+	"***POWER RESTORING IN 15 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***POWER RESTORING IN 15 SECONDS***"
+	}
+	"***POWER RESTORING IN 10 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***POWER RESTORING IN 10 SECONDS***"
+	}
+	"***POWER RESTORING IN 5 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***POWER RESTORING IN 5 SECONDS***"
+	}
+	"***TELEPORTING ALL TO GENERATOR CATWALK***"
+	{
+		"default"		"{darkred}Console: ***TELEPORTING ALL TO GENERATOR CATWALK***"
+	}
+	"***POWER HAS BEEN RESTORED***"
+	{
+		"default"		"{darkred}Console: ***POWER HAS BEEN RESTORED***"
+	}
+	"***ZOMBIES HAVE BEEN TRAPPED...RUUN!***"
+	{
+		"default"		"{darkred}Console: ***ZOMBIES HAVE BEEN TRAPPED...RUUN!***"
+	}
+	"***ALL CLOSED DOORS WILL OPEN IN 60 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***ALL CLOSED DOORS WILL OPEN IN 60 SECONDS***"
+	}
+	"***ALL CLOSED DOORS WILL OPEN IN 30 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***ALL CLOSED DOORS WILL OPEN IN 30 SECONDS***"
+	}
+	"***ALL CLOSED DOORS WILL OPEN IN 15 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***ALL CLOSED DOORS WILL OPEN IN 15 SECONDS***"
+	}
+	"***GO TO THE CONTROL ROOM***"
+	{
+		"default"		"{darkred}Console: ***GO TO THE CONTROL ROOM***"
+	}
+	"***GET INTO THE TRUCK***"
+	{
+		"default"		"{darkred}Console: ***GET INTO THE TRUCK***"
+	}
+	"***GET OUT THE TRUCK AND GO TO THE HATCH***"
+	{
+		"default"		"{darkred}Console: ***GET OUT THE TRUCK AND GO TO THE HATCH***"
+	}
+	"***LIFT IS COMING***"
+	{
+		"default"		"{darkred}Console: ***LIFT IS COMING***"
+	}
+	"***HOLD THIS POSTION***"
+	{
+		"default"		"{darkred}Console: ***HOLD THIS POSTION***"
+	}
+	"***LIFT IS HERE!***"
+	{
+		"default"		"{darkred}Console: ***LIFT IS HERE!***"
+	}
+	"***FALL BACK***"
+	{
+		"default"		"{darkred}Console: ***FALL BACK***"
+	}
+	"***DOOR WILL OPEN IN 20 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***DOOR WILL OPEN IN 20 SECONDS***"
+	}
+	"***DOOR WILL OPEN IN 10 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***DOOR WILL OPEN IN 10 SECONDS***"
+	}
+	"***FALL BACK!!!***"
+	{
+		"default"		"{darkred}Console: ***FALL BACK!!!***"
+	}
+	"***CT WIN!***"
+	{
+		"default"		"{darkred}Console: ***CT WIN!***"
+	}
+	"***MOVING ON TO HARD MODE***"
+	{
+		"default"		"{darkred}Console: ***MOVING ON TO HARD MODE***"
+	}
+}

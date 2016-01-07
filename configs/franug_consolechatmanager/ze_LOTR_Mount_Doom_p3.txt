@@ -1,0 +1,119 @@
+"Console_C"
+{
+	"**********MAP CREATED BY: Hannibal[SPA] (Rafuron) **********"
+	{
+		"default"		"{darkred}Console: **********MAP CREATED BY: Hannibal[SPA] (Rafuron) **********"
+	}
+	"**Random objective:**"
+	{
+		"default"		"{darkred}Console: **Random objective:**"
+	}
+	"**Destroy the Ring**"
+	{
+		"default"		"{darkred}Console: **Destroy the Ring**"
+	}
+	"**Reach the Mount Doom**"
+	{
+		"default"		"{darkred}Console: **Reach the Mount Doom**"
+	}
+	"***AFK Teleport in 15 s***"
+	{
+		"default"		"{darkred}Console: ***AFK Teleport in 15 s***"
+	}
+	"***Humans have reached the Cirith Ungol tower***"
+	{
+		"default"		"{darkred}Console: ***Humans have reached the Cirith Ungol tower***"
+	}
+	"***A human MUST pick up the RING while the others defend the entrance.***"
+	{
+		"default"		"{darkred}Console: ***A human MUST pick up the RING while the others defend the entrance.***"
+	}
+	"***Nazguls coming to Minas Morgul in 15 s***"
+	{
+		"default"		"{darkred}Console: ***Nazguls coming to Minas Morgul in 15 s***"
+	}
+	"***Earendil light has been picked***"
+	{
+		"default"		"{darkred}Console: ***Earendil light has been picked***"
+	}
+	"***Humans have reached Cirith Ungol tower. One human must open the door pressing the lever at the top of the tower***"
+	{
+		"default"		"{darkred}Console: ***Humans have reached Cirith Ungol tower. One human must open the door pressing the lever at the top of the tower***"
+	}
+	"**Lever pressed! Door will open in 15s**"
+	{
+		"default"		"{darkred}Console: **Lever pressed! Door will open in 15s**"
+	}
+	"***The door is NOW open! Escape from Cirith Ungol!***"
+	{
+		"default"		"{darkred}Console: ***The door is NOW open! Escape from Cirith Ungol!***"
+	}
+	"***Nazguls coming to Cirith Ungol tower in 15 s***"
+	{
+		"default"		"{darkred}Console: ***Nazguls coming to Cirith Ungol tower in 15 s***"
+	}
+	"***Resist 30 s!!***"
+	{
+		"default"		"{darkred}Console: ***Resist 30 s!!***"
+	}
+	"***Nazguls coming to camp in 15 s***"
+	{
+		"default"		"{darkred}Console: ***Nazguls coming to camp in 15 s***"
+	}
+	"***Go into the Mount Doom!***"
+	{
+		"default"		"{darkred}Console: ***Go into the Mount Doom!***"
+	}
+	"***Resist 50 s!!***"
+	{
+		"default"		"{darkred}Console: ***Resist 50 s!!***"
+	}
+	"**Defend until the others have returned!**"
+	{
+		"default"		"{darkred}Console: **Defend until the others have returned!**"
+	}
+	"**Nazgul defeated!**"
+	{
+		"default"		"{darkred}Console: **Nazgul defeated!**"
+	}
+	"**The ring has been picked!**"
+	{
+		"default"		"{darkred}Console: **The ring has been picked!**"
+	}
+	"** The bearer feels the weight of the Ring ** Protect him! **"
+	{
+		"default"		"{darkred}Console: ** The bearer feels the weight of the Ring ** Protect him! **"
+	}
+	"**The ring carrier must go down to open the door.**"
+	{
+		"default"		"{darkred}Console: **The ring carrier must go down to open the door.**"
+	}
+	"**There are too many CT ** The second way has been opened! **"
+	{
+		"default"		"{darkred}Console: **There are too many CT ** The second way has been opened! **"
+	}
+	"***THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano***"
+	{
+		"default"		"{darkred}Console: ***THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano***"
+	}
+	"***The Ring has been destroyed! Escape from Mordor!***"
+	{
+		"default"		"{darkred}Console: ***The Ring has been destroyed! Escape from Mordor!***"
+	}
+	"***What are you waiting for?Just let it go!***"
+	{
+		"default"		"{darkred}Console: ***What are you waiting for?Just let it go!***"
+	}
+	"***Carrier says: the Ring is mine!***"
+	{
+		"default"		"{darkred}Console: ***Carrier says: the Ring is mine!***"
+	}
+	"***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***"
+	{
+		"default"		"{darkred}Console: ***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***"
+	}
+	"***The ring bearer was slaughtered with honor! Escape from Mordor!***"
+	{
+		"default"		"{darkred}Console: ***The ring bearer was slaughtered with honor! Escape from Mordor!***"
+	}
+}

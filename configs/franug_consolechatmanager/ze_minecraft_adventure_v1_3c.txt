@@ -1,0 +1,127 @@
+"Console_C"
+{
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"default"		"{darkred}Console: *** CURRENT STAGE IS 1: Overworld ***"
+	}
+	"Map made by Cuniczek"
+	{
+		"default"		"{darkred}Console: Map made by Cuniczek"
+	}
+	"Thanks to Enviolinador & Kaesar"
+	{
+		"default"		"{darkred}Console: Thanks to Enviolinador & Kaesar"
+	}
+	"*** DEFEND 25 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** DEFEND 25 SECONDS ***"
+	}
+	"*** 5 SECONDS REMAINING ***"
+	{
+		"default"		"{darkred}Console: *** 5 SECONDS REMAINING ***"
+	}
+	"*** FALL BACK ***"
+	{
+		"default"		"{darkred}Console: *** FALL BACK ***"
+	}
+	"*** MINECARTS LEAVING IN 25 SEC ***"
+	{
+		"default"		"{darkred}Console: *** MINECARTS LEAVING IN 25 SEC ***"
+	}
+	"*** MINECARTS LEAVING IN 10 SEC ***"
+	{
+		"default"		"{darkred}Console: *** MINECARTS LEAVING IN 10 SEC ***"
+	}
+	"*** GET INTO MINECARTS ***"
+	{
+		"default"		"{darkred}Console: *** GET INTO MINECARTS ***"
+	}
+	"***HOLD CASTLE 35 SEC***"
+	{
+		"default"		"{darkred}Console: ***HOLD CASTLE 35 SEC***"
+	}
+	"*** 5 SEC REMAINING ***"
+	{
+		"default"		"{darkred}Console: *** 5 SEC REMAINING ***"
+	}
+	"*** BOATS LEAVING IN 15 SEC ***"
+	{
+		"default"		"{darkred}Console: *** BOATS LEAVING IN 15 SEC ***"
+	}
+	"*** FALL BACK INTO BOATS ***"
+	{
+		"default"		"{darkred}Console: *** FALL BACK INTO BOATS ***"
+	}
+	"*** TNT EXPLODING IN 20 SEC ***"
+	{
+		"default"		"{darkred}Console: *** TNT EXPLODING IN 20 SEC ***"
+	}
+	"*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
+	{
+		"default"		"{darkred}Console: *** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
+	}
+	"*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
+	}
+	"*** BUNKER IS CLOSING IN 15 SEC ***"
+	{
+		"default"		"{darkred}Console: *** BUNKER IS CLOSING IN 15 SEC ***"
+	}
+	"*** BUNKER IS CLOSING ***"
+	{
+		"default"		"{darkred}Console: *** BUNKER IS CLOSING ***"
+	}
+	"*** KILL ZOMBIES INSIDE!  ***"
+	{
+		"default"		"{darkred}Console: *** KILL ZOMBIES INSIDE!  ***"
+	}
+	"*** HUMANS WON! MOVING ON TO STAGE 2 ***"
+	{
+		"default"		"{darkred}Console: *** HUMANS WON! MOVING ON TO STAGE 2 ***"
+	}
+	"*** CURRENT STAGE IS 2: The Nether ***"
+	{
+		"default"		"{darkred}Console: *** CURRENT STAGE IS 2: The Nether ***"
+	}
+	"*** WALLS BREAK IN 15 SEC ***"
+	{
+		"default"		"{darkred}Console: *** WALLS BREAK IN 15 SEC ***"
+	}
+	"*** RESIST 15 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** RESIST 15 SECONDS ***"
+	}
+	"*** RESIST 10 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** RESIST 10 SECONDS ***"
+	}
+	"***RESIST 20 SECONDS***"
+	{
+		"default"		"{darkred}Console: ***RESIST 20 SECONDS***"
+	}
+	"***5 SECONDS REMAINING***"
+	{
+		"default"		"{darkred}Console: ***5 SECONDS REMAINING***"
+	}
+	"*** RESIST 20 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** RESIST 20 SECONDS ***"
+	}
+	"*** RESIST 25 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** RESIST 25 SECONDS ***"
+	}
+	"*** RESIST 30 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** RESIST 30 SECONDS ***"
+	}
+	"*** HOLD NETHERFORTRESS 30 SECONDS ***"
+	{
+		"default"		"{darkred}Console: *** HOLD NETHERFORTRESS 30 SECONDS ***"
+	}
+	"*** EVERYONE GET INSIDE! ***"
+	{
+		"default"		"{darkred}Console: *** EVERYONE GET INSIDE! ***"
+	}
+}

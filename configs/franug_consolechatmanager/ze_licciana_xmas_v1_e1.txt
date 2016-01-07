@@ -1,0 +1,103 @@
+"Console_C"
+{
+	"WELCOME TO THE I3D XMAS EVENT"
+	{
+		"default"		"{darkred}Console: WELCOME TO THE I3D XMAS EVENT"
+	}
+	"ORIGINAL MAP MADE BY GARGANTUA"
+	{
+		"default"		"{darkred}Console: ORIGINAL MAP MADE BY GARGANTUA"
+	}
+	"XMAS VERSION BY MR.MUESLI"
+	{
+		"default"		"{darkred}Console: XMAS VERSION BY MR.MUESLI"
+	}
+	"++ GARGANTUA'S BOAT LEAVING IN 3 SECONDS ++"
+	{
+		"default"		"{darkred}Console: ++ GARGANTUA'S BOAT LEAVING IN 3 SECONDS ++"
+	}
+	"++ SEA IS NEARLY FROZEN. ++"
+	{
+		"default"		"{darkred}Console: ++ SEA IS NEARLY FROZEN. ++"
+	}
+	"++ THE BOAT WILL SLOW DOWN. ++"
+	{
+		"default"		"{darkred}Console: ++ THE BOAT WILL SLOW DOWN. ++"
+	}
+	"++ GARGANTUA'S BOAT IS LEAVING!! ++"
+	{
+		"default"		"{darkred}Console: ++ GARGANTUA'S BOAT IS LEAVING!! ++"
+	}
+	"++ SECRET LIFT IS LEAVING!! ++"
+	{
+		"default"		"{darkred}Console: ++ SECRET LIFT IS LEAVING!! ++"
+	}
+	"** Sledge will leave in 3 seconds **"
+	{
+		"default"		"{darkred}Console: ** Sledge will leave in 3 seconds **"
+	}
+	"++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++"
+	{
+		"default"		"{darkred}Console: ++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 1 ARRIVING IN 30 SECONDS ++"
+	{
+		"default"		"{darkred}Console: ++ ESCAPE LIFT 1 ARRIVING IN 30 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 2 ARRIVED ++"
+	{
+		"default"		"{darkred}Console: ++ ESCAPE LIFT 2 ARRIVED ++"
+	}
+	"++ LIFT DOOR 2 OPENING UP ++"
+	{
+		"default"		"{darkred}Console: ++ LIFT DOOR 2 OPENING UP ++"
+	}
+	"++ ESCAPE LIFT 1 ARRIVED ++"
+	{
+		"default"		"{darkred}Console: ++ ESCAPE LIFT 1 ARRIVED ++"
+	}
+	"++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++"
+	{
+		"default"		"{darkred}Console: ++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++"
+	}
+	"++ LIFT DOOR 1 OPENING UP ++"
+	{
+		"default"		"{darkred}Console: ++ LIFT DOOR 1 OPENING UP ++"
+	}
+	"++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++"
+	{
+		"default"		"{darkred}Console: ++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++"
+	{
+		"default"		"{darkred}Console: ++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++"
+	{
+		"default"		"{darkred}Console: ++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++"
+	{
+		"default"		"{darkred}Console: ++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++"
+	}
+	"++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++"
+	{
+		"default"		"{darkred}Console: ++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++"
+	}
+	"++ TOXIC MINE GAS HAS BEEN RELEASED!! ++"
+	{
+		"default"		"{darkred}Console: ++ TOXIC MINE GAS HAS BEEN RELEASED!! ++"
+	}
+	"++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+	{
+		"default"		"{darkred}Console: ++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+	}
+	"++ Map ported by Et3rnity ++"
+	{
+		"default"		"{darkred}Console: ++ Map ported by Et3rnity ++"
+	}
+	"++ TOXIC MINE GAS IN AIR !! ++"
+	{
+		"default"		"{darkred}Console: ++ TOXIC MINE GAS IN AIR !! ++"
+	}
+}

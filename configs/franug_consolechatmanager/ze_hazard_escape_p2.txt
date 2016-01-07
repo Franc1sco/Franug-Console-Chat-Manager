@@ -1,0 +1,59 @@
+"Console_C"
+{
+	"map made by salem"
+	{
+		"default"		"{darkred}Console: map made by salem"
+	}
+	"**elevator leaving in 5 sec**"
+	{
+		"default"		"{darkred}Console: **elevator leaving in 5 sec**"
+	}
+	"the truck will go in 5 secs"
+	{
+		"default"		"{darkred}Console: the truck will go in 5 secs"
+	}
+	"the door will open in 30 seconds"
+	{
+		"default"		"{darkred}Console: the door will open in 30 seconds"
+	}
+	"the boat will depart in 10 secs"
+	{
+		"default"		"{darkred}Console: the boat will depart in 10 secs"
+	}
+	"gate will open in 10 secs"
+	{
+		"default"		"{darkred}Console: gate will open in 10 secs"
+	}
+	"the security door will open in 20 secs"
+	{
+		"default"		"{darkred}Console: the security door will open in 20 secs"
+	}
+	"security door has been opened"
+	{
+		"default"		"{darkred}Console: security door has been opened"
+	}
+	"*** the hazard door will open in 20 secs ***"
+	{
+		"default"		"{darkred}Console: *** the hazard door will open in 20 secs ***"
+	}
+	"the final door will open now"
+	{
+		"default"		"{darkred}Console: the final door will open now"
+	}
+	"get safely into the bunker and launch the nuke!"
+	{
+		"default"		"{darkred}Console: get safely into the bunker and launch the nuke!"
+	}
+	"*** the nerve gas will be enabled in 30 Seconds ***"
+	{
+		"default"		"{darkred}Console: *** the nerve gas will be enabled in 30 Seconds ***"
+	}
+	"***HOLD ZOMBIES BACK! BUNKER DOOR WILL CLOSE SOON! ***"
+	{
+		"default"		"{darkred}Console: ***HOLD ZOMBIES BACK! BUNKER DOOR WILL CLOSE SOON! ***"
+	}
+	"*** the nerve gas will be enabled in 15 Seconds ***"
+	{
+		"default"		"{darkred}Console: *** the nerve gas will be enabled in 15 Seconds ***"
+	}
+}

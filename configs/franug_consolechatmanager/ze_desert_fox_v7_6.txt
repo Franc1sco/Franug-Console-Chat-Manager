@@ -1,0 +1,75 @@
+"Console_C"
+{
+	"Defend until door open"
+	{
+		"default"		"{darkred}Console: Defend until door open"
+	}
+	"Fall Back"
+	{
+		"default"		"{darkred}Console: Fall Back"
+	}
+	"<< Defend 30 seconds >>"
+	{
+		"default"		"{darkred}Console: << Defend 30 seconds >>"
+	}
+	"<< 30 seconds until door open >>"
+	{
+		"default"		"{darkred}Console: << 30 seconds until door open >>"
+	}
+	"Defend the bridge"
+	{
+		"default"		"{darkred}Console: Defend the bridge"
+	}
+	"back off the bridge zombies will be delayed"
+	{
+		"default"		"{darkred}Console: back off the bridge zombies will be delayed"
+	}
+	"Door open in 5 seconds"
+	{
+		"default"		"{darkred}Console: Door open in 5 seconds"
+	}
+	"Door is open"
+	{
+		"default"		"{darkred}Console: Door is open"
+	}
+	"Hurry up !! Run !"
+	{
+		"default"		"{darkred}Console: Hurry up !! Run !"
+	}
+	"defend this spot few seconds"
+	{
+		"default"		"{darkred}Console: defend this spot few seconds"
+	}
+	"Fall Back !!!"
+	{
+		"default"		"{darkred}Console: Fall Back !!!"
+	}
+	"You are near the goal"
+	{
+		"default"		"{darkred}Console: You are near the goal"
+	}
+	"<< Cover spot for few seconds >>"
+	{
+		"default"		"{darkred}Console: << Cover spot for few seconds >>"
+	}
+	"Teleport to boss room will ready in 5 seconds"
+	{
+		"default"		"{darkred}Console: Teleport to boss room will ready in 5 seconds"
+	}
+	"Teleport ready !"
+	{
+		"default"		"{darkred}Console: Teleport ready !"
+	}
+	"boss defeated"
+	{
+		"default"		"{darkred}Console: boss defeated"
+	}
+	"<< Nuke has been launched!! 20 seconds until explosion >>"
+	{
+		"default"		"{darkred}Console: << Nuke has been launched!! 20 seconds until explosion >>"
+	}
+	"<< Map by Lup4n` >>"
+	{
+		"default"		"{darkred}Console: << Map by Lup4n` >>"
+	}
+}

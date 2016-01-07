@@ -1,0 +1,91 @@
+"Console_C"
+{
+	"***Map created by Cisneros***"
+	{
+		"default"		"{darkred}Console: ***Map created by Cisneros***"
+	}
+	"***The door will open in 5 seconds***"
+	{
+		"default"		"{darkred}Console: ***The door will open in 5 seconds***"
+	}
+	"***Objetive: survive escaping the castle***"
+	{
+		"default"		"{darkred}Console: ***Objetive: survive escaping the castle***"
+	}
+	"***Hold the door until the door open***"
+	{
+		"default"		"{darkred}Console: ***Hold the door until the door open***"
+	}
+	"***The door will open soon***"
+	{
+		"default"		"{darkred}Console: ***The door will open soon***"
+	}
+	"***Hold this position, the elevators leaves soon***"
+	{
+		"default"		"{darkred}Console: ***Hold this position, the elevators leaves soon***"
+	}
+	"***Hold this position***"
+	{
+		"default"		"{darkred}Console: ***Hold this position***"
+	}
+	"***Defend a little bit more***"
+	{
+		"default"		"{darkred}Console: ***Defend a little bit more***"
+	}
+	"***The door will open in 45 seconds***"
+	{
+		"default"		"{darkred}Console: ***The door will open in 45 seconds***"
+	}
+	"***The door will open in 15 seconds***"
+	{
+		"default"		"{darkred}Console: ***The door will open in 15 seconds***"
+	}
+	"***Hold this position for 15 seconds***"
+	{
+		"default"		"{darkred}Console: ***Hold this position for 15 seconds***"
+	}
+	"***Hold this position for 20 seconds***"
+	{
+		"default"		"{darkred}Console: ***Hold this position for 20 seconds***"
+	}
+	"***RUN!!!***"
+	{
+		"default"		"{darkred}Console: ***RUN!!!***"
+	}
+	"***Shoot door!!!***"
+	{
+		"default"		"{darkred}Console: ***Shoot door!!!***"
+	}
+	"***RUN!!***"
+	{
+		"default"		"{darkred}Console: ***RUN!!***"
+	}
+	"*** The door will open in 25 seconds ***"
+	{
+		"default"		"{darkred}Console: *** The door will open in 25 seconds ***"
+	}
+	"*** Hold this position ***"
+	{
+		"default"		"{darkred}Console: *** Hold this position ***"
+	}
+	"*** The door will open soon***"
+	{
+		"default"		"{darkred}Console: *** The door will open soon***"
+	}
+	"*** Defend a little bit more! ***"
+	{
+		"default"		"{darkred}Console: *** Defend a little bit more! ***"
+	}
+	"*** The door will open in 5 seconds ***"
+	{
+		"default"		"{darkred}Console: *** The door will open in 5 seconds ***"
+	}
+	"*** The elevator will leave in 35 seconds ***"
+	{
+		"default"		"{darkred}Console: *** The elevator will leave in 35 seconds ***"
+	}
+	"*** Defend the ladder 25 seconds ***"
+	{
+		"default"		"{darkred}Console: *** Defend the ladder 25 seconds ***"
+	}
+}

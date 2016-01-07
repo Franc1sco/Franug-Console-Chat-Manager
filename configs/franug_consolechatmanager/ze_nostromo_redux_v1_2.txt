@@ -1,0 +1,191 @@
+"Console_C"
+{
+	">>>ze_nostromo_redux_v1_2. Map by AngryAngus3<<<"
+	{
+		"default"		"{darkred}Console: >>>ze_nostromo_redux_v1_2. Map by AngryAngus3<<<"
+	}
+	">>>Alert, hypersleep interrupted! MU-TH-ER has detected non human life forms on the ship!<<<"
+	{
+		"default"		"{darkred}Console: >>>Alert, hypersleep interrupted! MU-TH-ER has detected non human life forms on the ship!<<<"
+	}
+	">>>You must navigate the ship and find Captian Dallas' keycard!<<<"
+	{
+		"default"		"{darkred}Console: >>>You must navigate the ship and find Captian Dallas' keycard!<<<"
+	}
+	">>>With it you can access MU-TH-ER's mainframe and gain access to engineering! <<<"
+	{
+		"default"		"{darkred}Console: >>>With it you can access MU-TH-ER's mainframe and gain access to engineering! <<<"
+	}
+	">>>Activate the self destruct mechanism and get the hell off this ship, don't let the alien escape!<<<"
+	{
+		"default"		"{darkred}Console: >>>Activate the self destruct mechanism and get the hell off this ship, don't let the alien escape!<<<"
+	}
+	">>>Good Luck!<<<"
+	{
+		"default"		"{darkred}Console: >>>Good Luck!<<<"
+	}
+	">>>MU-TH-ER reports the Aliens are using the ship's vents to move around! Be careful!<<<"
+	{
+		"default"		"{darkred}Console: >>>MU-TH-ER reports the Aliens are using the ship's vents to move around! Be careful!<<<"
+	}
+	"Hold off for 15 seconds and wait for the ladder access override!"
+	{
+		"default"		"{darkred}Console: Hold off for 15 seconds and wait for the ladder access override!"
+	}
+	">>> 5 seconds left! <<<"
+	{
+		"default"		"{darkred}Console: >>> 5 seconds left! <<<"
+	}
+	"Make a run to B deck! I hope you packed a flashlight today!"
+	{
+		"default"		"{darkred}Console: Make a run to B deck! I hope you packed a flashlight today!"
+	}
+	"Override the door controls to gain access to the Garage area!"
+	{
+		"default"		"{darkred}Console: Override the door controls to gain access to the Garage area!"
+	}
+	"Door override initiated, please wait 15 seconds"
+	{
+		"default"		"{darkred}Console: Door override initiated, please wait 15 seconds"
+	}
+	">>>Elevator Powering up in 5 seconds!<<<"
+	{
+		"default"		"{darkred}Console: >>>Elevator Powering up in 5 seconds!<<<"
+	}
+	">>>Hold off for 30 seconds and wait for the vent doors to open!<<<"
+	{
+		"default"		"{darkred}Console: >>>Hold off for 30 seconds and wait for the vent doors to open!<<<"
+	}
+	">>>5 seconds left!<<<"
+	{
+		"default"		"{darkred}Console: >>>5 seconds left!<<<"
+	}
+	">>>GO GO GO!<<<"
+	{
+		"default"		"{darkred}Console: >>>GO GO GO!<<<"
+	}
+	">>> Airlock button will activate in 15 seconds <<<"
+	{
+		"default"		"{darkred}Console: >>> Airlock button will activate in 15 seconds <<<"
+	}
+	">>> 5 seconds until airlock button activates <<<"
+	{
+		"default"		"{darkred}Console: >>> 5 seconds until airlock button activates <<<"
+	}
+	">>> Use airlock button to flush Aliens into space! <<<"
+	{
+		"default"		"{darkred}Console: >>> Use airlock button to flush Aliens into space! <<<"
+	}
+	">>>Access MU-TH-UR by using the keyboard!<<<"
+	{
+		"default"		"{darkred}Console: >>>Access MU-TH-UR by using the keyboard!<<<"
+	}
+	">>>Access Granted<<<"
+	{
+		"default"		"{darkred}Console: >>>Access Granted<<<"
+	}
+	"Airlock cycling, get out of there!"
+	{
+		"default"		"{darkred}Console: Airlock cycling, get out of there!"
+	}
+	">>>Interface 2037 Ready For Inquiry<<<"
+	{
+		"default"		"{darkred}Console: >>>Interface 2037 Ready For Inquiry<<<"
+	}
+	">>>Request Clarification: What is Special Order 937?<<<"
+	{
+		"default"		"{darkred}Console: >>>Request Clarification: What is Special Order 937?<<<"
+	}
+	">>>Priority one. Insure return of organism for analysis.<<<"
+	{
+		"default"		"{darkred}Console: >>>Priority one. Insure return of organism for analysis.<<<"
+	}
+	">>>All other considerations secondary. Crew Expendable<<<"
+	{
+		"default"		"{darkred}Console: >>>All other considerations secondary. Crew Expendable<<<"
+	}
+	">>>Request access to Engineering Service Passage<<<"
+	{
+		"default"		"{darkred}Console: >>>Request access to Engineering Service Passage<<<"
+	}
+	">>>Access Granted! GO GO GO!<<<"
+	{
+		"default"		"{darkred}Console: >>>Access Granted! GO GO GO!<<<"
+	}
+	">>>One person must initiate the self destruct sequence!<<<"
+	{
+		"default"		"{darkred}Console: >>>One person must initiate the self destruct sequence!<<<"
+	}
+	">>>Self destruct sequence preparing, hold off for 20 seconds!"
+	{
+		"default"		"{darkred}Console: >>>Self destruct sequence preparing, hold off for 20 seconds!"
+	}
+	">>>DANGER! THE EMERGENCY DESTRUCT SYSTEM IS NOW ACTIVATED!<<<"
+	{
+		"default"		"{darkred}Console: >>>DANGER! THE EMERGENCY DESTRUCT SYSTEM IS NOW ACTIVATED!<<<"
+	}
+	">>>THE SHIP WILL DETONATE IN T-MINUS 40 SECONDS!<<<"
+	{
+		"default"		"{darkred}Console: >>>THE SHIP WILL DETONATE IN T-MINUS 40 SECONDS!<<<"
+	}
+	">>>GO! GO! GO!<<<"
+	{
+		"default"		"{darkred}Console: >>>GO! GO! GO!<<<"
+	}
+	">>>Infirmary vent override in 15 seconds!<<<"
+	{
+		"default"		"{darkred}Console: >>>Infirmary vent override in 15 seconds!<<<"
+	}
+	">>>Vent opening in 5 seconds<<<"
+	{
+		"default"		"{darkred}Console: >>>Vent opening in 5 seconds<<<"
+	}
+	"'***Flamethrower is charging in 3 seconds!***'"
+	{
+		"default"		"{darkred}Console: '***Flamethrower is charging in 3 seconds!***'"
+	}
+	"'***Flamethrower recharging, 10 seconds!***'"
+	{
+		"default"		"{darkred}Console: '***Flamethrower recharging, 10 seconds!***'"
+	}
+	"'***Flamethrower ready!***'"
+	{
+		"default"		"{darkred}Console: '***Flamethrower ready!***'"
+	}
+	">>>Shuttle departs in 10 seconds! Doors are shutting in 5 seconds!<<<"
+	{
+		"default"		"{darkred}Console: >>>Shuttle departs in 10 seconds! Doors are shutting in 5 seconds!<<<"
+	}
+	">>>Shuttle has left!<<<"
+	{
+		"default"		"{darkred}Console: >>>Shuttle has left!<<<"
+	}
+	">>>T-MINUS 10 SECONDS<<<"
+	{
+		"default"		"{darkred}Console: >>>T-MINUS 10 SECONDS<<<"
+	}
+	">>>5<<<"
+	{
+		"default"		"{darkred}Console: >>>5<<<"
+	}
+	">>>4<<<"
+	{
+		"default"		"{darkred}Console: >>>4<<<"
+	}
+	">>>3<<<"
+	{
+		"default"		"{darkred}Console: >>>3<<<"
+	}
+	">>>2<<<"
+	{
+		"default"		"{darkred}Console: >>>2<<<"
+	}
+	">>>1<<<"
+	{
+		"default"		"{darkred}Console: >>>1<<<"
+	}
+	"Flamethrower picked up. Use to push aliens away!"
+	{
+		"default"		"{darkred}Console: Flamethrower picked up. Use to push aliens away!"
+	}
+}

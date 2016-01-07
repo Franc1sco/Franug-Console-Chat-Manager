@@ -1,0 +1,55 @@
+"Console_C"
+{
+	"***PLEASE READ THE CONSOLE COMMANDS!!!***"
+	{
+		"default"		"{darkred}Console: ***PLEASE READ THE CONSOLE COMMANDS!!!***"
+	}
+	"***welcome to ze_voodoo_islands***"
+	{
+		"default"		"{darkred}Console: ***welcome to ze_voodoo_islands***"
+	}
+	"***the voodoo master has challenged you to survive on 3 different islands. if you succeed you will enter heaven***"
+	{
+		"default"		"{darkred}Console: ***the voodoo master has challenged you to survive on 3 different islands. if you succeed you will enter heaven***"
+	}
+	"*** MAP BY denn15 ***"
+	{
+		"default"		"{darkred}Console: *** MAP BY denn15 ***"
+	}
+	"*** MODIFIED BY LeGrem ***"
+	{
+		"default"		"{darkred}Console: *** MODIFIED BY LeGrem ***"
+	}
+	"***in 10 seconds you will be teleported to the first island.***"
+	{
+		"default"		"{darkred}Console: ***in 10 seconds you will be teleported to the first island.***"
+	}
+	"***survive there for 1.5 minutes and the gate to the next island will be opened.***"
+	{
+		"default"		"{darkred}Console: ***survive there for 1.5 minutes and the gate to the next island will be opened.***"
+	}
+	"***good luck puny mortals. muahahaha...***"
+	{
+		"default"		"{darkred}Console: ***good luck puny mortals. muahahaha...***"
+	}
+	"***10 seconds till zombies are unleashed!!***"
+	{
+		"default"		"{darkred}Console: ***10 seconds till zombies are unleashed!!***"
+	}
+	"***zombies have been unleashed. defend against the zombies***"
+	{
+		"default"		"{darkred}Console: ***zombies have been unleashed. defend against the zombies***"
+	}
+	"***10 seconds till gates will open. prepare to run***"
+	{
+		"default"		"{darkred}Console: ***10 seconds till gates will open. prepare to run***"
+	}
+	"***the gates are open and the zombies have been trapped. GOGOGO***"
+	{
+		"default"		"{darkred}Console: ***the gates are open and the zombies have been trapped. GOGOGO***"
+	}
+	"*** The boat leaves in 20 seconds***"
+	{
+		"default"		"{darkred}Console: *** The boat leaves in 20 seconds***"
+	}
+}

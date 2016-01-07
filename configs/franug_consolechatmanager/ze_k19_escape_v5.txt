@@ -1,0 +1,55 @@
+"Console_C"
+{
+	"***Map Made by xXhamadryadesXx***"
+	{
+		"default"		"{darkred}Console: ***Map Made by xXhamadryadesXx***"
+	}
+	"***Wall will break in 20 sec***"
+	{
+		"default"		"{darkred}Console: ***Wall will break in 20 sec***"
+	}
+	"***Doors will opens in 20 sec***"
+	{
+		"default"		"{darkred}Console: ***Doors will opens in 20 sec***"
+	}
+	"***Shit ! the door is blocked ! Hold this position***"
+	{
+		"default"		"{darkred}Console: ***Shit ! the door is blocked ! Hold this position***"
+	}
+	"***Hold this position for 20 sec***"
+	{
+		"default"		"{darkred}Console: ***Hold this position for 20 sec***"
+	}
+	"***Defend this position for 20 sec***"
+	{
+		"default"		"{darkred}Console: ***Defend this position for 20 sec***"
+	}
+	"***Defend this position 20 sec***"
+	{
+		"default"		"{darkred}Console: ***Defend this position 20 sec***"
+	}
+	"***Defend this position for 15 sec***"
+	{
+		"default"		"{darkred}Console: ***Defend this position for 15 sec***"
+	}
+	"***Team Fall Back to the reactor room***"
+	{
+		"default"		"{darkred}Console: ***Team Fall Back to the reactor room***"
+	}
+	"***Defend the reactor for 20 sec***"
+	{
+		"default"		"{darkred}Console: ***Defend the reactor for 20 sec***"
+	}
+	"***Fuck! the reactor is uncontrollable, exit the K-19***"
+	{
+		"default"		"{darkred}Console: ***Fuck! the reactor is uncontrollable, exit the K-19***"
+	}
+	"***Crate will break in 25 sec***"
+	{
+		"default"		"{darkred}Console: ***Crate will break in 25 sec***"
+	}
+	"***Defend the exit for 25 sec***"
+	{
+		"default"		"{darkred}Console: ***Defend the exit for 25 sec***"
+	}
+}

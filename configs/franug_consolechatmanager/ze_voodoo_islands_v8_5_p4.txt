@@ -1,0 +1,99 @@
+"Console_C"
+{
+	"***Defend this island for 1.5 minutes***"
+	{
+		"default"		"{darkred}Console: ***Defend this island for 1.5 minutes***"
+	}
+	"***10 seconds till gates will open. prepare to run***"
+	{
+		"default"		"{darkred}Console: ***10 seconds till gates will open. prepare to run***"
+	}
+	"***the gates are open and the zombies have been trapped for 25 seconds. GOGOGO***"
+	{
+		"default"		"{darkred}Console: ***the gates are open and the zombies have been trapped for 25 seconds. GOGOGO***"
+	}
+	"***boat leaves in 8 seconds***"
+	{
+		"default"		"{darkred}Console: ***boat leaves in 8 seconds***"
+	}
+	"*** boat has taken off***"
+	{
+		"default"		"{darkred}Console: *** boat has taken off***"
+	}
+	"*** well done humans. you survived the first island.***"
+	{
+		"default"		"{darkred}Console: *** well done humans. you survived the first island.***"
+	}
+	"*** now survive this one for another 1.5 minutes and the teleporter to the next island is activated***"
+	{
+		"default"		"{darkred}Console: *** now survive this one for another 1.5 minutes and the teleporter to the next island is activated***"
+	}
+	"*** 10 seconds left till zombies are trapped. prepare to run to the teleporter***"
+	{
+		"default"		"{darkred}Console: *** 10 seconds left till zombies are trapped. prepare to run to the teleporter***"
+	}
+	"*** the zombies have been trapped for 25 seconds and the teleporter to the next island have been activated. GOGOGO***"
+	{
+		"default"		"{darkred}Console: *** the zombies have been trapped for 25 seconds and the teleporter to the next island have been activated. GOGOGO***"
+	}
+	"*** youve made it to the final island.***"
+	{
+		"default"		"{darkred}Console: *** youve made it to the final island.***"
+	}
+	"*** survive here for 1.5 minutes and the voodoo master will take you to the escape route to heaven***"
+	{
+		"default"		"{darkred}Console: *** survive here for 1.5 minutes and the voodoo master will take you to the escape route to heaven***"
+	}
+	"***voodoo master has created a force field from preventing you from falling off island***"
+	{
+		"default"		"{darkred}Console: ***voodoo master has created a force field from preventing you from falling off island***"
+	}
+	"***10 seconds till escape route opens***"
+	{
+		"default"		"{darkred}Console: ***10 seconds till escape route opens***"
+	}
+	"***entrance to escape route is now open and the zombies have been trapped for 20 seconds. GOGOGO***"
+	{
+		"default"		"{darkred}Console: ***entrance to escape route is now open and the zombies have been trapped for 20 seconds. GOGOGO***"
+	}
+	"***floating boxes will activate in 17 seconds***"
+	{
+		"default"		"{darkred}Console: ***floating boxes will activate in 17 seconds***"
+	}
+	"***floating boxes are activated. GOGOGO***"
+	{
+		"default"		"{darkred}Console: ***floating boxes are activated. GOGOGO***"
+	}
+	"*** teleporter activates in 30 seconds!!!***"
+	{
+		"default"		"{darkred}Console: *** teleporter activates in 30 seconds!!!***"
+	}
+	"*** god hates zombies. only humans allowed in heaven***"
+	{
+		"default"		"{darkred}Console: *** god hates zombies. only humans allowed in heaven***"
+	}
+	"*** teleporter activates in 15 seconds!!!***"
+	{
+		"default"		"{darkred}Console: *** teleporter activates in 15 seconds!!!***"
+	}
+	"*** teleporter activates in 5 seconds!!!***"
+	{
+		"default"		"{darkred}Console: *** teleporter activates in 5 seconds!!!***"
+	}
+	"*** well you made it to heaven. beatiful isnt it?***"
+	{
+		"default"		"{darkred}Console: *** well you made it to heaven. beatiful isnt it?***"
+	}
+	"*** take a look around and explore and enjoy your stay***"
+	{
+		"default"		"{darkred}Console: *** take a look around and explore and enjoy your stay***"
+	}
+	"*** hey wait what is this?***"
+	{
+		"default"		"{darkred}Console: *** hey wait what is this?***"
+	}
+	"*** oh shit!!!***"
+	{
+		"default"		"{darkred}Console: *** oh shit!!!***"
+	}
+}
