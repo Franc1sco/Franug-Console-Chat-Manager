@@ -93,6 +93,10 @@ public Action SayConsole(int client, int args)
 		char buffer[255], buffer2[255],soundp[255], soundt[255];
 		GetCmdArgString(buffer,sizeof(buffer));
 		StripQuotes(buffer);
+		if(kv == INVALID_HANDLE)
+		{
+			ReadT();
+		}
 		
 		if(!KvJumpToKey(kv, buffer))
 		{
