@@ -4,6 +4,8 @@
 #include <sdktools>
 #include <multicolors>
 #include <geoip>
+
+#pragma newdecls optional // fix compiling error
 #include <emitsoundany>
 
 #pragma newdecls required // let's go new syntax! 
