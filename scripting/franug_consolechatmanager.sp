@@ -25,7 +25,7 @@
 
 #pragma newdecls required // let's go new syntax! 
 
-#define VERSION "1.2"
+#define VERSION "1.2.1"
 
 Handle kv;
 char Path[PLATFORM_MAX_PATH];
@@ -43,7 +43,7 @@ public Plugin myinfo =
 
 public void OnPluginStart()
 {
-	CreateConVar("sm_consolechatmanager_version", VERSION, "", FCVAR_PLUGIN|FCVAR_SPONLY|FCVAR_REPLICATED|FCVAR_NOTIFY);
+	CreateConVar("sm_consolechatmanager_version", VERSION, "", FCVAR_SPONLY|FCVAR_REPLICATED|FCVAR_NOTIFY);
 	
 	RegConsoleCmd("say", SayConsole);
 	
@@ -66,6 +66,8 @@ public void OnMapStart()
 
 public void ReadT()
 {
+	delete kv;
+	
 	char map[64];
 	GetCurrentMap(map, sizeof(map));
 	BuildPath(Path_SM, Path, sizeof(Path), "configs/franug_consolechatmanager/%s.txt", map);
