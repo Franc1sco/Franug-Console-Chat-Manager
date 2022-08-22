@@ -70,7 +70,7 @@ public void ReadT()
 	
 	char map[64];
 	GetCurrentMap(map, sizeof(map));
-	BuildPath(Path_SM, Path, sizeof(Path), "configs/franug_consolechatmanager/%s.txt", map);
+	BuildPath(Path_SM, Path, sizeof(Path), "configs/consolechatmanager/%s.txt", map);
 	
 	kv = CreateKeyValues("Console_C");
 	
